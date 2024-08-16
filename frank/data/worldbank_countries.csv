@@ -1,0 +1,305 @@
+,id,iso2code,name,capitalcity,longitude,latitude,region.id,region.value,adminregion.id,adminregion.value
+0,ABW,AW,Aruba,Oranjestad,-70.0167,12.5167,LCN,Latin America & Caribbean ,,
+1,AFG,AF,Afghanistan,Kabul,69.1761,34.5228,SAS,South Asia,SAS,South Asia
+2,AFR,A9,Africa,,,,,Aggregates,,
+3,AGO,AO,Angola,Luanda,13.242,-8.81155,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+4,ALB,AL,Albania,Tirane,19.8172,41.3317,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+5,ANR,L5,Andean Region,,,,,Aggregates,,
+6,AND,AD,Andorra,Andorra la Vella,1.5218,42.5075,ECS,Europe & Central Asia,,
+7,ARB,1A,Arab World,,,,,Aggregates,,
+8,ARE,AE,United Arab Emirates,Abu Dhabi,54.3705,24.4764,MEA,Middle East & North Africa,,
+9,ARG,AR,Argentina,Buenos Aires,-58.4173,-34.6118,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+10,ASM,AS,American Samoa,Pago Pago,-170.691,-14.2846,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+11,ARM,AM,Armenia,Yerevan,44.509,40.1596,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+12,ATG,AG,Antigua and Barbuda,Saint John's,-61.8456,17.1175,LCN,Latin America & Caribbean ,,
+13,AUS,AU,Australia,Canberra,149.129,-35.282,EAS,East Asia & Pacific,,
+14,AUT,AT,Austria,Vienna,16.3798,48.2201,ECS,Europe & Central Asia,,
+15,BDI,BI,Burundi,Bujumbura,29.3639,-3.3784,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+16,AZE,AZ,Azerbaijan,Baku,49.8932,40.3834,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+17,BEA,B4,East Asia & Pacific (IBRD-only countries),,,,,Aggregates,,
+18,BEC,B7,Europe & Central Asia (IBRD-only countries),,,,,Aggregates,,
+19,BEL,BE,Belgium,Brussels,4.36761,50.8371,ECS,Europe & Central Asia,,
+20,BFA,BF,Burkina Faso,Ouagadougou,-1.53395,12.3605,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+21,BEN,BJ,Benin,Porto-Novo,2.6323,6.4779,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+22,BGD,BD,Bangladesh,Dhaka,90.4113,23.7055,SAS,South Asia,SAS,South Asia
+23,BHI,B1,IBRD countries classified as high income,,,,,Aggregates,,
+24,BGR,BG,Bulgaria,Sofia,23.3238,42.7105,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+25,BHS,BS,"Bahamas, The",Nassau,-77.339,25.0661,LCN,Latin America & Caribbean ,,
+26,BHR,BH,Bahrain,Manama,50.5354,26.1921,MEA,Middle East & North Africa,,
+27,BIH,BA,Bosnia and Herzegovina,Sarajevo,18.4214,43.8607,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+28,BLA,B2,Latin America & the Caribbean (IBRD-only countries),,,,,Aggregates,,
+29,BLR,BY,Belarus,Minsk,27.5766,53.9678,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+30,BMN,B3,Middle East & North Africa (IBRD-only countries),,,,,Aggregates,,
+31,BMU,BM,Bermuda,Hamilton,-64.706,32.3293,NAC,North America,,
+32,BLZ,BZ,Belize,Belmopan,-88.7713,17.2534,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+33,BOL,BO,Bolivia,La Paz,-66.1936,-13.9908,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+34,BRA,BR,Brazil,Brasilia,-47.9292,-15.7801,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+35,BRB,BB,Barbados,Bridgetown,-59.6105,13.0935,LCN,Latin America & Caribbean ,,
+36,BSS,B6,Sub-Saharan Africa (IBRD-only countries),,,,,Aggregates,,
+37,BRN,BN,Brunei Darussalam,Bandar Seri Begawan,114.946,4.94199,EAS,East Asia & Pacific,,
+38,BTN,BT,Bhutan,Thimphu,89.6177,27.5768,SAS,South Asia,SAS,South Asia
+39,BWA,BW,Botswana,Gaborone,25.9201,-24.6544,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+40,CAA,C9,Sub-Saharan Africa (IFC classification),,,,,Aggregates,,
+41,CAF,CF,Central African Republic,Bangui,21.6407,5.63056,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+42,CAN,CA,Canada,Ottawa,-75.6919,45.4215,NAC,North America,,
+43,CEB,B8,Central Europe and the Baltics,,,,,Aggregates,,
+44,CEU,C5,Europe and Central Asia (IFC classification),,,,,Aggregates,,
+45,CEA,C4,East Asia and the Pacific (IFC classification),,,,,Aggregates,,
+46,CHE,CH,Switzerland,Bern,7.44821,46.948,ECS,Europe & Central Asia,,
+47,CHI,JG,Channel Islands,,,,ECS,Europe & Central Asia,,
+48,CHN,CN,China,Beijing,116.286,40.0495,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+49,CHL,CL,Chile,Santiago,-70.6475,-33.475,LCN,Latin America & Caribbean ,,
+50,CIV,CI,Cote d'Ivoire,Yamoussoukro,-4.0305,5.332,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+51,CLA,C6,Latin America and the Caribbean (IFC classification),,,,,Aggregates,,
+52,CME,C7,Middle East and North Africa (IFC classification),,,,,Aggregates,,
+53,COD,CD,"Congo, Dem. Rep.",Kinshasa,15.3222,-4.325,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+54,CMR,CM,Cameroon,Yaounde,11.5174,3.8721,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+55,COG,CG,"Congo, Rep.",Brazzaville,15.2662,-4.2767,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+56,COL,CO,Colombia,Bogota,-74.082,4.60987,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+57,COM,KM,Comoros,Moroni,43.2418,-11.6986,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+58,CRI,CR,Costa Rica,San Jose,-84.0089,9.63701,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+59,CPV,CV,Cabo Verde,Praia,-23.5087,14.9218,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+60,CSA,C8,South Asia (IFC classification),,,,,Aggregates,,
+61,CSS,S3,Caribbean small states,,,,,Aggregates,,
+62,CUB,CU,Cuba,Havana,-82.3667,23.1333,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+63,CUW,CW,Curacao,Willemstad,,,LCN,Latin America & Caribbean ,,
+64,CYM,KY,Cayman Islands,George Town,-81.3857,19.3022,LCN,Latin America & Caribbean ,,
+65,CYP,CY,Cyprus,Nicosia,33.3736,35.1676,ECS,Europe & Central Asia,,
+66,CZE,CZ,Czech Republic,Prague,14.4205,50.0878,ECS,Europe & Central Asia,,
+67,DEA,D4,East Asia & Pacific (IDA-eligible countries),,,,,Aggregates,,
+68,DEU,DE,Germany,Berlin,13.4115,52.5235,ECS,Europe & Central Asia,,
+69,DFS,D8,IDA countries classified as Fragile Situations,,,,,Aggregates,,
+70,DEC,D7,Europe & Central Asia (IDA-eligible countries),,,,,Aggregates,,
+71,DJI,DJ,Djibouti,Djibouti,43.1425,11.5806,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+72,DLA,D2,Latin America & the Caribbean (IDA-eligible countries),,,,,Aggregates,,
+73,DMA,DM,Dominica,Roseau,-61.39,15.2976,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+74,DNF,D9,IDA countries not classified as Fragile Situations,,,,,Aggregates,,
+75,DMN,D3,Middle East & North Africa (IDA-eligible countries),,,,,Aggregates,,
+76,DNK,DK,Denmark,Copenhagen,12.5681,55.6763,ECS,Europe & Central Asia,,
+77,DNS,N6,IDA countries in Sub-Saharan Africa not classified as fragile situations ,,,,,Aggregates,,
+78,DOM,DO,Dominican Republic,Santo Domingo,-69.8908,18.479,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+79,DSF,F6,IDA countries in Sub-Saharan Africa classified as fragile situations ,,,,,Aggregates,,
+80,DSS,D6,Sub-Saharan Africa (IDA-eligible countries),,,,,Aggregates,,
+81,DSA,D5,South Asia (IDA-eligible countries),,,,,Aggregates,,
+82,DXS,6D,"IDA total, excluding Sub-Saharan Africa",,,,,Aggregates,,
+83,DZA,DZ,Algeria,Algiers,3.05097,36.7397,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+84,EAR,V2,Early-demographic dividend,,,,,Aggregates,,
+85,EAS,Z4,East Asia & Pacific,,,,,Aggregates,,
+86,ECA,7E,Europe & Central Asia (excluding high income),,,,,Aggregates,,
+87,ECS,Z7,Europe & Central Asia,,,,,Aggregates,,
+88,ECU,EC,Ecuador,Quito,-78.5243,-0.229498,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+89,EGY,EG,"Egypt, Arab Rep.",Cairo,31.2461,30.0982,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+90,EMU,XC,Euro area,,,,,Aggregates,,
+91,ERI,ER,Eritrea,Asmara,38.9183,15.3315,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+92,ESP,ES,Spain,Madrid,-3.70327,40.4167,ECS,Europe & Central Asia,,
+93,EST,EE,Estonia,Tallinn,24.7586,59.4392,ECS,Europe & Central Asia,,
+94,ETH,ET,Ethiopia,Addis Ababa,38.7468,9.02274,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+95,EUU,EU,European Union,,,,,Aggregates,,
+96,FCS,F1,Fragile and conflict affected situations,,,,,Aggregates,,
+97,FIN,FI,Finland,Helsinki,24.9525,60.1608,ECS,Europe & Central Asia,,
+98,EAP,4E,East Asia & Pacific (excluding high income),,,,,Aggregates,,
+99,FRA,FR,France,Paris,2.35097,48.8566,ECS,Europe & Central Asia,,
+100,FRO,FO,Faroe Islands,Torshavn,-6.91181,61.8926,ECS,Europe & Central Asia,,
+101,FSM,FM,"Micronesia, Fed. Sts.",Palikir,158.185,6.91771,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+102,FXS,6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",,,,,Aggregates,,
+103,GAB,GA,Gabon,Libreville,9.45162,0.38832,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+104,GBR,GB,United Kingdom,London,-0.126236,51.5002,ECS,Europe & Central Asia,,
+105,GEO,GE,Georgia,Tbilisi,44.793,41.71,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+106,GHA,GH,Ghana,Accra,-0.20795,5.57045,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+107,GIB,GI,Gibraltar,,,,ECS,Europe & Central Asia,,
+108,GIN,GN,Guinea,Conakry,-13.7,9.51667,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+109,GMB,GM,"Gambia, The",Banjul,-16.5885,13.4495,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+110,GNB,GW,Guinea-Bissau,Bissau,-15.1804,11.8037,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+111,GNQ,GQ,Equatorial Guinea,Malabo,8.7741,3.7523,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+112,GRC,GR,Greece,Athens,23.7166,37.9792,ECS,Europe & Central Asia,,
+113,GRD,GD,Grenada,Saint George's,-61.7449,12.0653,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+114,GRL,GL,Greenland,Nuuk,-51.7214,64.1836,ECS,Europe & Central Asia,,
+115,GTM,GT,Guatemala,Guatemala City,-90.5328,14.6248,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+116,GUM,GU,Guam,Agana,144.794,13.4443,EAS,East Asia & Pacific,,
+117,GUY,GY,Guyana,Georgetown,-58.1548,6.80461,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+118,HIC,XD,High income,,,,,Aggregates,,
+119,HKG,HK,"Hong Kong SAR, China",,114.109,22.3964,EAS,East Asia & Pacific,,
+120,HND,HN,Honduras,Tegucigalpa,-87.4667,15.1333,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+121,HPC,XE,Heavily indebted poor countries (HIPC),,,,,Aggregates,,
+122,HRV,HR,Croatia,Zagreb,15.9614,45.8069,ECS,Europe & Central Asia,,
+123,HTI,HT,Haiti,Port-au-Prince,-72.3288,18.5392,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+124,HUN,HU,Hungary,Budapest,19.0408,47.4984,ECS,Europe & Central Asia,,
+125,IBB,ZB,"IBRD, including blend",,,,,Aggregates,,
+126,FJI,FJ,Fiji,Suva,178.399,-18.1149,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+127,IBT,ZT,IDA & IBRD total,,,,,Aggregates,,
+128,IDA,XG,IDA total,,,,,Aggregates,,
+129,IDB,XH,IDA blend,,,,,Aggregates,,
+130,IDN,ID,Indonesia,Jakarta,106.83,-6.19752,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+131,IDX,XI,IDA only,,,,,Aggregates,,
+132,IMN,IM,Isle of Man,Douglas,-4.47928,54.1509,ECS,Europe & Central Asia,,
+133,IND,IN,India,New Delhi,77.225,28.6353,SAS,South Asia,SAS,South Asia
+134,INX,XY,Not classified,,,,,Aggregates,,
+135,IRL,IE,Ireland,Dublin,-6.26749,53.3441,ECS,Europe & Central Asia,,
+136,IRN,IR,"Iran, Islamic Rep.",Tehran,51.4447,35.6878,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+137,IRQ,IQ,Iraq,Baghdad,44.394,33.3302,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+138,ISL,IS,Iceland,Reykjavik,-21.8952,64.1353,ECS,Europe & Central Asia,,
+139,ISR,IL,Israel,,35.2035,31.7717,MEA,Middle East & North Africa,,
+140,ITA,IT,Italy,Rome,12.4823,41.8955,ECS,Europe & Central Asia,,
+141,JAM,JM,Jamaica,Kingston,-76.792,17.9927,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+142,JOR,JO,Jordan,Amman,35.9263,31.9497,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+143,JPN,JP,Japan,Tokyo,139.77,35.67,EAS,East Asia & Pacific,,
+144,KAZ,KZ,Kazakhstan,Astana,71.4382,51.1879,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+145,KEN,KE,Kenya,Nairobi,36.8126,-1.27975,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+146,KGZ,KG,Kyrgyz Republic,Bishkek,74.6057,42.8851,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+147,KHM,KH,Cambodia,Phnom Penh,104.874,11.5556,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+148,KIR,KI,Kiribati,Tarawa,172.979,1.32905,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+149,KNA,KN,St. Kitts and Nevis,Basseterre,-62.7309,17.3,LCN,Latin America & Caribbean ,,
+150,KOR,KR,"Korea, Rep.",Seoul,126.957,37.5323,EAS,East Asia & Pacific,,
+151,KSV,XK,Kosovo,Pristina,20.926,42.565,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+152,KWT,KW,Kuwait,Kuwait City,47.9824,29.3721,MEA,Middle East & North Africa,,
+153,LAC,XJ,Latin America & Caribbean (excluding high income),,,,,Aggregates,,
+154,LAO,LA,Lao PDR,Vientiane,102.177,18.5826,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+155,LBN,LB,Lebanon,Beirut,35.5134,33.8872,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+156,LBR,LR,Liberia,Monrovia,-10.7957,6.30039,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+157,LBY,LY,Libya,Tripoli,13.1072,32.8578,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+158,LCA,LC,St. Lucia,Castries,-60.9832,14.0,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+159,LCN,ZJ,Latin America & Caribbean ,,,,,Aggregates,,
+160,LCR,L4,Latin America and the Caribbean,,,,,Aggregates,,
+161,LDC,XL,Least developed countries: UN classification,,,,,Aggregates,,
+162,LIC,XM,Low income,,,,,Aggregates,,
+163,LIE,LI,Liechtenstein,Vaduz,9.52148,47.1411,ECS,Europe & Central Asia,,
+164,LKA,LK,Sri Lanka,Colombo,79.8528,6.92148,SAS,South Asia,SAS,South Asia
+165,LMC,XN,Lower middle income,,,,,Aggregates,,
+166,LMY,XO,Low & middle income,,,,,Aggregates,,
+167,LSO,LS,Lesotho,Maseru,27.7167,-29.5208,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+168,LTE,V3,Late-demographic dividend,,,,,Aggregates,,
+169,LTU,LT,Lithuania,Vilnius,25.2799,54.6896,ECS,Europe & Central Asia,,
+170,LUX,LU,Luxembourg,Luxembourg,6.1296,49.61,ECS,Europe & Central Asia,,
+171,LVA,LV,Latvia,Riga,24.1048,56.9465,ECS,Europe & Central Asia,,
+172,MAC,MO,"Macao SAR, China",,113.55,22.1667,EAS,East Asia & Pacific,,
+173,MAF,MF,St. Martin (French part),Marigot,,,LCN,Latin America & Caribbean ,,
+174,MAR,MA,Morocco,Rabat,-6.8704,33.9905,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+175,MCA,L6,Central America,,,,,Aggregates,,
+176,IBD,XF,IBRD only,,,,,Aggregates,,
+177,MDA,MD,Moldova,Chisinau,28.8497,47.0167,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+178,MDE,M1,Middle East (developing only),,,,,Aggregates,,
+179,MDG,MG,Madagascar,Antananarivo,45.7167,-20.4667,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+180,MDV,MV,Maldives,Male,73.5109,4.1742,SAS,South Asia,SAS,South Asia
+181,MEA,ZQ,Middle East & North Africa,,,,,Aggregates,,
+182,MEX,MX,Mexico,Mexico City,-99.1276,19.427,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+183,MHL,MH,Marshall Islands,Majuro,171.135,7.11046,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+184,MIC,XP,Middle income,,,,,Aggregates,,
+185,MKD,MK,"Macedonia, FYR",Skopje,21.4361,42.0024,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+186,MLI,ML,Mali,Bamako,-7.50034,13.5667,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+187,MLT,MT,Malta,Valletta,14.5189,35.9042,MEA,Middle East & North Africa,,
+188,MMR,MM,Myanmar,Naypyidaw,95.9562,21.914,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+189,MNA,XQ,Middle East & North Africa (excluding high income),,,,,Aggregates,,
+190,MNE,ME,Montenegro,Podgorica,19.2595,42.4602,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+191,MNG,MN,Mongolia,Ulaanbaatar,106.937,47.9129,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+192,MNP,MP,Northern Mariana Islands,Saipan,145.765,15.1935,EAS,East Asia & Pacific,,
+193,MOZ,MZ,Mozambique,Maputo,32.5713,-25.9664,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+194,MRT,MR,Mauritania,Nouakchott,-15.9824,18.2367,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+195,MUS,MU,Mauritius,Port Louis,57.4977,-20.1605,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+196,MWI,MW,Malawi,Lilongwe,33.7703,-13.9899,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+197,MYS,MY,Malaysia,Kuala Lumpur,101.684,3.12433,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+198,NAC,XU,North America,,,,,Aggregates,,
+199,NAF,M2,North Africa,,,,,Aggregates,,
+200,NAM,,Namibia,Windhoek,17.0931,-22.5648,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+201,NCL,NC,New Caledonia,Noum'ea,166.464,-22.2677,EAS,East Asia & Pacific,,
+202,NER,NE,Niger,Niamey,2.1073,13.514,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+203,NGA,NG,Nigeria,Abuja,7.48906,9.05804,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+204,NIC,NI,Nicaragua,Managua,-86.2734,12.1475,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+205,NLD,NL,Netherlands,Amsterdam,4.89095,52.3738,ECS,Europe & Central Asia,,
+206,NLS,6L,"Non-resource rich Sub-Saharan Africa countries, of which landlocked",,,,,Aggregates,,
+207,NOR,NO,Norway,Oslo,10.7387,59.9138,ECS,Europe & Central Asia,,
+208,NPL,NP,Nepal,Kathmandu,85.3157,27.6939,SAS,South Asia,SAS,South Asia
+209,NRS,6X,Non-resource rich Sub-Saharan Africa countries,,,,,Aggregates,,
+210,NRU,NR,Nauru,Yaren District,166.920867,-0.5477,EAS,East Asia & Pacific,,
+211,NXS,6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",,,,,Aggregates,,
+212,NZL,NZ,New Zealand,Wellington,174.776,-41.2865,EAS,East Asia & Pacific,,
+213,OED,OE,OECD members,,,,,Aggregates,,
+214,OMN,OM,Oman,Muscat,58.5874,23.6105,MEA,Middle East & North Africa,,
+215,OSS,S4,Other small states,,,,,Aggregates,,
+216,PAK,PK,Pakistan,Islamabad,72.8,30.5167,SAS,South Asia,SAS,South Asia
+217,PAN,PA,Panama,Panama City,-79.5188,8.99427,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+218,PER,PE,Peru,Lima,-77.0465,-12.0931,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+219,PHL,PH,Philippines,Manila,121.035,14.5515,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+220,PLW,PW,Palau,Koror,134.479,7.34194,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+221,PNG,PG,Papua New Guinea,Port Moresby,147.194,-9.47357,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+222,POL,PL,Poland,Warsaw,21.02,52.26,ECS,Europe & Central Asia,,
+223,PRE,V1,Pre-demographic dividend,,,,,Aggregates,,
+224,PRI,PR,Puerto Rico,San Juan,-66.0,18.23,LCN,Latin America & Caribbean ,,
+225,PRK,KP,"Korea, Dem. People’s Rep.",Pyongyang,125.754,39.0319,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+226,PRT,PT,Portugal,Lisbon,-9.13552,38.7072,ECS,Europe & Central Asia,,
+227,PRY,PY,Paraguay,Asuncion,-57.6362,-25.3005,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+228,PSE,PS,West Bank and Gaza,,,,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+229,PSS,S2,Pacific island small states,,,,,Aggregates,,
+230,PST,V4,Post-demographic dividend,,,,,Aggregates,,
+231,PYF,PF,French Polynesia,Papeete,-149.57,-17.535,EAS,East Asia & Pacific,,
+232,QAT,QA,Qatar,Doha,51.5082,25.2948,MEA,Middle East & North Africa,,
+233,ROU,RO,Romania,Bucharest,26.0979,44.4479,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+234,RRS,R6,Resource rich Sub-Saharan Africa countries,,,,,Aggregates,,
+235,RSO,O6,"Resource rich Sub-Saharan Africa countries, of which oil exporters",,,,,Aggregates,,
+236,RUS,RU,Russian Federation,Moscow,37.6176,55.7558,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+237,RWA,RW,Rwanda,Kigali,30.0587,-1.95325,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+238,SAS,8S,South Asia,,,,,Aggregates,,
+239,SAU,SA,Saudi Arabia,Riyadh,46.6977,24.6748,MEA,Middle East & North Africa,,
+240,SCE,L7,Southern Cone,,,,,Aggregates,,
+241,SDN,SD,Sudan,Khartoum,32.5363,15.5932,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+242,SEN,SN,Senegal,Dakar,-17.4734,14.7247,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+243,SGP,SG,Singapore,Singapore,103.85,1.28941,EAS,East Asia & Pacific,,
+244,SLB,SB,Solomon Islands,Honiara,159.949,-9.42676,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+245,SLE,SL,Sierra Leone,Freetown,-13.2134,8.4821,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+246,MCO,MC,Monaco,Monaco,7.41891,43.7325,ECS,Europe & Central Asia,,
+247,SMR,SM,San Marino,San Marino,12.4486,43.9322,ECS,Europe & Central Asia,,
+248,SLV,SV,El Salvador,San Salvador,-89.2073,13.7034,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+249,SOM,SO,Somalia,Mogadishu,45.3254,2.07515,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+250,SRB,RS,Serbia,Belgrade,20.4656,44.8024,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+251,SSD,SS,South Sudan,Juba,31.6,4.85,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+252,SSF,ZG,Sub-Saharan Africa ,,,,,Aggregates,,
+253,SST,S1,Small states,,,,,Aggregates,,
+254,SSA,ZF,Sub-Saharan Africa (excluding high income),,,,,Aggregates,,
+255,SUR,SR,Suriname,Paramaribo,-55.1679,5.8232,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+256,STP,ST,Sao Tome and Principe,Sao Tome,6.6071,0.20618,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+257,SVN,SI,Slovenia,Ljubljana,14.5044,46.0546,ECS,Europe & Central Asia,,
+258,SVK,SK,Slovak Republic,Bratislava,17.1073,48.1484,ECS,Europe & Central Asia,,
+259,SWZ,SZ,Swaziland,Mbabane,31.4659,-26.5225,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+260,SXM,SX,Sint Maarten (Dutch part),Philipsburg,,,LCN,Latin America & Caribbean ,,
+261,SWE,SE,Sweden,Stockholm,18.0645,59.3327,ECS,Europe & Central Asia,,
+262,SYC,SC,Seychelles,Victoria,55.4466,-4.6309,SSF,Sub-Saharan Africa ,,
+263,SYR,SY,Syrian Arab Republic,Damascus,36.3119,33.5146,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+264,SXZ,A4,Sub-Saharan Africa excluding South Africa,,,,,Aggregates,,
+265,TCA,TC,Turks and Caicos Islands,Grand Turk,-71.141389,21.4602778,LCN,Latin America & Caribbean ,,
+266,TEA,T4,East Asia & Pacific (IDA & IBRD countries),,,,,Aggregates,,
+267,TCD,TD,Chad,N'Djamena,15.0445,12.1048,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+268,TGO,TG,Togo,Lome,1.2255,6.1228,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+269,THA,TH,Thailand,Bangkok,100.521,13.7308,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+270,TEC,T7,Europe & Central Asia (IDA & IBRD countries),,,,,Aggregates,,
+271,TJK,TJ,Tajikistan,Dushanbe,68.7864,38.5878,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+272,TLA,T2,Latin America & the Caribbean (IDA & IBRD countries),,,,,Aggregates,,
+273,TKM,TM,Turkmenistan,Ashgabat,58.3794,37.9509,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+274,TMN,T3,Middle East & North Africa (IDA & IBRD countries),,,,,Aggregates,,
+275,TLS,TL,Timor-Leste,Dili,125.567,-8.56667,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+276,TSA,T5,South Asia (IDA & IBRD),,,,,Aggregates,,
+277,TON,TO,Tonga,Nuku'alofa,-175.216,-21.136,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+278,TTO,TT,Trinidad and Tobago,Port-of-Spain,-61.4789,10.6596,LCN,Latin America & Caribbean ,,
+279,TSS,T6,Sub-Saharan Africa (IDA & IBRD countries),,,,,Aggregates,,
+280,TUR,TR,Turkey,Ankara,32.3606,39.7153,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+281,TUV,TV,Tuvalu,Funafuti,179.089567,-8.6314877,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+282,TWN,TW,"Taiwan, China",,,,EAS,East Asia & Pacific,,
+283,TZA,TZ,Tanzania,Dodoma,35.7382,-6.17486,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+284,UGA,UG,Uganda,Kampala,32.5729,0.314269,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+285,UKR,UA,Ukraine,Kiev,30.5038,50.4536,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+286,UMC,XT,Upper middle income,,,,,Aggregates,,
+287,URY,UY,Uruguay,Montevideo,-56.0675,-34.8941,LCN,Latin America & Caribbean ,,
+288,USA,US,United States,Washington D.C.,-77.032,38.8895,NAC,North America,,
+289,UZB,UZ,Uzbekistan,Tashkent,69.269,41.3052,ECS,Europe & Central Asia,ECA,Europe & Central Asia (excluding high income)
+290,VCT,VC,St. Vincent and the Grenadines,Kingstown,-61.2653,13.2035,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+291,VEN,VE,"Venezuela, RB",Caracas,-69.8371,9.08165,LCN,Latin America & Caribbean ,LAC,Latin America & Caribbean (excluding high income)
+292,VGB,VG,British Virgin Islands,Road Town,-64.623056,18.431389,LCN,Latin America & Caribbean ,,
+293,VIR,VI,Virgin Islands (U.S.),Charlotte Amalie,-64.8963,18.3358,LCN,Latin America & Caribbean ,,
+294,VNM,VN,Vietnam,Hanoi,105.825,21.0069,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+295,VUT,VU,Vanuatu,Port-Vila,168.321,-17.7404,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+296,WLD,1W,World,,,,,Aggregates,,
+297,WSM,WS,Samoa,Apia,-171.752,-13.8314,EAS,East Asia & Pacific,EAP,East Asia & Pacific (excluding high income)
+298,XZN,A5,Sub-Saharan Africa excluding South Africa and Nigeria,,,,,Aggregates,,
+299,YEM,YE,"Yemen, Rep.",Sana'a,44.2075,15.352,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)
+300,ZAF,ZA,South Africa,Pretoria,28.1871,-25.746,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+301,ZMB,ZM,Zambia,Lusaka,28.2937,-15.3982,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+302,ZWE,ZW,Zimbabwe,Harare,31.0672,-17.8312,SSF,Sub-Saharan Africa ,SSA,Sub-Saharan Africa (excluding high income)
+303,TUN,TN,Tunisia,Tunis,10.21,36.7899,MEA,Middle East & North Africa,MNA,Middle East & North Africa (excluding high income)

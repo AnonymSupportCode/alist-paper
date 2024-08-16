@@ -1,0 +1,5229 @@
+,Unnamed: 0,id,label
+0,0,P513,(obsolete) birth name (use p1477)
+1,1,P1014,aat identifier
+2,2,P1014,aat id
+3,3,P1014,art & architecture thesaurus id
+4,4,P357,"(obsolete) title (use p1476, ""title"")"
+5,5,P1806,abok number
+6,6,P1251,abs ascl code
+7,7,P864,acm digital library author identifier
+8,8,P864,acm dl id
+9,9,P864,acm dl
+10,10,P2472,acma register of radiocommunications licences client identifier
+11,11,P819,ads bibcode
+12,12,P2345,agorha event identifier
+13,13,P2179,acm classification code (2012)
+14,14,P2344,agorha work id
+15,15,P999,aricns
+16,16,P1371,asi monument id
+17,17,P267,atc code
+18,18,P1668,atcvet
+19,19,P536,atp id
+20,20,P1115,atvk id
+21,21,P2342,agorha person/institution id
+22,22,P2342,agorha
+23,23,P1252,austlang code
+24,24,P1252,aiatsis code
+25,25,P2080,academianet
+26,26,P2540,aarne–thompson–uther tale type index
+27,27,P2540,atu index
+28,28,P2036,african plant database
+29,29,P1744,agassiz et al checklist number
+30,30,P799,air ministry specification id
+31,31,P799,specification
+32,32,P799,uk air ministry specification
+33,33,P759,alberta register of historic places identifier
+34,34,P1661,alexa rank
+35,35,P1348,algaebase url
+36,36,P2019,allmovie artist id
+37,37,P1562,allmovie movie id
+38,38,P2381,academic tree id
+39,39,P2381,the academic family tree
+40,40,P1728,allmusic artist id
+41,41,P1994,allmusic composition id
+42,42,P1729,allmusic album id
+43,43,P1730,allmusic song id
+44,44,P1266,allociné person id
+45,45,P1266,allocine person id
+46,46,P1267,allociné series id
+47,47,P1267,allocine series id
+48,48,P1267,allocine serie id
+49,49,P1267,allociné serie id
+50,50,P1688,anidb identifier
+51,51,P1934,animator.ru film id
+52,52,P1934,animator.ru work id
+53,53,P1985,anime news network anime id
+54,54,P1985,ann anime id
+55,55,P1265,allociné movie id
+56,56,P1265,allocine movie id
+57,57,P1265,allocine film id
+58,58,P1984,anime news network manga id
+59,59,P1984,ann manga id
+60,60,P1983,anime news network company id
+61,61,P1983,ann company id
+62,62,P1982,anime news network person id
+63,63,P1982,ann person id
+64,64,P1679,art uk artwork identifier
+65,65,P1751,art uk collection identifier
+66,66,P1751,your paintings collection identifier
+67,67,P1751,bbc your paintings collection identifier
+68,68,P2042,artsy artist id
+69,69,P2042,artsy artist identifier
+70,70,P2042,artsy id
+71,71,P2411,artsy gene
+72,72,P2411,artsy.net gene
+73,73,P1367,art uk artist identifier
+74,74,P1367,bbc your paintings artist identifier
+75,75,P1367,pcf id
+76,76,P1367,public catalogue foundation id
+77,77,P1367,your paintings id
+78,78,P1291,association authors of switzerland id
+79,79,P1291,ads id
+80,80,P1564,at the circulating library id
+81,81,P1564,atcl author
+82,82,P2473,asset of local relevance id
+83,83,P1212,atlas id
+84,84,P2457,australian national shipwreck database shipwreck id number
+85,85,P2457,shipwreck id number (australian national shipwreck database)
+86,86,P2367,australian stratigraphic units database id
+87,87,P2516,australian wetlands database australian ramsar site number
+88,88,P2584,australian wetlands database directory of important wetlands reference code
+89,89,P1907,australian dictionary of biography identifier
+90,90,P1907,audb id
+91,91,P1907,adb
+92,92,P2280,austrian parliament id
+93,93,P964,austrian municipality key
+94,94,P1760,aviation safety network wikibase occurrence
+95,95,P1760,asnwo
+96,96,P1760,asn wikibase occurrence
+97,97,P1755,aviation safety network accident description id
+98,98,P1755,asnadid
+99,99,P1755,asnid
+100,100,P1755,asn accident id
+101,101,P981,bag-code for dutch locations
+102,102,P981,bag-code for dutch towns
+103,103,P1901,balat person/organisation id
+104,104,P2026,avibase id
+105,105,P2026,birds of the world id
+106,106,P1823,banq id
+107,107,P1017,bav (vatican library) identifier
+108,108,P1017,bav
+109,109,P2173,bbc news democracy live identifier
+110,110,P1617,bbc things identifer
+111,111,P1602,bbc your paintings venue identifier
+112,112,P1602,your paintings venue identifier
+113,113,P1602,bbc your paintings gallery identifier
+114,114,P1602,bbc your paintings museum identifier
+115,115,P1573,bbc genome identifier
+116,116,P1650,bbf identifier
+117,117,P2099,bc geographical names id
+118,118,P1253,bcu ecrivainsvd
+119,119,P732,bgs lexicon id
+120,120,P687,bhl page id
+121,121,P1015,bibsys identifier
+122,122,P2081,bldam object id
+123,123,P865,bmlo
+124,124,P1143,bn (argentine) editions
+125,125,P1143,bn id
+126,126,P1890,bnc identifier
+127,127,P827,bbc program identifier
+128,128,P827,pid
+129,129,P827,bbc pid
+130,130,P827,pips identifier
+131,131,P508,bncf thesaurus
+132,132,P508,bncf
+133,133,P2581,babelnet id
+134,134,P950,bne identifier
+135,135,P2580,baltisches biographisches lexikon digital id
+136,136,P2100,banque de noms de lieux du québec id
+137,137,P1825,baseball-reference.com major league player id
+138,138,P1825,brcmlbid
+139,139,P1826,baseball-reference.com minor league player id
+140,140,P1826,brcmilbid
+141,141,P1579,beilstein registry number
+142,142,P1948,berlpap identifier
+143,143,P1948,berlpap id
+144,144,P2390,ballotpedia id
+145,145,P2390,ballotpedia article
+146,146,P2424,berlin cultural heritage id
+147,147,P2424,berliner denkmaldatenbank id
+148,148,P2188,biblionet author identifier
+149,149,P2189,biblionet publisher identifier
+150,150,P1966,biblioteca nacional de chile catalogue number
+151,151,P1966,bnc catalogue number
+152,152,P1966,bn catalogue number
+153,153,P2092,bildindex der kunst und architektur id
+154,154,P2092,bildindex id
+155,155,P2187,biblionet publication identifier
+156,156,P1790,biostor author identifier
+157,157,P651,biografisch portaal number
+158,158,P651,bpn
+159,159,P1162,bluebook abbreviation
+160,160,P838,biolib id
+161,161,P2339,boardgamegeek id
+162,162,P1237,box office mojo film id
+163,163,P1237,boxofficemojo
+164,164,P268,bnf identifier
+165,165,P268,bnf
+166,166,P2531,box office mojo studio id
+167,167,P1967,boxrec id
+168,168,P1743,bradley and fletcher checklist number
+169,169,P1585,brazilian municipality code
+170,170,P2530,box office mojo franchise id
+171,171,P1711,british museum person-institution
+172,172,P1711,bm id
+173,173,P1711,bmt id
+174,174,P2464,bugguide id
+175,175,P2190,c-span identifier of a person
+176,176,P270,calis
+177,177,P2399,british council artist id
+178,178,P231,cas registry number
+179,179,P231,cas number
+180,180,P231,casrn
+181,181,P497,cbdb id
+182,182,P1273,cantic
+183,183,P1273,bnc
+184,184,P2072,cdb chemical id
+185,185,P2086,cdd public id
+186,186,P2474,cdli id
+187,187,P476,celex number
+188,188,P1871,cerl id
+189,189,P1871,cerl identifier
+190,190,P382,cbs municipality code
+191,191,P382,municipality code (netherlands)
+192,192,P2340,cesar person id
+193,193,P2340,cesar id
+194,194,P821,cgndb unique identifier
+195,195,P821,cgndb
+196,196,P2040,cites species+ id
+197,197,P1615,clara-id
+198,198,P853,cero rating
+199,199,P853,computer entertainment rating organization rating
+200,200,P1022,cno-11 occupation code
+201,201,P1159,coden
+202,202,P1209,cn
+203,203,P1209,gapp identifier
+204,204,P1209,sapprft identified
+205,205,P1209,sapprft id.
+206,206,P1280,conor identifier
+207,207,P1280,conor.si
+208,208,P247,cospar id
+209,209,P247,international designator
+210,210,P247,cospar designation
+211,211,P247,nssdc id
+212,212,P2000,cpdl id
+213,213,P2000,choralwiki id
+214,214,P880,cpu
+215,215,P880,central processing unit
+216,216,P1669,cona  identifier
+217,217,P1669,cultural objects names authority identifier
+218,218,P1669,cultural objects names authority id
+219,219,P2383,cths person id
+220,220,P1059,cvr number
+221,221,P1059,central business register
+222,222,P1459,cadw building id
+223,223,P2287,cristin id
+224,224,P2287,norwegian scientific index id
+225,225,P2287,nvi
+226,226,P1599,cambridge alumni database id
+227,227,P1599,acad
+228,228,P1599,venn
+229,229,P718,canmore id
+230,230,P718,rcahms
+231,231,P2498,catalan biographical dictionary of women id
+232,232,P2498,diccionari biogràfic de dones
+233,233,P2498,biographical dictionary of women (catalan ) id
+234,234,P1586,catalan object of cultural interest id
+235,235,P1586,bcin
+236,236,P1586,bcil
+237,237,P477,canadian register of historic places identifier
+238,238,P477,historic places identifier
+239,239,P2005,catalogus professorum halensis
+240,240,P2033,category for pictures taken with camera
+241,241,P2033,taken with this camera
+242,242,P2033,commons photos by camera category
+243,243,P1866,catholic hierarchy diocese id
+244,244,P1047,catholic hierarchy person id
+245,245,P1047,catholic hierarchy bishop identifier
+246,246,P2158,cell line ontology id
+247,247,P683,chebi id
+248,248,P683,chemical entities of biological interest
+249,249,P592,chembl id
+250,250,P661,chemspider id
+251,251,P2382,chemins de mémoire id
+252,252,P2016,catalogus professorum academiae groninganae id
+253,253,P2016,cpag id
+254,254,P1665,chess games id
+255,255,P1666,chess club id
+256,256,P1631,china vitae id
+257,257,P1378,china railway tmis station code
+258,258,P1189,chinese library classification
+259,259,P1189,clc
+260,260,P779,church of sweden pastoratskod
+261,261,P779,pastoratskod
+262,262,P779,church of sweden pastoratskod
+263,263,P778,church of sweden parish code
+264,264,P778,församlingskod
+265,265,P778,code for parishes in the church of sweden
+266,266,P271,cinii author identifier
+267,267,P442,china administrative division code
+268,268,P2357,classification of instructional programs code
+269,269,P2357,classification of instructional programs id
+270,270,P2357,cip code
+271,271,P2357,cip id
+272,272,P1739,cinii book identifer
+273,273,P1739,ncid
+274,274,P944,code of nomenclature
+275,275,P1929,clinvar accession
+276,276,P2461,comlaw id
+277,277,P1735,comedien.ch identifier
+278,278,P1392,comicbookdb id
+279,279,P1472,commons creator page
+280,280,P1472,creator page
+281,281,P1612,commons institution page
+282,282,P1612,institution template
+283,283,P373,commons category
+284,284,P373,commonscat
+285,285,P373,category commons
+286,286,P935,commons gallery
+287,287,P935,gallery
+288,288,P1920,commonwealth war graves commission burial ground identifier
+289,289,P1908,commonwealth war graves commission person identifier
+290,290,P2027,colour index international constitution id
+291,291,P2027,ciic id
+292,292,P2027,constitution id
+293,293,P2507,corrigendum / erratum
+294,294,P2507,corrigendum
+295,295,P2507,errata
+296,296,P2507,erratum
+297,297,P2011,cooper-hewitt person id
+298,298,P2088,crunchbase organisation id
+299,299,P1949,culturaitalia id
+300,300,P1260,cultural heritage database in sweden
+301,301,P1409,cycling archives id (cyclist)
+302,302,P2087,crunchbase person id
+303,303,P2331,cycling archives id (team)
+304,304,P1664,cycling database id
+305,305,P1541,"cycling quotient identifier (cyclist, man)"
+306,306,P1541,cqranking
+307,307,P762,czech cultural heritage id
+308,308,P2330,cycling archives id (race)
+309,309,P1935,dbcs id
+310,310,P1935,dbcs identifier
+311,311,P1935,database of classical scholars identifier
+312,312,P723,dbnl id
+313,313,P723,digitale bibliotheek voor de nederlandse letteren identifier
+314,314,P723,digital library for dutch literature identifier
+315,315,P1133,dgo4 identifier
+316,316,P733,dinoloket
+317,317,P2185,dli identifier
+318,318,P1707,daao identifier
+319,319,P1292,dnb editions
+320,320,P1662,doi prefix
+321,321,P760,dpla id
+322,322,P1822,dsh object id
+323,323,P663,dsm iv
+324,324,P1930,dsm v
+325,325,P1930,dsmv
+326,326,P1930,dsm 5
+327,327,P1930,dsm5
+328,328,P1788,dvn identifier
+329,329,P714,dana 8th edition
+330,330,P1069,danemark job code (disco-08)
+331,331,P1250,danish bibliometric research indicator (bfi) sno/cno
+332,332,P1250,bfi sno
+333,333,P1250,bfi cno
+334,334,P1240,danish bibliometric research indicator level
+335,335,P1240,bfi level
+336,336,P1804,danish national filmography id
+337,337,P2290,danish parish code
+338,338,P1894,danish urban area code
+339,339,P2255,debrett's people of today id
+340,340,P1883,declarator.org id
+341,341,P1988,delarge id
+342,342,P1588,desa code of indonesia
+343,343,P1588,desa code
+344,344,P2162,deutsche ultramarathon-vereinigung id
+345,345,P2162,duv id
+346,346,P1036,dewey decimal classification
+347,347,P1036,ddc
+348,348,P1036,q48460
+349,349,P2253,dfe urn
+350,350,P2253,department for education urn
+351,351,P2253,edubase urn
+352,352,P2253,edubase id
+353,353,P2253,department for education unique reference number
+354,354,P2253,urn of department of education
+355,355,P1187,dharma drum buddhist college person id
+356,356,P1188,dharma drum buddhist college place id
+357,357,P1610,dialnet article
+358,358,P1607,dialnet author id
+359,359,P1608,dialnet book
+360,360,P1609,dialnet journal
+361,361,P2332,dictionary of art historians id
+362,362,P1888,dictionary of medieval names from european sources entry
+363,363,P1888,dmnes
+364,364,P2029,dictionary of ulster biography id
+365,365,P2029,dub id
+366,366,P2029,doub id
+367,367,P1648,dictionary of welsh biography id
+368,368,P1648,dwb
+369,369,P1276,dictionnaire du jura id
+370,370,P1276,diju
+371,371,P1936,digital atlas of the roman empire id
+372,372,P1936,dare id
+373,373,P1032,digital rights management system
+374,374,P1953,discogs artist id
+375,375,P1955,discogs label id
+376,376,P1954,discogs master id
+377,377,P2206,discogs release id
+378,378,P699,disease ontology id
+379,379,P557,diseasesdb
+380,380,P1986,dizionario biografico degli italiani
+381,381,P1986,dbi
+382,382,P1986,treccani
+383,383,P1986,enciclopedia treccani
+384,384,P1986,encyclopedia treccani
+385,385,P701,dodis
+386,386,P701,dodis id
+387,387,P715,drugbank id
+388,388,P1959,dutch senate person id
+389,389,P1959,dsp id
+390,390,P1939,dyntaxa id
+391,391,P1939,swedish taxonomic database id
+392,392,P1939,swedish species information centre
+393,393,P628,e number
+394,394,P1900,eagle id
+395,395,P660,ec classification
+396,396,P660,enzyme commission classification name
+397,397,P591,ec number
+398,398,P591,enzyme commission number
+399,399,P2566,echa infocard id
+400,400,P2566,infocard id
+401,401,P303,ee breed number
+402,402,P303,breed number
+403,403,P1309,egaxa identifier
+404,404,P1140,ehak id
+405,405,P232,einecs number
+406,406,P232,european commission number
+407,407,P232,ec no.
+408,408,P232,einecs no.
+409,409,P232,ec#
+410,410,P232,ec number (of chemical compound)
+411,411,P1116,elstat geographical code
+412,412,P1802,emlo person identifier
+413,413,P1802,early modern letters online identifier
+414,414,P1338,epsg id
+415,415,P1058,era journal id
+416,416,P858,espn scrum id
+417,417,P852,esrb rating
+418,418,P852,entertainment software rating board rating
+419,419,P1084,eul editions
+420,420,P1084,eul id
+421,421,P1644,egliseinfo id
+422,422,P470,eight banner register
+423,423,P2481,eliteprospects.com player id
+424,424,P1087,elo rating
+425,425,P2387,elonet actor id
+426,426,P2346,elonet movie id
+427,427,P2346,elonet id
+428,428,P2346,elonet film id
+429,429,P455,emporis building id
+430,430,P455,ebn
+431,431,P2270,emporis building complex id
+432,432,P1565,enciclopedia de la literatura en méxico id
+433,433,P1385,enciclopédia açoriana id
+434,434,P1385,ea
+435,435,P1385,azores encyclopedia
+436,436,P1385,encyclopedia of the azores
+437,437,P1989,encyclopaedia metallum artist id
+438,438,P1989,metal archives artist id
+439,439,P1989,encyclopedia metallum artist id
+440,440,P1952,encyclopaedia metallum band id
+441,441,P1952,metal archives band id
+442,442,P1952,encyclopedia metallum band id
+443,443,P830,encyclopedia of life id
+444,444,P830,eol
+445,445,P1417,encyclopædia britannica online id
+446,446,P1417,britannica online id
+447,447,P1417,britannica id
+448,448,P2450,encyclopædia britannica contributor identifier
+449,449,P2450,encyclopedia britannica contributor identifier
+450,450,P2450,eb contributor
+451,451,P594,ensembl gene id
+452,452,P705,ensembl protein id
+453,453,P704,ensembl transcript id
+454,454,P351,entrez gene id
+455,455,P2021,erdős number
+456,456,P1601,esperantist id
+457,457,P1601,esperantist number
+458,458,P1601,address book of esperantists
+459,459,P1627,ethnologue.com code
+460,460,P727,europeana id
+461,461,P1551,exceptional heritage of wallonia identifier
+462,462,P1555,executive order number
+463,463,P2010,exif make
+464,464,P2009,exif model
+465,465,P240,faa airport code
+466,466,P240,faa lid
+467,467,P2371,fao risk status
+468,468,P2371,fao status
+469,469,P2163,fast-id
+470,470,P2163,faceted application of subject terminology id
+471,471,P1400,fcc facility id
+472,472,P1400,facility id number
+473,473,P1400,fin
+474,474,P1400,facility_id
+475,475,P1400,facid
+476,476,P2423,fie identifier
+477,477,P1469,fifa player code
+478,478,P901,fips 10-4 (countries and regions)
+479,479,P901,fips country codes
+480,480,P883,fips 5-2 (code for us states)
+481,481,P883,fips 5-2
+482,482,P883,fips code for us states
+483,483,P774,fips 55-3 (locations in the us)
+484,484,P774,federal information processing standard 55-3
+485,485,P774,fips 55-3
+486,486,P774,fips code for us locations
+487,487,P882,fips 6-4 (us counties)
+488,488,P882,fips 6-4
+489,489,P882,fips us counties
+490,490,P882,incits 31-2009
+491,491,P2091,fisa id
+492,492,P2150,fsb speed
+493,493,P2150,front-side bus speed
+494,494,P2150,bus speed
+495,495,P1981,fsk film rating
+496,496,P2013,facebook id
+497,497,P1997,facebook places id
+498,498,P1731,fach
+499,499,P2486,fashion model directory brand id
+500,500,P2412,fashion model directory designer id
+501,501,P2413,fashion model directory magazine id
+502,502,P2266,fashion model directory model id
+503,503,P2266,fmd
+504,504,P2485,fashion model directory photographer id
+505,505,P1895,fauna europaea id
+506,506,P1544,federal register document number
+507,507,P2070,fellow of the royal society
+508,508,P1440,fide id
+509,509,P480,filmaffinity identifier
+510,510,P480,filmaffinity
+511,511,P480,filmaffinity
+512,512,P356,doi
+513,513,P356,digital object identifier
+514,514,P535,find a grave grave id
+515,515,P535,fag id
+516,516,P535,fagid
+517,517,P535,grid
+518,518,P535,findagrave id
+519,519,P2181,finnish mp id
+520,520,P2182,finnish ministers database id
+521,521,P1203,finnish municipality number
+522,522,P938,fishbase species identifier
+523,523,P938,fishbase
+524,524,P1764,flemish organization for immovable heritage relict id
+525,525,P1747,flora of china id
+526,526,P1727,flora of north america taxon id
+527,527,P1727,fna
+528,528,P1726,florentine musea inventario 1890  id
+529,529,P2242,florentine musea catalogue id
+530,530,P842,fossilworks id
+531,531,P842,paleodb
+532,532,P842,fossilworks
+533,533,P1402,foundational model of anatomy id
+534,534,P1402,fma
+535,535,P1402,foundational model of anatomy
+536,536,P1968,foursquare venue id
+537,537,P2537,free software directory entry
+538,538,P646,freebase identifier
+539,539,P646,freebase id
+540,540,P646,mid
+541,541,P2380,french sculpture census id
+542,542,P2385,french diocesan architects id
+543,543,P1905,fundref registry name
+544,544,P728,ghs hazard statement
+545,545,P728,h phrase
+546,546,P940,ghs precautionary statements
+547,547,P1033,ghs signal word
+548,548,P227,gnd identifier
+549,549,P227,gnd
+550,550,P227,universal authority file
+551,551,P227,integrated authority file
+552,552,P227,dbpedia:individualisedgnd
+553,553,P227,pnd
+554,554,P227,dnb authorities
+555,555,P804,gnis antarctica id
+556,556,P804,usgs gnis antarctica id
+557,557,P590,gnis id
+558,558,P590,geographic names information system id
+559,559,P590,usgs gnis id
+560,560,P2326,gns unique feature identifier
+561,561,P2326,gns ufi
+562,562,P2326,unique feature identifier
+563,563,P2326,geonet names server unique feature
+564,564,P278,gost 7.75-97 code
+565,565,P2560,gpu
+566,566,P2560,graphics processing unit
+567,567,P917,grau index
+568,568,P1421,grin url
+569,569,P1421,grin taxonomy id
+570,570,P1421,grin id
+571,571,P916,gsrr rating
+572,572,P916,csrr rating
+573,573,P916,gsrmr rating
+574,574,P836,gss code (2011)
+575,575,P836,ons gss code (2011)
+576,576,P1741,gtaa id
+577,577,P1741,gtaa
+578,578,P1414,gui toolkit or framework
+579,579,P1837,gaoloumi id
+580,580,P692,gene atlas image
+581,581,P686,gene ontology id
+582,582,P668,genereviews id
+583,583,P2503,genealogical gazetteer (gov) id
+584,584,P2600,geni.com profile id
+585,585,P2373,genius artist id
+586,586,P1566,geonames id
+587,587,P2452,geonames feature code
+588,588,P2452,feature code (geonames)
+589,589,P1172,geokod
+590,590,P2126,georgian national system of romanization
+591,591,P2024,german cattle breed id
+592,592,P2024,rasseschlüssel
+593,593,P440,german district key
+594,594,P440,district key (germany)
+595,595,P439,german municipality key
+596,596,P439,municipality key (germany)
+597,597,P439,gemeindeschlüssel
+598,598,P1388,german regional key
+599,599,P1183,gewässerkennzahl
+600,600,P1183,gkz
+601,601,P1183,gewaesserkennzahl
+602,602,P2037,github username
+603,603,P1529,glad identifier
+604,604,P1842,global anabaptist mennonite encyclopedia online identifier
+605,605,P1842,gameo identifier
+606,606,P846,global biodiversity information facility id
+607,607,P846,gbif id
+608,608,P2467,global geoparks network id
+609,609,P1394,glottolog code
+610,610,P1578,gmelin number
+611,611,P675,google books identifier
+612,612,P1960,google scholar id
+613,613,P1960,scholar id in google scholar
+614,614,P2597,gram staining
+615,615,P1296,gran enciclopèdia catalana id
+616,616,P1296,gec id
+617,617,P1296,enciclopèdia catalana id
+618,618,P1296,encyclopedia catalana id
+619,619,P1296,catalan encyclopedia id
+620,620,P1832,grassbase id
+621,621,P1807,great aragonese encyclopedia id
+622,622,P1807,gea id
+623,623,P1807,aragon encyclopedia id
+624,624,P1807,gae id
+625,625,P1577,gregory-aland-number
+626,626,P1577,ga-number
+627,627,P2282,groeningemuseum work pid
+628,628,P2161,guthrie code
+629,629,P2025,find a grave cemetery id
+630,630,P2025,findagrave cemetery id
+631,631,P354,hgnc id
+632,632,P353,hgnc gene symbol
+633,633,P2057,hmdb id
+634,634,P2476,hni person/institution id
+635,635,P2476,hni person id
+636,636,P2476,hni person identifier
+637,637,P2476,hni institution id
+638,638,P2476,hni institution identifier
+639,639,P2062,hsdb id
+640,640,P502,hurdat identifier
+641,641,P502,hurdat
+642,642,P1869,hall of valor id
+643,643,P2170,hansard (currents session) identifier
+644,644,P2015,hansard id
+645,645,P1844,hathitrust id
+646,646,P2272,hederich encyclopedia article id
+647,647,P2272,hederich article
+648,648,P2273,heidelberg academy for sciences and humanities member id
+649,649,P1255,helveticarchives id
+650,650,P1632,hermann-mauguin notation
+651,651,P610,highest point
+652,652,P610,highest peak
+653,653,P709,historic scotland id
+654,654,P1614,history of parliament id
+655,655,P1614,hop id
+656,656,P593,homologene id
+657,657,P1762,hornbostel-sachs classification
+658,658,P1762,sachs–hornbostel
+659,659,P1762,hornbostel-sachs
+660,660,P1081,human development index
+661,661,P1081,hdi
+662,662,P1146,iaaf id
+663,663,P229,iata airline designator
+664,664,P229,iata reservation code
+665,665,P229,international air transport association airline designator
+666,666,P238,iata airport code
+667,667,P238,international air transport association airport code
+668,668,P238,uio
+669,669,P954,ibnr identifier
+670,670,P2459,ibu biathlete identifier
+671,671,P230,icao airline designator
+672,672,P230,international civil aviation organization airline designator
+673,673,P239,icao airport code
+674,674,P239,international civil aviation organization airport code
+675,675,P239,icao aerodrome code
+676,676,P239,icao airfield code
+677,677,P494,icd-10
+678,678,P494,icd 10
+679,679,P1690,icd-10-pcs
+680,680,P493,icd-9
+681,681,P493,icd-9 code
+682,682,P493,code icd-9
+683,683,P1692,icd-9-cm
+684,684,P563,icd-o
+685,685,P563,international classification of diseases for oncology
+686,686,P667,icpc 2 id
+687,687,P667,icpc 2
+688,688,P667,icpc-2
+689,689,P1076,ictv virus id
+690,690,P1043,ideo job id
+691,691,P2129,idlh
+692,692,P305,ietf language tag
+693,693,P305,language tag ietf
+694,694,P902,hds identifier
+695,695,P902,hls
+696,696,P902,dhs
+697,697,P902,dss
+698,698,P902,historical dictionary of switzerland
+699,699,P2480,iho hydrographic dictionary (s-32) number
+700,700,P1370,ihsi id
+701,701,P484,"ima number, broad sense"
+702,702,P484,ima approval year
+703,703,P579,ima status and/or rank
+704,704,P345,imdb identifier
+705,705,P345,imdb
+706,706,P345,internet movie database
+707,707,P345,imdb
+708,708,P458,imo ship number
+709,709,P839,imslp id
+710,710,P839,imslp
+711,711,P772,ine municipality code
+712,712,P1976,inegi locality identifier
+713,713,P1848,inpn code
+714,714,P2506,insee canton code
+715,715,P2586,insee departement code
+716,716,P374,insee municipality code
+717,717,P374,municipality code (france)
+718,718,P2585,insee region code
+719,719,P984,ioc country code
+720,720,P898,ipa transcription
+721,721,P898,pronunciation (ipa)
+722,722,P898,ipa
+723,723,P1828,ipi number
+724,724,P1828,interested parties information code
+725,725,P1828,ipi
+726,726,P586,ipni author id
+727,727,P586,ipni id (author)
+728,728,P961,ipni plant id
+729,729,P961,ipni id (plant)
+730,730,P2008,ipni publication id
+731,731,P2008,ipni id (publication)
+732,732,P1613,irc channel
+733,733,P1297,irs employer identification number
+734,734,P1297,fein
+735,735,P1297,us ein
+736,736,P1297,irs ein
+737,737,P1297,ein
+738,738,P957,isbn-10
+739,739,P957,isbn-10
+740,740,P957,international standard book number-10
+741,741,P212,isbn-13
+742,742,P212,isbn-13
+743,743,P212,international standard book number-13
+744,744,P212,bookland
+745,745,P952,isco occupation code
+746,746,P952,citp
+747,747,P1233,isfdb author id
+748,748,P1233,internet speculative fiction database author id
+749,749,P1234,isfdb publication id
+750,750,P1239,isfdb publisher id
+751,751,P1235,isfdb series id
+752,752,P1274,isfdb title id
+753,753,P791,isil id
+754,754,P791,isil
+755,755,P791,international standard identifier for libraries and related organizations
+756,756,P946,isin
+757,757,P946,international securities identification number
+758,758,P1208,ismn
+759,759,P213,isni
+760,760,P213,iso 27729
+761,761,P213,international standard name identifier
+762,762,P506,iso 15924 alpha-4 or numeric code
+763,763,P297,iso 3166-1 alpha-2 code
+764,764,P297,country code iso 3166-1 alpha-2
+765,765,P1702,igespar identifier
+766,766,P299,iso 3166-1 numeric code
+767,767,P299,country code iso 3166-1 numeric
+768,768,P300,iso 3166-2 code
+769,769,P300,subdivision code iso 3166-2
+770,770,P773,iso 3166-3
+771,771,P773,code for formerly used names of countries
+772,772,P1160,iso 4 abbreviation
+773,773,P1160,iso4
+774,774,P498,iso 4217 code
+775,775,P218,iso 639-1 code
+776,776,P218,iso 639-1
+777,777,P218,iso639-1
+778,778,P218,iso639-1
+779,779,P219,iso 639-2 code
+780,780,P219,iso 639-2
+781,781,P219,iso639-2
+782,782,P219,iso639-2
+783,783,P220,iso 639-3 code
+784,784,P220,iso 639-3
+785,785,P1798,iso 639-5 code
+786,786,P221,iso 639-6 code
+787,787,P2183,iso 9:1995
+788,788,P2183,iso 9
+789,789,P503,iso standard
+790,790,P503,iso
+791,791,P2263,isocat id
+792,792,P2263,iso 12620 id
+793,793,P236,issn
+794,794,P236,international standard serial number
+795,795,P635,istat id
+796,796,P1827,iswc
+797,797,P1827,iswc code
+798,798,P1827,international standard musical work code
+799,799,P599,itf id
+800,800,P298,iso 3166-1 alpha-3 code
+801,801,P298,country code iso 3166-1 alpha-3
+802,802,P815,itis tsn
+803,803,P815,itis
+804,804,P1364,ittf id
+805,805,P141,iucn conservation status
+806,806,P141,conservation status
+807,807,P627,iucn-id
+808,808,P595,iuphar id
+809,809,P595,iuphar ligand
+810,810,P1256,iconclass notation
+811,811,P1256,iconclass id (of concept)
+812,812,P234,inchi
+813,813,P234,international chemical identifier
+814,814,P235,inchikey
+815,815,P863,inpho identifier
+816,816,P863,indiana philosophy ontology identifier
+817,817,P1391,index fungorum id
+818,818,P1736,information center for israeli art artist identifier
+819,819,P2003,instagram username
+820,820,P2003,instagram
+821,821,P1771,integrated postsecondary education data system identifier
+822,822,P1771,ipeds id
+823,823,P1771,unit id
+824,824,P1771,unitid
+825,825,P2127,international nuclear event scale
+826,826,P2127,ines
+827,827,P1796,international standard industrial classification code
+828,828,P1796,isic
+829,829,P1243,international standard recording code
+830,830,P1243,isrc
+831,831,P724,internet archive identifier
+832,832,P724,iaid
+833,833,P1220,internet broadway database person id
+834,834,P1220,ibdb person id
+835,835,P1220,ibdb person identifier
+836,836,P1220,ibdb identifier person
+837,837,P1218,internet broadway database production id
+838,838,P1218,ibdb production id
+839,839,P1218,ibdb identifier production
+840,840,P1219,internet broadway database show id
+841,841,P1219,ibdb show id
+842,842,P1219,ibdb identifier show
+843,843,P1217,internet broadway database venue id
+844,844,P1217,ibdb venue id
+845,845,P1217,ibdb venue identifier
+846,846,P1217,ibdb identifier venue
+847,847,P814,iucn protected areas category
+848,848,P1163,internet media type
+849,849,P1163,mime type
+850,850,P1010,iran statistics id
+851,851,P1369,iranian national heritage registration number
+852,852,P1369,chrc
+853,853,P1369,cultural heritage registration code (iran)
+854,854,P1369,ichto
+855,855,P2549,italian senate of the republic id
+856,856,P806,italian cadastre code
+857,857,P806,codice catastale
+858,858,P2432,j. paul getty museum artist id
+859,859,P2432,j. paul getty museum artist identifier
+860,860,P2432,getty museum artist id
+861,861,P2582,j. paul getty museum object id
+862,862,P2582,getty museum object id
+863,863,P2400,jmdb film id
+864,864,P2400,jmdb film identifier
+865,865,P716,jpl small-body database identifier
+866,866,P888,jstor article id
+867,867,P1230,jstor journal code
+868,868,P2513,jamendo album id
+869,869,P2514,jamendo artist id
+870,870,P1386,japanese high school code
+871,871,P849,japanese military aircraft designation
+872,872,P1438,jewish encyclopedia id (russian)
+873,873,P347,joconde id
+874,874,P1714,journalisted id
+875,875,P1277,jufo id
+876,876,P1287,kdg komponisten der gegenwart
+877,877,P665,kegg id
+878,878,P1341,italian chamber of deputies id
+879,879,P2508,kinenote film id
+880,880,P1288,klg kritisches lexikon der gegenwartsliteratur
+881,881,P1289,klfg kritisches lexikon der fremdsprachigen gegenwartsliteratur
+882,882,P2454,knaw past member identifier
+883,883,P2454,royal netherlands academy of arts and sciences past member
+884,884,P2064,knapsack id
+885,885,P1077,koatuu identifier
+886,886,P939,ksh code
+887,887,P1818,kaiserhof identifier
+888,888,P1818,kh
+889,889,P2180,kansallisbiografia id
+890,890,P700,kemler id
+891,891,P1854,kiev street code
+892,892,P1021,kldb-2010 occupation code
+893,893,P1248,kulturnav-id
+894,894,P758,kulturminne identifier
+895,895,P758,lokalitets id
+896,896,P1138,kunstindeks danmark artist id
+897,897,P1138,kid id
+898,898,P1138,kid
+899,899,P2108,kunstindeks danmark artwork id
+900,900,P2564,köppen climate classification
+901,901,P1670,lac identifier
+902,902,P782,lau
+903,903,P244,lcauth identifier
+904,904,P244,library of congress control number
+905,905,P244,lccn identifier
+906,906,P244,loc authorities
+907,907,P244,lcauth
+908,908,P244,lcsh
+909,909,P244,lcnaf
+910,910,P244,library of congress name authority file
+911,911,P244,library of congress subject headings
+912,912,P1144,lcoc lccn (bibliographic)
+913,913,P1144,lccn editions
+914,914,P1144,loc editions
+915,915,P1144,lcoc number
+916,916,P1144,lccn (lcoc)
+917,917,P1144,library of congress control number (bibliographic)
+918,918,P1144,library of congress catalog card number (bibliographic)
+919,919,P1144,lc control number
+920,920,P1649,kmdb person id
+921,921,P1649,korean movie database person id
+922,922,P1182,libris editions
+923,923,P2063,lipid maps id
+924,924,P886,lir
+925,925,P1991,lpsn url
+926,926,P1145,lagrangian point
+927,927,P1145,libration point
+928,928,P1145,lagrange point
+929,929,P1145,l-point
+930,930,P1007,lattes platform number
+931,931,P2497,latvian national address register identifier
+932,932,P2593,latvian olympic committee athlete id
+933,933,P2494,latvian cultural heritage register identifier
+934,934,P2496,latvian toponymic names database identifier
+935,935,P2083,leadscope id
+936,936,P1278,legal entity identifier
+937,937,P1278,global legal entity identifier
+938,938,P1278,lei
+939,939,P1278,iso 17442 code
+940,940,P1708,lfds object id
+941,941,P1149,library of congress classification
+942,942,P1149,loc classification
+943,943,P1149,lc classification
+944,944,P1149,lcc
+945,945,P1149,lccs
+946,946,P2089,library of congress jukebox id
+947,947,P2089,loc jukebox id
+948,948,P2089,jukebox id
+949,949,P1085,librarything work identifier
+950,950,P1085,lt work identifier
+951,951,P1899,librivox author id
+952,952,P1396,linguasphere code
+953,953,P1232,linguist list code
+954,954,P1232,multitree code
+955,955,P2035,linkedin personal profile url
+956,956,P2035,linkedin url
+957,957,P731,litholex id
+958,958,P1428,lost art-id
+959,959,P745,low german bibliography and biography id
+960,960,P745,pbb id
+961,961,P640,léonore id
+962,962,P640,léonore identifier
+963,963,P2051,m sin i
+964,964,P2051,m x sin i
+965,965,P2051,m ⋅ sin i
+966,966,P2082,m.49 code
+967,967,P2082,m49 code
+968,968,P2082,un m49 code
+969,969,P2451,mame rom
+970,970,P2451,multiple arcade machine emulator rom
+971,971,P2451,rom name (mame)
+972,972,P1987,mcn code
+973,973,P1186,mep directory identifier
+974,974,P2394,mgi gene symbol
+975,975,P2398,mlssoccer.com id
+976,976,P587,mmsi
+977,977,P587,maritime mobile service identity
+978,978,P587,marinetraffic id
+979,979,P587,marinetraffic ship id
+980,980,P587,mmsi number
+981,981,P587,mmsi number
+982,982,P1657,mpaa film rating
+983,983,P2511,msk gent work pid
+984,984,P959,msw id
+985,985,P959,msw identifier
+986,986,P2492,mtmt author id
+987,987,P1377,mtr station code
+988,988,P1563,mactutor id (biographies)
+989,989,P2458,mackolik.com footballer id
+990,990,P2277,magdeburger biographisches lexikon
+991,991,P1583,malacards id
+992,992,P1799,maltese islands national inventory of cultural property identifier
+993,993,P1799,nicpmi id
+994,994,P1947,mapillary id
+995,995,P1624,marinetraffic port id
+996,996,P1803,masaryk university person id
+997,997,P1803,masaryk university učo
+998,998,P889,mathematical reviews identifier
+999,999,P549,mathematics genealogy project identifier
+1000,1000,P549,mgp id
+1001,1001,P1942,mccune-reischauer romanization
+1002,1002,P672,mesh code
+1003,1003,P486,mesh id
+1004,1004,P486,mesh unique id
+1005,1005,P2377,mediawiki hooks used
+1006,1006,P604,medlineplus id
+1007,1007,P2278,member of the hellenic parliament id
+1008,1008,P1738,merck index monograph
+1009,1009,P1712,metacritic id
+1010,1010,P1712,metacritic
+1011,1011,P824,meteoritical bulletin database id
+1012,1012,P1919,ministry of education of chile school id
+1013,1013,P717,minor planet center observatory code
+1014,1014,P717,iau code
+1015,1015,P2174,moma artist id
+1016,1016,P2014,moma artwork id
+1017,1017,P1933,mobygames id
+1018,1018,P2471,models.com id
+1019,1019,P2471,models.com
+1020,1020,P1088,mohs' hardness
+1021,1021,P1360,monte carlo particle number
+1022,1022,P671,mouse genome informatics id
+1023,1023,P671,mgi
+1024,1024,P671,mgi id
+1025,1025,P671,mouse genome informatics
+1026,1026,P2509,movie walker film id
+1027,1027,P1969,moviemeter director id
+1028,1028,P1970,moviemeter movie id
+1029,1029,P1970,moviemeter movie identifier
+1030,1030,P1284,munzinger iba
+1031,1031,P1286,munzinger pop identifier
+1032,1032,P1286,munzinger pop
+1033,1033,P1285,munzinger sport number
+1034,1034,P539,museofile
+1035,1035,P982,musicbrainz area id
+1036,1036,P982,area mbid
+1037,1037,P982,mbid area
+1038,1038,P434,musicbrainz artist id
+1039,1039,P434,artist mbid
+1040,1040,P434,artist id
+1041,1041,P434,bbc music artist id
+1042,1042,P434,mbid artist
+1043,1043,P1330,musicbrainz instrument id
+1044,1044,P1330,instrument mbid
+1045,1045,P1330,mbid instrument
+1046,1046,P966,musicbrainz label id
+1047,1047,P966,label mbid
+1048,1048,P966,musicbrainz record label id
+1049,1049,P966,mb label
+1050,1050,P966,mbid label
+1051,1051,P1004,musicbrainz place id
+1052,1052,P1004,place mbid
+1053,1053,P1004,mb place id
+1054,1054,P1004,place id
+1055,1055,P1004,mbid place
+1056,1056,P436,musicbrainz release group id
+1057,1057,P436,release group mbid
+1058,1058,P436,album mbid
+1059,1059,P436,single mbid
+1060,1060,P436,ep mbid
+1061,1061,P436,musicbrainz album
+1062,1062,P436,album id
+1063,1063,P436,release group id
+1064,1064,P436,single id
+1065,1065,P436,ep id
+1066,1066,P436,mbid release group
+1067,1067,P1407,musicbrainz series id
+1068,1068,P1407,series mbid
+1069,1069,P1407,series id
+1070,1070,P435,musicbrainz work id
+1071,1071,P435,work mbid
+1072,1072,P435,song mbid
+1073,1073,P435,work id
+1074,1074,P435,song id
+1075,1075,P435,musicbrainz work mbid
+1076,1076,P435,mbid work
+1077,1077,P2338,musopen composer id
+1078,1078,P2268,musée d'orsay artist id
+1079,1079,P2268,orsay museum artist id
+1080,1080,P962,mycobank taxon name identifier
+1081,1081,P2071,mémoire des hommes
+1082,1082,P2071,memoire des hommes
+1083,1083,P380,mérimée identifier
+1084,1084,P2004,nalt id
+1085,1085,P1231,nara catalog record id
+1086,1086,P1224,nara geographic id
+1087,1087,P1224,national archives geographic id
+1088,1088,P1223,nara organization id
+1089,1089,P1223,national archives organization id
+1090,1090,P1222,nara person id
+1091,1091,P1222,national archives person id
+1092,1092,P1226,nara specific records type id
+1093,1093,P1226,national archives specific records type id
+1094,1094,P1225,nara topical subject id
+1095,1095,P1225,national archives topical subject id
+1096,1096,P2030,nasa biographical id
+1097,1097,P1611,nato code for grade
+1098,1098,P561,nato reporting name
+1099,1099,P561,ascc reporting name
+1100,1100,P561,nato code name
+1101,1101,P2475,nava id
+1102,1102,P2393,ncbi locus tag
+1103,1103,P685,ncbi taxonomy id
+1104,1104,P685,ncbi
+1105,1105,P685,ncbi
+1106,1106,P2483,nces district id
+1107,1107,P2483,district id (nces)
+1108,1108,P2483,school district id (nces)
+1109,1109,P2484,nces school id
+1110,1110,P1748,nci thesaurus id
+1111,1111,P1748,ncit
+1112,1112,P1048,ncl identifier
+1113,1113,P2115,ndf-rt id
+1114,1114,P1054,ndl bib id
+1115,1115,P1054,ndl catalog id
+1116,1116,P349,ndl identifier
+1117,1117,P349,ndl authorities
+1118,1118,P349,ndl
+1119,1119,P994,nfpa fire
+1120,1120,P994,nfpa flammability
+1121,1121,P993,nfpa health
+1122,1122,P877,nfpa other
+1123,1123,P877,nfpa special
+1124,1124,P995,nfpa reactivity
+1125,1125,P2252,nga artist id
+1126,1126,P2252,national gallery of art artist identifier
+1127,1127,P2252,national gallery of art artist id
+1128,1128,P2252,nga artist identifier
+1129,1129,P2065,niaid chemdb id
+1130,1130,P1460,niea building id
+1131,1131,P2409,nii article id
+1132,1132,P2409,naid
+1133,1133,P2409,cinii article id
+1134,1134,P2191,nilf author id
+1135,1135,P2191,nilf
+1136,1136,P1931,niosh pocket guide id
+1137,1137,P1931,pgch id
+1138,1138,P1931,npg id
+1139,1139,P1567,nis/ins code
+1140,1140,P1645,nist/codata id
+1141,1141,P691,nkc identifier
+1142,1142,P691,czech national authority file
+1143,1143,P691,nk čr
+1144,1144,P409,nla (australia) identifier
+1145,1145,P409,aucnlkin
+1146,1146,P409,aucnlkin id
+1147,1147,P409,aucnlkin identifier
+1148,1148,P409,libraries australia identifier
+1149,1149,P409,australian national bibliographic database identifier
+1150,1150,P409,nla kinetica service identifier
+1151,1151,P409,cnlkin
+1152,1152,P409,cnlkin identifier
+1153,1153,P409,cnl kinetica service identifier
+1154,1154,P1213,nlc authorities
+1155,1155,P1055,nlm unique id
+1156,1156,P1055,nlm id
+1157,1157,P1055,nlmuid
+1158,1158,P1695,nlp identifier
+1159,1159,P1003,nlr (romania) identifier
+1160,1160,P2363,nmhh film rating
+1161,1161,P2363,nmhh movie rating
+1162,1162,P1263,nndb people id
+1163,1163,P1263,nndb id
+1164,1164,P1263,notable names database id
+1165,1165,P1263,notable names database people id
+1166,1166,P918,noc occupation code
+1167,1167,P918,code cnp
+1168,1168,P918,noc code
+1169,1169,P464,nor
+1170,1170,P649,nrhp reference number
+1171,1171,P649,national register of historic places
+1172,1172,P649,national register of historic places id
+1173,1173,P649,nrhp
+1174,1174,P649,nrhp id
+1175,1175,P649,national register of historic places number
+1176,1176,P649,nrhp number
+1177,1177,P2298,nsdap membership number (1925–1945)
+1178,1178,P1375,nsk identifier
+1179,1179,P951,nszl identifier
+1180,1180,P1207,nukat (warsawu) authorities
+1181,1181,P605,nuts code
+1182,1182,P1870,name assigning authority number
+1183,1183,P1870,naan
+1184,1184,P1847,nasjonalbiblioteket photographer id
+1185,1185,P1395,national cancer institute id
+1186,1186,P1395,nci id
+1187,1187,P1395,cancer.gov
+1188,1188,P2510,national discography of italian song id
+1189,1189,P2041,national gallery of victoria artist identifier
+1190,1190,P2041,ngv artist id
+1191,1191,P2041,national gallery of victoria artist id
+1192,1192,P1216,national heritage list for england number
+1193,1193,P1216,eh list number
+1194,1194,P1216,english heritage list number
+1195,1195,P1216,nhle number
+1196,1196,P1216,he list number
+1197,1197,P1216,historic england list number
+1198,1198,P2526,national historic sites of canada id
+1199,1199,P2526,nhsc
+1200,1200,P1946,national library of ireland authority
+1201,1201,P1946,n6i
+1202,1202,P1946,nli
+1203,1203,P949,national library of israel identifier
+1204,1204,P949,nli (israel) identifier
+1205,1205,P1763,national pipe organ register identifier
+1206,1206,P1763,npor
+1207,1207,P1816,national portrait gallery (london) person identifier
+1208,1208,P1816,npg id
+1209,1209,P1006,national thesaurus for author names identifier
+1210,1210,P1006,nationale thesaurus voor auteurs
+1211,1211,P1006,nta id
+1212,1212,P1006,nta identifier
+1213,1213,P2574,national-football-teams.com player id
+1214,1214,P2574,nft id
+1215,1215,P2574,national-football-teams.com id
+1216,1216,P2574,national football teams id
+1217,1217,P2538,nationalmuseum sweden artist id
+1218,1218,P2538,nsid
+1219,1219,P2539,nationalmuseum sweden artwork id
+1220,1220,P1732,naturbase id
+1221,1221,P1874,netflix identifier
+1222,1222,P1874,netflix id
+1223,1223,P696,neurolex id
+1224,1224,P713,nickel-strunz 10th (pending) edition
+1225,1225,P712,nickel-strunz 9th edition (updated 2009)
+1226,1226,P2085,nikkaji
+1227,1227,P1439,norsk filmografi id
+1228,1228,P1270,norway database for statistics on higher education periodical id
+1229,1229,P1271,norway database for statistics on higher education publisher id
+1230,1230,P1272,norway import service and registration authority periodical code
+1231,1231,P1275,norway import service and registration authority publisher code
+1232,1232,P2504,norwegian municipality number
+1233,1233,P2333,norwegian organization number
+1234,1234,P2333,norwegian organisation number
+1235,1235,P909,nova scotia register of historic places identifier
+1236,1236,P1473,nupill literatura digital - author
+1237,1237,P1474,nupill literatura digital - document
+1238,1238,P243,oclc control number
+1239,1239,P243,oclc
+1240,1240,P243,online computer library center
+1241,1241,P243,ocn
+1242,1242,P2372,odis id
+1243,1243,P2372,odis.be id
+1244,1244,P829,oeis id
+1245,1245,P721,okato identifier
+1246,1246,P2391,okpo id
+1247,1247,P2391,nceo id
+1248,1248,P764,oktmo identifier
+1249,1249,P2493,om institution id
+1250,1250,P492,omim id
+1251,1251,P492,online mendelian inheritance in man
+1252,1252,P492,omim
+1253,1253,P496,orcid
+1254,1254,P496,open research contributor id
+1255,1255,P496,orc id
+1256,1256,P613,os grid reference
+1257,1257,P613,grid reference
+1258,1258,P1245,omegawiki defined meaning
+1259,1259,P1820,open food facts food additive slug
+1260,1260,P1821,open food facts food category slug
+1261,1261,P1972,open hub id
+1262,1262,P648,open library identifier
+1263,1263,P648,open library id
+1264,1264,P648,olid
+1265,1265,P648,openlibrary id
+1266,1266,P648,openlibrary identifier
+1267,1267,P1320,opencorporates id
+1268,1268,P1320,open corporates id
+1269,1269,P1893,openplaques plaque identifier
+1270,1270,P1430,openplaques subject identifier
+1271,1271,P402,openstreetmap relation identifier
+1272,1272,P402,osm relation id
+1273,1273,P402,openstreetmap relation
+1274,1274,P402,osm relation
+1275,1275,P1282,openstreetmap tag or key
+1276,1276,P1282,osm tag
+1277,1277,P1282,osm key
+1278,1278,P1282,tag
+1279,1279,P1282,key
+1280,1280,P1229,openpolis id
+1281,1281,P862,operational requirement of the uk air ministry
+1282,1282,P862,or
+1283,1283,P862,operational requirement
+1284,1284,P1550,orphanet id
+1285,1285,P1415,oxford biography index number
+1286,1286,P1415,oxford dictionary of national biography id
+1287,1287,P1415,obin
+1288,1288,P1415,odnb id
+1289,1289,P1331,pace member id
+1290,1290,P381,pcp reference number
+1291,1291,P381,pcp ref. no.
+1292,1292,P381,pcp no.
+1293,1293,P381,kgs identifier
+1294,1294,P381,pcp identifier
+1295,1295,P638,pdb id
+1296,1296,P908,pegi rating
+1297,1297,P763,pei register of historic places identifier
+1298,1298,P932,pmcid
+1299,1299,P932,pubmed central id
+1300,1300,P932,pmc id
+1301,1301,P905,port film id
+1302,1302,P905,port film identifier
+1303,1303,P2435,port person id
+1304,1304,P2299,ppp gdp per capita
+1305,1305,P2299,gdp (ppp) per capita
+1306,1306,P2299,gross domestic product (at purchasing power parity) per capita
+1307,1307,P2299,"gdp per capita, ppp"
+1308,1308,P2299,gdp per capita based on purchasing power parity
+1309,1309,P1463,prdl author id
+1310,1310,P1051,psh id
+1311,1311,P1051,psh
+1312,1312,P1051,czech technical library id
+1313,1313,P1051,psh identifier
+1314,1314,P2194,pss-archi architect id
+1315,1315,P1838,pss-archi id
+1316,1316,P1005,ptbnp identifier
+1317,1317,P481,palissy identifier
+1318,1318,P481,palissy
+1319,1319,P2434,panarctic flora id
+1320,1320,P630,paris city digital code
+1321,1321,P1749,parlement & politiek id
+1322,1322,P2172,parliamentary record identifier
+1323,1323,P1236,parsons code
+1324,1324,P1236,parsons code for melodic contours
+1325,1325,P1461,patientplus id
+1326,1326,P1461,patient uk
+1327,1327,P1315,people australia identifier
+1328,1328,P1315,nla trove
+1329,1329,P1315,nla party id
+1330,1330,P866,perlentaucher id
+1331,1331,P1852,perry index
+1332,1332,P2460,persons of ancient athens
+1333,1333,P2460,paa
+1334,1334,P988,philippine standard geographic code
+1335,1335,P988,psgc
+1336,1336,P1070,plantlist-id
+1337,1337,P1992,plazi id
+1338,1338,P1584,pleiades identifier
+1339,1339,P1112,pokédex number
+1340,1340,P1112,pokedex number
+1341,1341,P1685,pokémon browser number
+1342,1342,P1980,polsys id
+1343,1343,P2267,politifact personality identifier
+1344,1344,P2267,politifact personality identifier id
+1345,1345,P1052,portuguese job code cpp-2010
+1346,1346,P2090,power of 10 athlete id
+1347,1347,P2090,power of ten id
+1348,1348,P2090,power of 10 id
+1349,1349,P1663,procyclingstats id (cyclist)
+1350,1350,P1663,pcs
+1351,1351,P2327,procyclingstats id (race)
+1352,1352,P2327,pcs
+1353,1353,P2328,procyclingstats id (team)
+1354,1354,P2328,pcs
+1355,1355,P1938,project gutenberg author id
+1356,1356,P1938,gutenberg id
+1357,1357,P1938,project gutenberg id (author)
+1358,1358,P2034,project gutenberg ebook id
+1359,1359,P2034,gutenberg id
+1360,1360,P2034,project gutenberg id (ebook)
+1361,1361,P2421,prosopographia attica
+1362,1362,P2421,pa
+1363,1363,P2156,pseudo crystal habit
+1364,1364,P662,pubchem id (cid)
+1365,1365,P1368,lnb identifier
+1366,1366,P2153,pubchem substance id
+1367,1367,P2153,sid
+1368,1368,P653,pubmed health
+1369,1369,P653,pmh-id
+1370,1370,P653,pmhic
+1371,1371,P698,pubmed id
+1372,1372,P698,pmid
+1373,1373,P2169,publicwhip identifier
+1374,1374,P633,québec cultural heritage directory identifier
+1375,1375,P633,répertoire du patrimoine culturel du québec
+1376,1376,P633,rpcq
+1377,1377,P2592,québec cultural heritage directory people identifier
+1378,1378,P1262,raä-nummer
+1379,1379,P1575,riss catalog
+1380,1380,P1715,rkd/esd identifier (slovenia)
+1381,1381,P650,rkdartists
+1382,1382,P350,rkdimages
+1383,1383,P867,rome occupation code (v3)
+1384,1384,P867,rome code
+1385,1385,P867,code rome
+1386,1386,P947,rsl id (person)
+1387,1387,P947,rsl identifier
+1388,1388,P947,rsl name authority
+1389,1389,P947,rsl identifier (person)
+1390,1390,P1973,rsl editions
+1391,1391,P1815,rsl scanned book's identifier
+1392,1392,P1815,rsl-books-id
+1393,1393,P657,rtecs number
+1394,1394,P2106,rxno ontology
+1395,1395,P2478,railways archive event id
+1396,1396,P2525,ramsar sites information service id
+1397,1397,P2428,repec short-id
+1398,1398,P2428,repec id
+1399,1399,P656,refseq
+1400,1400,P637,refseq protein id
+1401,1401,P639,refseq rna id
+1402,1402,P2249,refseq genome id
+1403,1403,P1150,regensburg classification
+1404,1404,P1150,rvk identifier
+1405,1405,P892,request for comments identifier
+1406,1406,P892,rfc
+1407,1407,P892,rfc
+1408,1408,P2038,researchgate id
+1409,1409,P1053,researcherid
+1410,1410,P1053,rid
+1411,1411,P2125,revised hepburn romanization
+1412,1412,P2125,hepburn romanization
+1413,1413,P2125,modified hepburn romanization
+1414,1414,P2125,revised hepburn romanisation
+1415,1415,P2125,hepburn romanisation
+1416,1416,P2125,modified hepburn romansation
+1417,1417,P2001,revised romanisation
+1418,1418,P2001,revised romanization
+1419,1419,P2528,richter magnitude scale
+1420,1420,P1979,righteous among the nations id
+1421,1421,P1979,righteous among nations id
+1422,1422,P359,rijksmonument identifier
+1423,1423,P359,rijksmonument id
+1424,1424,P1214,riksdagen person-id
+1425,1425,P2491,radzima.org id
+1426,1426,P1185,rodovid id
+1427,1427,P2366,roman agnomen
+1428,1428,P2366,agnomen
+1429,1429,P2359,roman nomen gentilicium
+1430,1430,P2359,nomen gentilicium
+1431,1431,P2359,gens (roman)
+1432,1432,P2358,roman praenomen
+1433,1433,P2358,praenomen
+1434,1434,P1770,romania lmi code
+1435,1435,P1770,lmi code
+1436,1436,P1258,rotten tomatoes identifier
+1437,1437,P1829,roud folk song index
+1438,1438,P1293,royal aero club aviator's certificate id
+1439,1439,P1261,rundata
+1440,1440,P2482,sabr id
+1441,1441,P2482,society for american baseball research id
+1442,1442,P1717,sandre id
+1443,1443,P1023,sbc-2010 occupation code
+1444,1444,P1024,sbfi occupation code
+1445,1445,P396,sbn identifier
+1446,1446,P396,iccu
+1447,1447,P396,sbn
+1448,1448,P377,scn
+1449,1449,P377,satellite catalog number
+1450,1450,P377,norad catalog number
+1451,1451,P377,nasa catalog number
+1452,1452,P377,usspacecom object number
+1453,1453,P2524,seed number
+1454,1454,P2524,seed id
+1455,1455,P906,selibr
+1456,1456,P906,libris
+1457,1457,P2334,sfdb movie id
+1458,1458,P2334,swedish film database film id
+1459,1459,P2168,sfdb person id
+1460,1460,P2168,svensk filmdatabas person id
+1461,1461,P2168,swedish film database person id
+1462,1462,P2335,sfdb-identifier of company
+1463,1463,P2337,sfdb-identifier of group
+1464,1464,P2336,sfdb-identifier of soundtrack
+1465,1465,P2164,sigic (author)
+1466,1466,P2164,sigic (person)
+1467,1467,P2165,sigic (group)
+1468,1468,P2166,sigic (institution)
+1469,1469,P1700,sipa identifier
+1470,1470,P1616,siren number
+1471,1471,P843,siruta code
+1472,1472,P1316,smdb id
+1473,1473,P919,soc occupation code (2010)
+1474,1474,P919,2010 soc occupation code
+1475,1475,P919,standard occupational classification (2010)
+1476,1476,P2479,spdx identifier
+1477,1477,P1850,ssr name id
+1478,1478,P1849,ssr writtenform id
+1479,1479,P269,sudoc authorities
+1480,1480,P269,idref
+1481,1481,P1025,sudoc editions
+1482,1482,P1044,swb editions
+1483,1483,P1450,sandbox monolingual text
+1484,1484,P368,sandbox-commonsmediafile
+1485,1485,P2536,sandbox-external identifier
+1486,1486,P626,sandbox-geocoordinatevalue
+1487,1487,P626,sandbox-coordinates
+1488,1488,P369,sandbox-item
+1489,1489,P369,sandbox-item
+1490,1490,P369,sandbox
+1491,1491,P2535,sandbox-mathematical expression
+1492,1492,P2368,sandbox-property
+1493,1493,P370,sandbox-string
+1494,1494,P578,sandbox-timevalue
+1495,1495,P578,sandbox-time
+1496,1496,P578,sandbox-date
+1497,1497,P855,sandbox-url
+1498,1498,P1422,sandrart.net person id
+1499,1499,P2570,saros cycle of eclipse
+1500,1500,P845,saskatchewan register of heritage property identifier
+1501,1501,P2518,scope.dk film id
+1502,1502,P2518,scope id (film)
+1503,1503,P2519,scope.dk person id
+1504,1504,P2519,scope id (person)
+1505,1505,P1155,scopus affiliation id
+1506,1506,P1153,scopus author id
+1507,1507,P1154,scopus eid
+1508,1508,P1156,scopus source id
+1509,1509,P781,sikart
+1510,1510,P2401,six degrees of francis bacon id
+1511,1511,P2401,sdfb
+1512,1512,P2401,6dfb
+1513,1513,P2401,6 degrees of francis bacon
+1514,1514,P1305,skyscraper center id
+1515,1515,P1699,skyscraperpage building id
+1516,1516,P1587,slovene cultural heritage register id
+1517,1517,P1587,rkd
+1518,1518,P1254,slovenska biografija id
+1519,1519,P1795,smithsonian american art museum: person/institution thesaurus id
+1520,1520,P1795,saam  id
+1521,1521,P1795,american art id
+1522,1522,P1886,smithsonian volcano identifier
+1523,1523,P2195,soccerbase manager id
+1524,1524,P2193,soccerbase player id
+1525,1525,P2369,soccerway player id
+1526,1526,P893,social science research network id
+1527,1527,P2155,solid solution series with
+1528,1528,P2209,sourceforge project
+1529,1529,P911,south african municipality code
+1530,1530,P920,spanish subject headings for public libraries
+1531,1531,P2455,species profile and threats database id
+1532,1532,P2350,speedskatingbase.eu id
+1533,1533,P1447,sports reference id
+1534,1534,P2205,spotify album id
+1535,1535,P1902,spotify artist id
+1536,1536,P2207,spotify track id
+1537,1537,P1482,stack exchange tag
+1538,1538,P1397,state catalogue of geographical names identifier (russia)
+1539,1539,P884,state water register code (russia)
+1540,1540,P2589,statistics indonesia ethnicity code
+1541,1541,P2590,statistics indonesia language code
+1542,1542,P1733,steam application id
+1543,1543,P1733,steampowered.com id
+1544,1544,P454,structurae id (structure)
+1545,1545,P2418,structurae person id
+1546,1546,P711,strunz 8th edition (series id)
+1547,1547,P2349,stuttgart database of scientific illustrators id
+1548,1548,P2349,stuttgart scientific illustrator id
+1549,1549,P2349,database of scientific illustrators id
+1550,1550,P2349,dsi id
+1551,1551,P1238,swedish football association id
+1552,1552,P2365,roman cognomen
+1553,1553,P2365,cognomen
+1554,1554,P777,swedish civil parish code/ata code
+1555,1555,P777,sockenkod
+1556,1556,P2323,swedish olympic committee athlete id
+1557,1557,P507,swedish county code
+1558,1558,P507,länskod
+1559,1559,P507,county code (sweden)
+1560,1560,P776,swedish minor urban area code
+1561,1561,P776,småortskod
+1562,1562,P776,smaortskod
+1563,1563,P525,swedish municipality code
+1564,1564,P775,swedish urban area code
+1565,1565,P775,tätortskod
+1566,1566,P775,tatortskod
+1567,1567,P1241,swiss football association club number
+1568,1568,P771,swiss municipality code
+1569,1569,P771,bfs number
+1570,1570,P1307,swiss parliament identifier
+1571,1571,P1307,parliament.ch
+1572,1572,P1307,id parliament.ch
+1573,1573,P1307,parlement.ch
+1574,1574,P1307,parlament.ch
+1575,1575,P1045,sycomore id
+1576,1576,P1710,sächsische biografie
+1577,1577,P2477,tbrc resource id
+1578,1578,P1653,teryt municipality code
+1579,1579,P1124,teu
+1580,1580,P1124,teu
+1581,1581,P1124,twenty-foot equivalent unit
+1582,1582,P1667,tgn identifier
+1583,1583,P1667,thesaurus of geographic names
+1584,1584,P1667,getty thesaurus of geographic names
+1585,1585,P2470,talouselämän vaikuttajat id
+1586,1586,P1993,tex string
+1587,1587,P1993,latex string
+1588,1588,P1323,terminologia anatomica 98
+1589,1589,P1323,ta98
+1590,1590,P1693,terminologia embryologica (te)
+1591,1591,P1693,te
+1592,1592,P1694,terminologia histologica (th)
+1593,1593,P1694,th
+1594,1594,P2018,teuchos id
+1595,1595,P1626,thai cultural heritage id
+1596,1596,P1067,thailand central administrative unit code
+1597,1597,P1067,tis 1099
+1598,1598,P1841,swedish district code
+1599,1599,P1841,district code
+1600,1600,P2469,theatricalia person id
+1601,1601,P2469,theatricalia actor id
+1602,1602,P2469,theatricalia actress id
+1603,1603,P2469,theatricalia id (person)
+1604,1604,P1242,theatricalia play id
+1605,1605,P1242,theatricalia show id
+1606,1606,P1242,theatricalia work id
+1607,1607,P1242,theatricalia id (play)
+1608,1608,P2468,theatricalia theatre id
+1609,1609,P2468,theatricalia venue id
+1610,1610,P2468,theatricalia place id
+1611,1611,P2468,theatricalia id (theatre)
+1612,1612,P2171,they work for you identifier
+1613,1613,P2431,thyssen-bornemisza artist id
+1614,1614,P2431,thyssen-bornemisza artist identifier
+1615,1615,P1958,trismegistos geo id
+1616,1616,P960,tropicos taxon name identifier
+1617,1617,P960,tropicos id
+1618,1618,P2449,turkish football federation manager id
+1619,1619,P2449,turkish football federation id (manager)
+1620,1620,P2449,turkish football federation coach  id
+1621,1621,P2449,turkish football federation id (coach)
+1622,1622,P2448,turkish football federation player id
+1623,1623,P2448,turkish football federation id (player)
+1624,1624,P2448,tff player id
+1625,1625,P2448,tff id (player)
+1626,1626,P2572,twitter hashtag
+1627,1627,P2572,#twitter
+1628,1628,P2572,twitter #
+1629,1629,P2572,hashtag on twitter
+1630,1630,P2002,twitter username
+1631,1631,P2002,twitter account
+1632,1632,P2002,twitter handle
+1633,1633,P1554,uberon id
+1634,1634,P844,ubigeo code
+1635,1635,P1998,uci code
+1636,1636,P1362,theaterlexikon der schweiz online id
+1637,1637,P1362,tls
+1638,1638,P2576,ucsc genome browser assembly id
+1639,1639,P2276,uefa player code
+1640,1640,P722,uic station code
+1641,1641,P874,un class
+1642,1642,P875,un code classification
+1643,1643,P695,un number
+1644,1644,P245,ulan identifier
+1645,1645,P245,ulan
+1646,1646,P245,getty ulan
+1647,1647,P245,union list of artist names
+1648,1648,P245,jpg
+1649,1649,P1937,un/locode
+1650,1650,P1937,loccode
+1651,1651,P1937,united nations locode
+1652,1652,P1937,un location code
+1653,1653,P1937,united nations location code
+1654,1654,P1937,unece location code
+1655,1655,P1937,unece locode
+1656,1656,P2520,unesco biosphere reserve url
+1657,1657,P2355,unesco endangered language id
+1658,1658,P2355,unesco language id
+1659,1659,P1999,unesco language status
+1660,1660,P652,unii
+1661,1661,P652,unii
+1662,1662,P876,un packaging group
+1663,1663,P1921,uri pattern for rdf resource
+1664,1664,P1921,formatter url for rdf
+1665,1665,P1921,rdf url pattern
+1666,1666,P1157,us congress bio identifier
+1667,1667,P1157,biographical directory of the united states congress identifier
+1668,1668,P1157,bioguide us congress
+1669,1669,P1157,us congress bio id
+1670,1670,P1157,congbio
+1671,1671,P1839,us federal election commission identifier
+1672,1672,P1839,fec candidate id
+1673,1673,P1167,usb id
+1674,1674,P1978,usda ndb number
+1675,1675,P1978,ndb number
+1676,1676,P1772,usda plants id
+1677,1677,P914,usk rating
+1678,1678,P914,unterhaltungssoftware selbstkontrolle rating
+1679,1679,P352,uniprot id
+1680,1680,P487,unicode character
+1681,1681,P487,unicode code point
+1682,1682,P2028,united states armed forces service number
+1683,1683,P2028,service number (us armed forces)
+1684,1684,P897,united states army and air force aircraft designation
+1685,1685,P897,us army aircraft designation
+1686,1686,P897,usaf aircraft designation
+1687,1687,P847,united states navy aircraft designation
+1688,1688,P847,usn aircraft designation
+1689,1689,P1190,universal decimal classification
+1690,1690,P1190,udc
+1691,1691,P1580,university of barcelona authority id
+1692,1692,P1745,vascan id
+1693,1693,P1745,vascan
+1694,1694,P214,viaf identifier
+1695,1695,P214,virtual international authority file
+1696,1696,P214,viaf
+1697,1697,P1925,violin id
+1698,1698,P2167,unspsc code
+1699,1699,P2167,unspsc
+1700,1700,P2167,united nations standard products and services code
+1701,1701,P1928,vaccine ontology id
+1702,1702,P1878,vox-atypi classification
+1703,1703,P1468,wals family code
+1704,1704,P1466,wals lect code
+1705,1705,P809,wdpa id
+1706,1706,P809,world database on protected areas identifier
+1707,1707,P761,wiss_id
+1708,1708,P761,eu_cd
+1709,1709,P1281,woeid
+1710,1710,P1281,where on earth identifier
+1711,1711,P1281,woe_id
+1712,1712,P1281,geoplanet location id
+1713,1713,P1281,flickr location id
+1714,1714,P597,wta id
+1715,1715,P1294,wwf ecoregion code
+1716,1716,P1761,watson & dallwitz family id
+1717,1717,P1882,web gallery of art identifier
+1718,1718,P2186,wiki loves monuments id
+1719,1719,P2410,wikipathways id
+1720,1720,P1860,wikidata example url
+1721,1721,P1860,property sample url
+1722,1722,P1860,property example url
+1723,1723,P1865,wikidata example geographic coordinates
+1724,1724,P1865,wikidata sample geographic coordinates
+1725,1725,P1865,sample coordinates
+1726,1726,P1865,example coordinates
+1727,1727,P1859,wikidata example item
+1728,1728,P1859,example item
+1729,1729,P1859,property sample item
+1730,1730,P1859,property example item
+1731,1731,P1859,sample item
+1732,1732,P1859,wikidata example value with item datatype
+1733,1733,P1856,wikidata example media file
+1734,1734,P1864,wikidata example monolingual text
+1735,1735,P1864,example monolingual text
+1736,1736,P1864,sample monolingual text
+1737,1737,P1864,wikidata sample monolingual text
+1738,1738,P1863,wikidata example property value
+1739,1739,P1863,wikidata property sample property-value
+1740,1740,P1862,wikidata example quantity
+1741,1741,P1862,example quantity
+1742,1742,P1862,sample quantity
+1743,1743,P1862,property sample quantity
+1744,1744,P1862,property example quantity
+1745,1745,P1858,wikidata example string
+1746,1746,P1858,wikidata sample string
+1747,1747,P1858,example string
+1748,1748,P1467,wals genus code
+1749,1749,P1861,wikidata example time
+1750,1750,P1861,wikidata example date
+1751,1751,P1861,wikidata sample time
+1752,1752,P1861,wikidata sample date
+1753,1753,P1861,property sample time
+1754,1754,P1861,property example time
+1755,1755,P1861,property example date
+1756,1756,P1861,property sample date
+1757,1757,P1687,wikidata property
+1758,1758,P1687,property
+1759,1759,P1687,main property
+1760,1760,P1855,wikidata property example
+1761,1761,P1855,example of property
+1762,1762,P1855,example of wikidata property
+1763,1763,P1855,property example
+1764,1764,P1855,wikidata property sample
+1765,1765,P1855,example item for this property
+1766,1766,P1855,property sample
+1767,1767,P1855,example
+1768,1768,P1855,for example
+1769,1769,P1855,e.g.
+1770,1770,P1855,eg
+1771,1771,P2559,wikidata usage instructions
+1772,1772,P2559,usage instructions
+1773,1773,P2559,instructions
+1774,1774,P1800,wikimedia database name
+1775,1775,P1800,wikimedia dbname/siteid
+1776,1776,P1800,siteid
+1777,1777,P1800,wikimedia siteid
+1778,1778,P424,wikimedia language code
+1779,1779,P424,mediawiki interlanguage prefix
+1780,1780,P424,language code
+1781,1781,P424,wmf language code
+1782,1782,P1204,wikimedia portal's main topic
+1783,1783,P1957,wikisource index page
+1784,1784,P1957,index namespace
+1785,1785,P948,wikivoyage banner
+1786,1786,P600,wine appdb-id
+1787,1787,P2533,womenwriters id
+1788,1788,P1404,world glacier inventory id
+1789,1789,P1404,glacier id
+1790,1790,P2275,world health organisation international nonproprietary name
+1791,1791,P2275,who inn
+1792,1792,P757,world heritage site id
+1793,1793,P757,unesco whs
+1794,1794,P850,world register of marine species identifier
+1795,1795,P850,worms-id
+1796,1796,P850,worms
+1797,1797,P850,aphiaid
+1798,1798,P2426,xeno-canto species id
+1799,1799,P2426,xeno-canto id
+1800,1800,P2426,xeno canto species id
+1801,1801,P2347,yso id
+1802,1802,P1553,yandex.music id
+1803,1803,P2123,yerelnet village id
+1804,1804,P2397,youtube channel id
+1805,1805,P1651,youtube video identifier
+1806,1806,P1651,youtube video id
+1807,1807,P2271,wikidata property example for properties
+1808,1808,P1161,z39.5 abbreviation
+1809,1809,P1042,zdb identifier
+1810,1810,P2084,zinc id
+1811,1811,P679,zvg number
+1812,1812,P894,zentralblatt math
+1813,1813,P1556,zentralblatt math author id
+1814,1814,P2006,zoobank author id
+1815,1815,P1746,zoobank nomenclatural act
+1816,1816,P2007,zoobank publication id
+1817,1817,P2007,zoobank reference id
+1818,1818,P1457,absolute magnitude
+1819,1819,P512,academic degree
+1820,1820,P512,degree
+1821,1821,P512,diploma
+1822,1822,P812,academic major
+1823,1823,P812,major
+1824,1824,P811,academic minor
+1825,1825,P1642,acquisition transaction
+1826,1826,P1642,contract status
+1827,1827,P1642,loan
+1828,1828,P928,activating neurotransmitter
+1829,1829,P928,ligands
+1830,1830,P2542,acceptable daily intake
+1831,1831,P2542,adi
+1832,1832,P197,adjacent station
+1833,1833,P197,next station
+1834,1834,P197,previous station
+1835,1835,P197,next stop
+1836,1836,P197,neighbouring station
+1837,1837,P2577,admissible rule in
+1838,1838,P1416,affiliation
+1839,1839,P1416,affiliated with
+1840,1840,P689,afflicts
+1841,1841,P1817,addressee
+1842,1842,P1817,addressed to
+1843,1843,P1817,sent to
+1844,1844,P2320,aftershocks
+1845,1845,P2320,number of aftershocks
+1846,1846,P2320,quantity of aftershocks
+1847,1847,P426,aircraft registration
+1848,1848,P426,acreg
+1849,1849,P426,registration
+1850,1850,P114,airline alliance
+1851,1851,P113,airline hub
+1852,1852,P113,hub
+1853,1853,P113,hub airport
+1854,1854,P1877,after a work by
+1855,1855,P1877,copy of a work by
+1856,1856,P945,allegiance
+1857,1857,P907,allgame id
+1858,1858,P907,amg game id
+1859,1859,P1918,altered regulation leads to
+1860,1860,P2279,ambitus
+1861,1861,P2567,amended by
+1862,1862,P739,ammunition
+1863,1863,P739,cartridge
+1864,1864,P927,anatomical location
+1865,1865,P66,ancestral home
+1866,1866,P66,jiguan
+1867,1867,P2212,angular distance
+1868,1868,P2329,antagonist muscle
+1869,1869,P85,anthem
+1870,1870,P1845,anti-virus alias
+1871,1871,P2152,antiparticle
+1872,1872,P2152,antiparticle of
+1873,1873,P2243,apoapsis
+1874,1874,P2243,aphelion
+1875,1875,P1215,apparent magnitude
+1876,1876,P1001,applies to jurisdiction
+1877,1877,P1001,of jurisdiction
+1878,1878,P1001,linked to jurisdiction
+1879,1879,P1001,belongs to jurisdiction
+1880,1880,P1001,jurisdiction
+1881,1881,P518,applies to part
+1882,1882,P518,valid for part
+1883,1883,P518,line item
+1884,1884,P2352,applies to taxon
+1885,1885,P748,appointed by
+1886,1886,P790,approved by
+1887,1887,P1171,approximation algorithm
+1888,1888,P818,arxiv id
+1889,1889,P820,arxiv classification
+1890,1890,P84,architect
+1891,1891,P149,architectural style
+1892,1892,P1065,archive url
+1893,1893,P1065,url in archive
+1894,1894,P1065,url archived
+1895,1895,P485,archives at
+1896,1896,P485,papers at
+1897,1897,P485,correspondence at
+1898,1898,P2046,area
+1899,1899,P2248,argument of periapsis
+1900,1900,P2248,ω
+1901,1901,P2248,argument of perifocus
+1902,1902,P2248,argument of pericenter
+1903,1903,P2248,argument of perihelion
+1904,1904,P2248,argument of perigee
+1905,1905,P2248,argument of periastron
+1906,1906,P520,armament
+1907,1907,P520,armed with
+1908,1908,P520,weapon
+1909,1909,P520,ship armament
+1910,1910,P1787,art-name
+1911,1911,P1787,art name
+1912,1912,P1787,hao
+1913,1913,P2286,arterial supply
+1914,1914,P2286,artery
+1915,1915,P2322,article id
+1916,1916,P794,as
+1917,1917,P794,has role
+1918,1918,P794,as-qualifier
+1919,1919,P794,as-property
+1920,1920,P2061,aspect ratio
+1921,1921,P2061,image aspect ratio
+1922,1922,P744,asteroid family
+1923,1923,P720,asteroid spectral type
+1924,1924,P1016,asteroid taxonomy
+1925,1925,P450,astronaut mission
+1926,1926,P450,cosmonaut mission
+1927,1927,P367,astronomic symbol image
+1928,1928,P1227,astronomical filter
+1929,1929,P1227,wavelength band
+1930,1930,P1227,colour filter
+1931,1931,P1227,filter
+1932,1932,P1086,atomic number
+1933,1933,P1086,proton number
+1934,1934,P1110,attendance
+1935,1935,P1110,spectators
+1936,1936,P1773,attributed to
+1937,1937,P51,audio
+1938,1938,P51,song
+1939,1939,P51,recording
+1940,1940,P51,audio file
+1941,1941,P51,audio recording
+1942,1942,P51,sound recording
+1943,1943,P990,audio recording of the subject's spoken voice
+1944,1944,P990,voice recording
+1945,1945,P990,recording of the subject's spoken voice
+1946,1946,P50,author
+1947,1947,P50,written by
+1948,1948,P50,writer (of written work)
+1949,1949,P835,author citation (zoology)
+1950,1950,P835,abbreviation of author in zoology
+1951,1951,P835,author abbreviation in zoology
+1952,1952,P835,zoology author name
+1953,1953,P835,zoologist author name
+1954,1954,P797,authority
+1955,1955,P797,executive authority
+1956,1956,P2199,autoignition temperature
+1957,1957,P2199,kindling point
+1958,1958,P2558,autores.uy database id
+1959,1959,P2198,average gradient
+1960,1960,P2198,gradient
+1961,1961,P2208,average shot length
+1962,1962,P2208,asl
+1963,1963,P878,avionics
+1964,1964,P878,sensors
+1965,1965,P878,electronics
+1966,1966,P166,award received
+1967,1967,P166,prize received
+1968,1968,P166,awards
+1969,1969,P166,honorary title
+1970,1970,P166,recognition title
+1971,1971,P166,award
+1972,1972,P166,honours
+1973,1973,P166,honors
+1974,1974,P166,medals
+1975,1975,P166,awarded
+1976,1976,P1432,b-side
+1977,1977,P2294,balance of trade
+1978,1978,P2294,net exports
+1979,1979,P1868,ballots cast
+1980,1980,P1868,total vote count
+1981,1981,P144,based on
+1982,1982,P144,copie of
+1983,1983,P144,fork of
+1984,1984,P144,derived from
+1985,1985,P144,extended from
+1986,1986,P887,based on heuristic
+1987,1987,P122,basic form of government
+1988,1988,P122,type of government
+1989,1989,P122,form of government
+1990,1990,P122,government
+1991,1991,P205,basin country
+1992,1992,P205,basin countries
+1993,1993,P566,basionym
+1994,1994,P207,bathymetry image
+1995,1995,P207,bathymetric chart
+1996,1996,P207,bathymetric map
+1997,1997,P207,file bathymetry
+1998,1998,P2261,beam
+1999,1999,P2261,boa
+2000,2000,P1725,beats per minute
+2001,2001,P1725,bpm
+2002,2002,P1300,bibcode
+2003,2003,P2154,binding energy
+2004,2004,P1372,binding of software library
+2005,2005,P1713,biography at the bundestag of germany
+2006,2006,P682,biological process
+2007,2007,P1604,biosafety level
+2008,2008,P1477,birth name
+2009,2009,P1477,maiden name
+2010,2010,P1477,born as
+2011,2011,P1477,bn
+2012,2012,P1477,bname
+2013,2013,P1477,birth name (monolingual text)
+2014,2014,P1477,née
+2015,2015,P1477,birthname
+2016,2016,P1477,name at birth
+2017,2017,P1477,full name at birth
+2018,2018,P1477,nee
+2019,2019,P2599,block size
+2020,2020,P1853,blood type
+2021,2021,P1853,blood group
+2022,2022,P1200,bodies of water basin category
+2023,2023,P1200,category associated with the basin of the bodies of water
+2024,2024,P1200,water system category
+2025,2025,P2102,boiling point
+2026,2026,P2556,bore
+2027,2027,P428,botanist author abbreviation
+2028,2028,P428,abbreviation of botanist
+2029,2029,P428,author abbreviation of botanist
+2030,2030,P428,botanist name
+2031,2031,P428,botanical author abbreviation
+2032,2032,P428,botanic author abbreviation
+2033,2033,P428,botany author
+2034,2034,P2545,bowling style
+2035,2035,P2142,box office
+2036,2036,P1716,brand
+2037,2037,P1381,bridgehunter.com id
+2038,2038,P7,brother
+2039,2039,P7,has brother
+2040,2040,P7,sibling
+2041,2041,P7,bro
+2042,2042,P1401,bug tracking system
+2043,2043,P1401,bugs
+2044,2044,P1401,issue tracker
+2045,2045,P1794,bureau du patrimoine de seine-saint-denis id
+2046,2046,P965,burial plot reference
+2047,2047,P965,plot
+2048,2048,P199,business division
+2049,2049,P199,divisions
+2050,2050,P2317,call sign
+2051,2051,P2317,callsign
+2052,2052,P432,callsign of airline
+2053,2053,P432,airline code
+2054,2054,P432,airline callsign
+2055,2055,P432,airline call sign
+2056,2056,P726,candidate
+2057,2057,P233,canonical smiles
+2058,2058,P233,smiles
+2059,2059,P411,canonization status
+2060,2060,P411,sainthood status
+2061,2061,P36,capital
+2062,2062,P36,capital city
+2063,2063,P36,capital town
+2064,2064,P36,chef-lieu
+2065,2065,P36,principal place
+2066,2066,P36,county seat
+2067,2067,P36,administrative centre
+2068,2068,P1376,capital of
+2069,2069,P1376,county seat of
+2070,2070,P1376,county seat for
+2071,2071,P634,captain
+2072,2072,P1164,cardinality of the group
+2073,2073,P1164,group order
+2074,2074,P1164,group size
+2075,2075,P2505,carries
+2076,2076,P1202,carries scientific instrument
+2077,2077,P1202,scientific equipment
+2078,2078,P1202,metering equipment
+2079,2079,P2232,cash
+2080,2080,P161,cast member
+2081,2081,P161,film starring
+2082,2082,P161,actor
+2083,2083,P161,actress
+2084,2084,P161,starring
+2085,2085,P972,catalog
+2086,2086,P972,catalogue
+2087,2087,P972,registry
+2088,2088,P528,catalog code
+2089,2089,P528,astronomical catalog
+2090,2090,P528,register
+2091,2091,P528,opus number
+2092,2092,P528,catalogue code
+2093,2093,P971,category combines topics
+2094,2094,P971,category intersects topics
+2095,2095,P971,category topics
+2096,2096,P971,category subjects
+2097,2097,P971,combines topics
+2098,2098,P1740,category for films shot at this location
+2099,2099,P1740,cat films shot
+2100,2100,P1740,cfsi
+2101,2101,P1740,cff
+2102,2102,P1464,category for people born here
+2103,2103,P1465,category for people who died here
+2104,2104,P2517,category for recipients of this award
+2105,2105,P1792,category of associated people
+2106,2106,P1791,category of people buried here
+2107,2107,P1754,category related to list
+2108,2108,P1754,list's category
+2109,2109,P301,category's main topic
+2110,2110,P301,main article in category
+2111,2111,P301,main category topic
+2112,2112,P301,topic
+2113,2113,P301,main topic of category
+2114,2114,P301,category's main article
+2115,2115,P301,main article
+2116,2116,P1885,cathedral
+2117,2117,P1453,catholic.ru identifier
+2118,2118,P1542,cause of
+2119,2119,P1542,has effect
+2120,2120,P1542,effect
+2121,2121,P1542,has result
+2122,2122,P1542,result
+2123,2123,P1542,has outcome
+2124,2124,P1542,outcome
+2125,2125,P1542,has symptom
+2126,2126,P1542,consequence
+2127,2127,P509,cause of death
+2128,2128,P509,death cause
+2129,2129,P509,die from
+2130,2130,P770,cause of destruction
+2131,2131,P2405,ceiling exposure limit
+2132,2132,P681,cell component
+2133,2133,P1304,central bank
+2134,2134,P562,central bank/issuer
+2135,2135,P562,issuer
+2136,2136,P1689,central government debt as a percent of gdp
+2137,2137,P488,chairperson
+2138,2138,P488,chairman
+2139,2139,P488,chairwoman
+2140,2140,P488,president
+2141,2141,P488,leader
+2142,2142,P792,chapter
+2143,2143,P453,character role
+2144,2144,P453,role
+2145,2145,P453,as
+2146,2146,P674,characters
+2147,2147,P1595,charge
+2148,2148,P2291,charted in
+2149,2149,P274,chemical formula
+2150,2150,P274,formula
+2151,2151,P274,molecular formula
+2152,2152,P117,chemical structure
+2153,2153,P117,crystallographic structure
+2154,2154,P169,chief executive officer
+2155,2155,P169,ceo
+2156,2156,P169,chief executive
+2157,2157,P169,ceo
+2158,2158,P1789,chief operating officer
+2159,2159,P1789,coo
+2160,2160,P40,child
+2161,2161,P40,son
+2162,2162,P40,daughter
+2163,2163,P40,kid
+2164,2164,P40,is parent of
+2165,2165,P40,has child
+2166,2166,P40,children
+2167,2167,P40,father of
+2168,2168,P40,mother of
+2169,2169,P40,parent of
+2170,2170,P40,is father of
+2171,2171,P40,is mother of
+2172,2172,P398,child astronomical body
+2173,2173,P398,child body
+2174,2174,P550,chivalric order
+2175,2175,P1809,choreographer
+2176,2176,P1057,chromosome
+2177,2177,P1057,on chromosome
+2178,2178,P1776,circle of
+2179,2179,P2308,class
+2180,2180,P2502,classification of
+2181,2181,P693,cleavage
+2182,2182,P2149,clock speed
+2183,2183,P2095,co-driver
+2184,2184,P2095,codriver
+2185,2185,P2095,copilot
+2186,2186,P2095,co-pilot
+2187,2187,P2095,navigator
+2188,2188,P237,coat of arms
+2189,2189,P94,coat of arms image
+2190,2190,P94,symbol
+2191,2191,P94,heraldic representation
+2192,2192,P94,heraldic emblem
+2193,2193,P94,arms
+2194,2194,P808,code bien de interés cultural
+2195,2195,P808,bic
+2196,2196,P1600,code inventari del patrimoni arquitectònic de catalunya
+2197,2197,P1600,bcin
+2198,2198,P1600,bcil
+2199,2199,P1600,catalan architectural inventory id
+2200,2200,P1600,ipa (catalonia)
+2201,2201,P980,code for weekend and holiday homes (sweden)
+2202,2202,P1571,codomain
+2203,2203,P1571,range
+2204,2204,P1382,coincident with
+2205,2205,P1382,partially overlaps
+2206,2206,P1382,partial concurrency
+2207,2207,P1382,concurrent with
+2208,2208,P1382,partially in
+2209,2209,P1382,concurrency
+2210,2210,P195,collection
+2211,2211,P195,art collection
+2212,2212,P195,museum collection
+2213,2213,P1436,collection or exhibition size
+2214,2214,P462,color
+2215,2215,P462,colour
+2216,2216,P1458,color index
+2217,2217,P929,color space
+2218,2218,P2117,combustion enthalpy
+2219,2219,P598,commander of
+2220,2220,P598,commands
+2221,2221,P547,commemorates
+2222,2222,P547,memorial to
+2223,2223,P1801,commemorative plaque image
+2224,2224,P1801,plaque image
+2225,2225,P1801,memorial plaque image
+2226,2226,P1801,inscription image
+2227,2227,P2315,comment
+2228,2228,P2315,property usage
+2229,2229,P2315,usage note
+2230,2230,P2465,allcinema film id
+2231,2231,P2465,allcinema film identifier
+2232,2232,P399,companion of
+2233,2233,P2094,competition class
+2234,2234,P2094,class for competition
+2235,2235,P2094,qualification class
+2236,2236,P2094,qualifies for
+2237,2237,P2094,compclass
+2238,2238,P86,composer
+2239,2239,P86,songwriter
+2240,2240,P86,composed by
+2241,2241,P86,musical score by
+2242,2242,P86,music by
+2243,2243,P1247,compression ratio
+2244,2244,P1221,compressor type
+2245,2245,P1027,conferred by
+2246,2246,P1027,awarded by
+2247,2247,P1027,bestowed by
+2248,2248,P1027,given by
+2249,2249,P1027,granted by
+2250,2250,P1027,presented by
+2251,2251,P88,commissioned by
+2252,2252,P88,client
+2253,2253,P88,commissioner
+2254,2254,P88,made for
+2255,2255,P88,built for
+2256,2256,P1940,conifers.org id
+2257,2257,P81,connecting line
+2258,2258,P81,railway line
+2259,2259,P81,rapid transit line
+2260,2260,P1192,connecting service
+2261,2261,P1598,consecrator
+2262,2262,P1598,consecrated by
+2263,2263,P607,conflict
+2264,2264,P607,war
+2265,2265,P607,battle
+2266,2266,P2316,constraint status
+2267,2267,P2316,status of constraint
+2268,2268,P2316,mandatory constraint status
+2269,2269,P2292,consumption rate
+2270,2270,P2292,rate of consumption
+2271,2271,P2292,consumption
+2272,2272,P2569,contact times of eclipse
+2273,2273,P150,contains administrative territorial entities
+2274,2274,P150,contains
+2275,2275,P150,divides into
+2276,2276,P150,divided into
+2277,2277,P150,has towns
+2278,2278,P150,has shires
+2279,2279,P150,has cities
+2280,2280,P150,has rural cities
+2281,2281,P150,has municipalities
+2282,2282,P150,has wards
+2283,2283,P150,has local government areas
+2284,2284,P150,has districts
+2285,2285,P150,has boroughs
+2286,2286,P150,subdivided into
+2287,2287,P150,has counties
+2288,2288,P150,has administrative divisions
+2289,2289,P150,has arrondissements
+2290,2290,P150,has villages
+2291,2291,P1383,contains settlement
+2292,2292,P30,continent
+2293,2293,P1537,contributing factor of
+2294,2294,P767,contributor
+2295,2295,P767,assistant
+2296,2296,P2370,conversion to si unit
+2297,2297,P2370,conversion to si base unit
+2298,2298,P2442,conversion to standard unit
+2299,2299,P2442,unit conversion
+2300,2300,P1399,convicted of
+2301,2301,P588,coolant
+2302,2302,P625,coordinate location
+2303,2303,P625,coordinates
+2304,2304,P625,co-ordinate location
+2305,2305,P625,co-ordinates
+2306,2306,P625,coords
+2307,2307,P625,co-ords
+2308,2308,P625,geographic coordinate
+2309,2309,P625,gps coordinate
+2310,2310,P625,gps co-ordinate
+2311,2311,P625,gps coordinates
+2312,2312,P625,gps co-ordinates
+2313,2313,P625,gps location
+2314,2314,P625,geotag
+2315,2315,P625,wgs 84
+2316,2316,P625,wgs-84
+2317,2317,P625,wgs84
+2318,2318,P625,position
+2319,2319,P625,longitude
+2320,2320,P625,latitude
+2321,2321,P625,gps
+2322,2322,P625,coordinate location
+2323,2323,P625,geographical coordinates
+2324,2324,P625,geo
+2325,2325,P625,location
+2326,2326,P1334,coordinate of easternmost point
+2327,2327,P1334,easterly
+2328,2328,P1334,most eastern
+2329,2329,P1334,farthest east
+2330,2330,P1334,extreme point east
+2331,2331,P1332,coordinate of northernmost point
+2332,2332,P1332,most northerly
+2333,2333,P1332,farthest north
+2334,2334,P1332,extreme point north
+2335,2335,P1333,coordinate of southernmost point
+2336,2336,P1333,southerly
+2337,2337,P1333,most south
+2338,2338,P1333,farthest south
+2339,2339,P1333,extreme point south
+2340,2340,P1335,coordinate of westernmost point
+2341,2341,P1335,westerly point
+2342,2342,P1335,extreme west
+2343,2343,P1335,most western
+2344,2344,P1335,extreme point west
+2345,2345,P1259,coordinates of the point of view
+2346,2346,P2130,cost
+2347,2347,P2130,unit cost
+2348,2348,P2515,costume designer
+2349,2349,P17,country
+2350,2350,P17,sovereign state
+2351,2351,P17,nation
+2352,2352,P474,country calling code
+2353,2353,P474,country dialing code
+2354,2354,P474,dialing code
+2355,2355,P474,calling code
+2356,2356,P1532,country for sport
+2357,2357,P1532,sporting nationality
+2358,2358,P1532,sports nationality
+2359,2359,P27,country of citizenship
+2360,2360,P27,citizenship
+2361,2361,P27,nationality
+2362,2362,P27,citizen of
+2363,2363,P27,subject of (country)
+2364,2364,P495,country of origin
+2365,2365,P495,place of origin
+2366,2366,P1782,courtesy name
+2367,2367,P1782,zi
+2368,2368,P1782,style name
+2369,2369,P1782,courtesy name
+2370,2370,P736,cover artist
+2371,2371,P170,creator
+2372,2372,P170,artist (non-musical)
+2373,2373,P170,created by
+2374,2374,P170,painter
+2375,2375,P170,sculptor
+2376,2376,P1029,crew member
+2377,2377,P1013,criterion used
+2378,2378,P1013,basis
+2379,2379,P1013,with respect to
+2380,2380,P1013,by
+2381,2381,P1013,on the basis of
+2382,2382,P1013,according to
+2383,2383,P1013,with reference to
+2384,2384,P177,crosses
+2385,2385,P177,bridge over
+2386,2386,P177,tunnel under
+2387,2387,P2217,cruise speed
+2388,2388,P565,crystal habit
+2389,2389,P556,crystal system
+2390,2390,P2012,cuisine
+2391,2391,P632,cultural properties of belarus reference number
+2392,2392,P2596,culture
+2393,2393,P1640,curator
+2394,2394,P1640,has curator
+2395,2395,P1640,keeper
+2396,2396,P38,currency
+2397,2397,P38,base currency
+2398,2398,P489,currency symbol description
+2399,2399,P1373,daily ridership
+2400,2400,P468,dan/kyu rank
+2401,2401,P429,dantai code
+2402,2402,P429,municipality code (japan)
+2403,2403,P429,japanese municipality identifier
+2404,2404,P1636,date of baptism in early childhood
+2405,2405,P1636,baptism date
+2406,2406,P1636,date of baptism
+2407,2407,P1636,date baptism
+2408,2408,P1636,time of baptism
+2409,2409,P569,date of birth
+2410,2410,P569,born on
+2411,2411,P569,birth date
+2412,2412,P569,birthday
+2413,2413,P569,birthdate
+2414,2414,P569,birth year
+2415,2415,P569,year of birth
+2416,2416,P569,birthyear
+2417,2417,P569,dob
+2418,2418,P570,date of death
+2419,2419,P570,date of the end
+2420,2420,P570,death
+2421,2421,P570,death date
+2422,2422,P570,died on
+2423,2423,P570,dod
+2424,2424,P570,year of death
+2425,2425,P570,dead
+2426,2426,P570,deathdate
+2427,2427,P746,date of disappearance
+2428,2428,P746,disappeared
+2429,2429,P746,last known alive before disappearance
+2430,2430,P746,time of disappearance
+2431,2431,P1619,date of official opening
+2432,2432,P1619,time of official opening
+2433,2433,P1619,opening date
+2434,2434,P1619,official opened on
+2435,2435,P1619,opened
+2436,2436,P574,date of taxon name publication
+2437,2437,P574,taxon date
+2438,2438,P574,taxon year
+2439,2439,P574,described in
+2440,2440,P574,year of scientific description
+2441,2441,P574,date of scientific description
+2442,2442,P837,day in year for periodic occurrence
+2443,2443,P837,day of periodic occurrence
+2444,2444,P837,day in year
+2445,2445,P837,day
+2446,2446,P837,date
+2447,2447,P837,recurring event
+2448,2448,P837,periodic occurrence
+2449,2449,P2456,dblp identifier
+2450,2450,P2456,dblp computer science bibliography
+2451,2451,P2318,debut participant
+2452,2452,P2318,debut country
+2453,2453,P2318,first-time participant
+2454,2454,P2318,first appearance for
+2455,2455,P817,decay mode
+2456,2456,P2223,decay width
+2457,2457,P816,decays to
+2458,2458,P2107,decomposition point
+2459,2459,P1910,decreased expression in
+2460,2460,P825,dedicated to
+2461,2461,P1589,deepest point
+2462,2462,P1589,lowest point
+2463,2463,P1591,defendant
+2464,2464,P59,constellation
+2465,2465,P2534,defining formula
+2466,2466,P2534,formula
+2467,2467,P2534,equation
+2468,2468,P2534,mathematical formula
+2469,2469,P2534,notation
+2470,2470,P2534,mathematical notation
+2471,2471,P1593,defender
+2472,2472,P1912,deletion association with
+2473,2473,P1549,demonym
+2474,2474,P1769,denkxweb identifier
+2475,2475,P2054,density
+2476,2476,P2054,specific gravity
+2477,2477,P1643,departure transaction
+2478,2478,P1643,release transaction
+2479,2479,P1547,depends on
+2480,2480,P1547,dependency
+2481,2481,P1547,software dependency
+2482,2482,P1547,interfaces with
+2483,2483,P1547,requires
+2484,2484,P1547,runs on
+2485,2485,P1547,software framework
+2486,2486,P1299,depicted by
+2487,2487,P1299,portrayed by
+2488,2488,P1299,played by
+2489,2489,P1299,acted by
+2490,2490,P1299,appears in
+2491,2491,P180,depicts
+2492,2492,P180,depiction of
+2493,2493,P180,painting of
+2494,2494,P180,motif
+2495,2495,P180,portrait of
+2496,2496,P180,landscape of
+2497,2497,P1257,depicts iconclass notation
+2498,2498,P1257,iconclass id (of artwork)
+2499,2499,P1257,iconclass notation (of artwork)
+2500,2500,P2058,depositor
+2501,2501,P2379,deprecated in version
+2502,2502,P973,described at url
+2503,2503,P973,described in url
+2504,2504,P973,url described in
+2505,2505,P1343,described by source
+2506,2506,P1343,dnb entry
+2507,2507,P1434,describes the fictional universe
+2508,2508,P1434,describes fictional universe
+2509,2509,P1434,fictional universe described
+2510,2510,P287,designer
+2511,2511,P287,designed by
+2512,2512,P1621,detail map
+2513,2513,P1049,deity of
+2514,2514,P178,developer
+2515,2515,P178,developed by
+2516,2516,P2386,diameter
+2517,2517,P1889,different from
+2518,2518,P1889,not
+2519,2519,P1889,is not
+2520,2520,P1889,not to be confused with
+2521,2521,P1889,distinct from
+2522,2522,P1889,distinguish from
+2523,2523,P708,diocese
+2524,2524,P531,diplomatic mission sent
+2525,2525,P531,embassy
+2526,2526,P531,resident mission
+2527,2527,P530,diplomatic relation
+2528,2528,P560,direction
+2529,2529,P654,direction relative to location
+2530,2530,P654,drtl
+2531,2531,P57,director
+2532,2532,P57,directed by
+2533,2533,P57,film director
+2534,2534,P344,director of photography
+2535,2535,P344,cinematographer
+2536,2536,P2225,discharge
+2537,2537,P358,discography
+2538,2538,P358,discography link
+2539,2539,P61,discoverer or inventor
+2540,2540,P61,inventor
+2541,2541,P61,discovered by
+2542,2542,P61,invented by
+2543,2543,P61,discoverer
+2544,2544,P61,coined by
+2545,2545,P61,first described by
+2546,2546,P1046,discovery method
+2547,2547,P1046,detection method
+2548,2548,P576,dissolved or abolished
+2549,2549,P576,defunct date
+2550,2550,P576,dissolution date
+2551,2551,P576,dissolved on date
+2552,2552,P576,wound up on date
+2553,2553,P576,date of dissolution
+2554,2554,P576,date dissolved
+2555,2555,P576,date disbanded
+2556,2556,P576,date disestablished
+2557,2557,P576,disestablished
+2558,2558,P576,abolished
+2559,2559,P576,abolishment date
+2560,2560,P576,disbanded on
+2561,2561,P576,time dissolved
+2562,2562,P576,time of dissolution
+2563,2563,P576,time abolished
+2564,2564,P576,time of abolishment
+2565,2565,P795,distance along
+2566,2566,P2583,distance from earth
+2567,2567,P2583,proper distance
+2568,2568,P2583,luminosity distance
+2569,2569,P2583,light-travel distance
+2570,2570,P2583,comoving distance
+2571,2571,P2583,angular diameter distance
+2572,2572,P2148,distance from river mouth
+2573,2573,P459,determination method
+2574,2574,P459,determined by
+2575,2575,P459,method
+2576,2576,P459,methodology
+2577,2577,P437,distribution
+2578,2578,P437,media
+2579,2579,P437,media type
+2580,2580,P437,type of media
+2581,2581,P437,form of publication
+2582,2582,P1846,distribution map
+2583,2583,P750,distributor
+2584,2584,P750,distributed by
+2585,2585,P546,docking port
+2586,2586,P184,doctoral advisor
+2587,2587,P184,advisor
+2588,2588,P184,doctoral supervisor
+2589,2589,P184,supervisor
+2590,2590,P185,doctoral student
+2591,2591,P1026,doctoral thesis
+2592,2592,P1026,doctoral dissertation
+2593,2593,P1026,dissertation
+2594,2594,P1026,thesis
+2595,2595,P1568,domain
+2596,2596,P1028,donated by
+2597,2597,P555,doubles record
+2598,2598,P2262,draft
+2599,2599,P2262,draught
+2600,2600,P1836,draft pick number
+2601,2601,P647,drafted by
+2602,2602,P1622,driving side
+2603,2603,P1622,drives on the
+2604,2604,P1622,drive on
+2605,2605,P1622,traffic side
+2606,2606,P1622,rule of the road
+2607,2607,P2176,drug used for treatment
+2608,2608,P2176,used for treatment
+2609,2609,P2176,treatment
+2610,2610,P2176,prescribed drug
+2611,2611,P2176,treated by
+2612,2612,P1322,dual to
+2613,2613,P2047,duration
+2614,2614,P2047,duration
+2615,2615,P2047,length
+2616,2616,P2047,run time
+2617,2617,P2047,runtime
+2618,2618,P2047,running time
+2619,2619,P2047,period
+2620,2620,P2047,era
+2621,2621,P2047,length of time
+2622,2622,P2047,interval
+2623,2623,P2047,span
+2624,2624,P2047,timespan
+2625,2625,P2047,time span
+2626,2626,P2047,time interval
+2627,2627,P860,e-archiv.li id
+2628,2628,P968,e-mail
+2629,2629,P968,email
+2630,2630,P968,electronic mail
+2631,2631,P673,emedicine
+2632,2632,P1319,earliest date
+2633,2633,P1319,after this date
+2634,2634,P1319,later than
+2635,2635,P998,dmoz id
+2636,2636,P998,open directory project
+2637,2637,P998,odp
+2638,2638,P998,netscape open directory
+2639,2639,P998,newhoo
+2640,2640,P998,gnuhoo
+2641,2641,P998,directory.mozilla
+2642,2642,P998,mozilla directory
+2643,2643,P998,dmoz
+2644,2644,P1425,ecoregion (wwf)
+2645,2645,P789,edibility
+2646,2646,P789,mushroom edibility
+2647,2647,P789,palatiblity
+2648,2648,P393,edition number
+2649,2649,P747,edition(s)
+2650,2650,P747,has edition
+2651,2651,P747,editions
+2652,2652,P747,translation(s)
+2653,2653,P98,editor
+2654,2654,P98,compiler
+2655,2655,P98,edited by
+2656,2656,P98,compiled by
+2657,2657,P69,educated at
+2658,2658,P69,education
+2659,2659,P69,alumni of
+2660,2660,P69,alumnus of
+2661,2661,P69,alumna of
+2662,2662,P69,college attended
+2663,2663,P69,university attended
+2664,2664,P69,school attended
+2665,2665,P69,studied at
+2666,2666,P69,alma mater
+2667,2667,P69,graduate of
+2668,2668,P69,graduated from
+2669,2669,P2319,elector
+2670,2670,P2319,type of electors
+2671,2671,P2319,qualified voters
+2672,2672,P2319,eligible voters
+2673,2673,P629,edition or translation of
+2674,2674,P629,edition of
+2675,2675,P629,translation of
+2676,2676,P1831,electorate
+2677,2677,P2200,electric charge
+2678,2678,P2201,electric dipole moment
+2679,2679,P2201,dipole moment
+2680,2680,P2055,electrical conductivity
+2681,2681,P1108,electronegativity
+2682,2682,P246,element symbol
+2683,2683,P246,chemical symbol
+2684,2684,P2044,elevation above sea level
+2685,2685,P2044,altitude
+2686,2686,P2044,height
+2687,2687,P2463,elibrary.ru organisation id
+2688,2688,P2463,elibrary organisation id
+2689,2689,P1867,eligible voters
+2690,2690,P1295,emissivity
+2691,2691,P1128,employees
+2692,2692,P1128,number of employees
+2693,2693,P108,employer
+2694,2694,P108,workplace
+2695,2695,P108,employed by
+2696,2696,P108,works at
+2697,2697,P108,working for
+2698,2698,P2297,employment by economic sector
+2699,2699,P2297,employment by industry
+2700,2700,P2297,employment by sector
+2701,2701,P501,enclave within
+2702,2702,P501,enclaved by
+2703,2703,P702,encoded by
+2704,2704,P688,encodes
+2705,2705,P688,codes for
+2706,2706,P1534,end cause
+2707,2707,P582,end time
+2708,2708,P582,to
+2709,2709,P582,to time
+2710,2710,P582,left office
+2711,2711,P582,until
+2712,2712,P582,ending
+2713,2713,P582,divorced
+2714,2714,P582,enddate
+2715,2715,P582,end time
+2716,2716,P582,closed
+2717,2717,P582,end date
+2718,2718,P582,fall date
+2719,2719,P2192,endangeredlanguages.com id
+2720,2720,P183,endemic to
+2721,2721,P183,endemism
+2722,2722,P1002,engine configuration
+2723,2723,P1002,configuration of engine cylinders
+2724,2724,P2116,enthalpy of vaporization
+2725,2725,P2116,vaporization enthalpy
+2726,2726,P2116,heat of vaporization
+2727,2727,P2116,latent heat of vaporization
+2728,2728,P2116,heat of evaporation
+2729,2729,P768,electoral district
+2730,2730,P768,constituency
+2731,2731,P768,ward
+2732,2732,P768,riding
+2733,2733,P1709,equivalent class
+2734,2734,P1709,same kind of thing
+2735,2735,P1709,same class
+2736,2736,P1709,same grouping
+2737,2737,P1628,equivalent property
+2738,2738,P1628,owl:equivalentproperty
+2739,2739,P172,ethnic group
+2740,2740,P172,ethnicity
+2741,2741,P697,ex taxon author
+2742,2742,P500,exclave of
+2743,2743,P1011,excluding
+2744,2744,P208,executive body
+2745,2745,P208,executive branch
+2746,2746,P1431,executive producer
+2747,2747,P1574,exemplar of
+2748,2748,P608,exhibition history
+2749,2749,P2429,expected completeness
+2750,2750,P2429,completeness
+2751,2751,P2429,expected level of completion
+2752,2752,P2145,explosive energy equivalent
+2753,2753,P2231,explosive velocity
+2754,2754,P2231,detonation velocity
+2755,2755,P2231,velocity of detonation
+2756,2756,P2231,vod
+2757,2757,P1325,external data available at
+2758,2758,P1325,data
+2759,2759,P2236,external subproperty
+2760,2760,P2236,subproperty (external)
+2761,2761,P2236,subproperty of external property
+2762,2762,P2235,external superproperty
+2763,2763,P2235,subproperty of (external)
+2764,2764,P2235,subproperty of external property
+2765,2765,P2303,exception to constraint
+2766,2766,P2303,exceptions to constraint
+2767,2767,P2303,exceptions
+2768,2768,P2303,exception
+2769,2769,P2303,excepting
+2770,2770,P1340,eye color
+2771,2771,P1340,eye colour
+2772,2772,P2079,fabrication method
+2773,2773,P2079,fabrication process
+2774,2774,P2079,manufacturing process
+2775,2775,P2079,production process
+2776,2776,P2079,manufacturing method
+2777,2777,P2079,production method
+2778,2778,P2079,made by
+2779,2779,P2079,asssembly process
+2780,2780,P2079,assembly method
+2781,2781,P2079,by
+2782,2782,P1269,facet of
+2783,2783,P1269,aspect of
+2784,2784,P1269,subitem of
+2785,2785,P1269,topic of
+2786,2786,P1269,subtopic of
+2787,2787,P1533,family name identical to this first name
+2788,2788,P1533,related surname
+2789,2789,P1533,related family name
+2790,2790,P22,father
+2791,2791,P22,dad
+2792,2792,P22,son of
+2793,2793,P22,has father
+2794,2794,P22,daughter of
+2795,2795,P22,child of
+2796,2796,P841,feast day
+2797,2797,P2555,fee
+2798,2798,P2555,toll
+2799,2799,P2555,fare
+2800,2800,P1019,feed url
+2801,2801,P2521,female form of label
+2802,2802,P2521,female form of label (string)
+2803,2803,P1539,female population
+2804,2804,P1074,fictional analog of
+2805,2805,P1445,fictional universe described in
+2806,2806,P425,field of this profession
+2807,2807,P425,profession's field
+2808,2808,P425,activity corresponding to this occupation
+2809,2809,P101,field of work
+2810,2810,P101,field of study
+2811,2811,P101,fields
+2812,2812,P101,discipline
+2813,2813,P101,subject
+2814,2814,P101,area
+2815,2815,P101,specialism
+2816,2816,P101,domain
+2817,2817,P1195,file extension
+2818,2818,P1195,extension
+2819,2819,P1195,filename extension
+2820,2820,P1040,film editor
+2821,2821,P1040,picture editor
+2822,2822,P1040,edited by
+2823,2823,P915,filming location
+2824,2824,P915,location of filming
+2825,2825,P915,location where filmed
+2826,2826,P915,studio where filmed
+2827,2827,P915,place of filming
+2828,2828,P915,place where filmed
+2829,2829,P915,recorded at
+2830,2830,P1283,filmography
+2831,2831,P2239,first aid measures
+2832,2832,P2239,first aid response
+2833,2833,P606,first flight
+2834,2834,P606,maiden flight
+2835,2835,P606,1st flight
+2836,2836,P606,time of first flight
+2837,2837,P1922,first line
+2838,2838,P1922,incipit
+2839,2839,P1922,first verse
+2840,2840,P1191,first performance
+2841,2841,P1191,air date
+2842,2842,P1191,premiere
+2843,2843,P1191,broadcast date
+2844,2844,P1191,time of first performance
+2845,2845,P1191,premiere date
+2846,2846,P163,flag
+2847,2847,P41,flag image
+2848,2848,P41,image flag
+2849,2849,P41,image of flag
+2850,2850,P2128,flash point
+2851,2851,P1102,flattening
+2852,2852,P1102,ellipticity
+2853,2853,P1102,oblateness
+2854,2854,P1101,floors above ground
+2855,2855,P1101,number of floors
+2856,2856,P1101,storeys
+2857,2857,P1101,stories
+2858,2858,P1139,floors below ground
+2859,2859,P1139,underground floors
+2860,2860,P1139,basement floors
+2861,2861,P1317,floruit
+2862,2862,P1317,fl.
+2863,2863,P1317,known alive in
+2864,2864,P1317,active
+2865,2865,P1317,fl
+2866,2866,P1317,flourished
+2867,2867,P1317,circa
+2868,2868,P2221,flux
+2869,2869,P2151,focal length
+2870,2870,P156,followed by
+2871,2871,P156,succeded by
+2872,2872,P156,next is
+2873,2873,P156,precedes
+2874,2874,P156,sequel is
+2875,2875,P156,prequel of
+2876,2876,P1775,follower of
+2877,2877,P155,follows
+2878,2878,P155,succeeds to
+2879,2879,P155,previous is
+2880,2880,P155,before was
+2881,2881,P155,predecessor
+2882,2882,P155,preceded by
+2883,2883,P155,prequel is
+2884,2884,P155,sequel of
+2885,2885,P868,foods traditionally associated
+2886,2886,P1686,for work
+2887,2887,P1686,for their work on
+2888,2888,P1686,nominated for work
+2889,2889,P1686,awarded for work
+2890,2890,P2141,foreign direct investment net inflow
+2891,2891,P2141,"fdi, net inflows"
+2892,2892,P2141,foreign direct investment inflow
+2893,2893,P2140,foreign direct investment net outflow
+2894,2894,P2140,foreign direct investment outflow
+2895,2895,P1778,forgery after
+2896,2896,P1793,format as a regular expression
+2897,2897,P1793,regex
+2898,2898,P1630,formatter url
+2899,2899,P1137,fossil found in this unit
+2900,2900,P703,found in taxon
+2901,2901,P703,species
+2902,2902,P457,foundational text
+2903,2903,P457,establishing document
+2904,2904,P457,enabling law
+2905,2905,P457,created in document
+2906,2906,P112,founder
+2907,2907,P112,founded by
+2908,2908,P112,is founded by
+2909,2909,P538,fracturing
+2910,2910,P2144,frequency
+2911,2911,P2257,frequency of event
+2912,2912,P2257,event frequency
+2913,2913,P2257,occurence frequency
+2914,2914,P2257,frequency of occurence
+2915,2915,P1080,from fictional universe
+2916,2916,P1080,from universe
+2917,2917,P1080,universe
+2918,2918,P1080,featured in universe
+2919,2919,P1080,appears in universe
+2920,2920,P1080,fictional universe where entity is from
+2921,2921,P1211,fuel system
+2922,2922,P953,full text available at
+2923,2923,P953,online version
+2924,2924,P953,archived at
+2925,2925,P953,available at
+2926,2926,P953,text at
+2927,2927,P953,url for full text
+2928,2928,P2066,fusion enthalpy
+2929,2929,P1097,g-factor
+2930,2930,P223,galaxy morphological type
+2931,2931,P223,is a galaxy of type
+2932,2932,P223,de vaucouleurs classification system
+2933,2933,P223,hubble sequence
+2934,2934,P404,game mode
+2935,2935,P404,mode
+2936,2936,P404,gameplay
+2937,2937,P2433,gender of a scientific name of a genus
+2938,2938,P1913,gene duplication association with
+2939,2939,P1914,gene insertion association with
+2940,2940,P1915,gene inversion association with
+2941,2941,P1916,gene substitution association with
+2942,2942,P1819,genealogics.org person id
+2943,2943,P2321,general classification
+2944,2944,P1673,general formula
+2945,2945,P505,general manager
+2946,2946,P2293,genetic association
+2947,2947,P2143,genome size
+2948,2948,P659,genomic assembly
+2949,2949,P645,genomic end
+2950,2950,P645,genloc end
+2951,2951,P645,genomic stop
+2952,2952,P645,genloc stop
+2953,2953,P645,stop
+2954,2954,P645,stop coordinate
+2955,2955,P644,genomic start
+2956,2956,P644,genloc start
+2957,2957,P644,genomic from
+2958,2958,P644,genloc from
+2959,2959,P644,from
+2960,2960,P644,start coordinate
+2961,2961,P136,genre
+2962,2962,P136,music genre
+2963,2963,P136,film genre
+2964,2964,P136,artistic genre
+2965,2965,P136,literary genre
+2966,2966,P796,geo datum
+2967,2967,P1125,gini coefficient
+2968,2968,P735,given name
+2969,2969,P735,forename
+2970,2970,P735,first name
+2971,2971,P735,personal name
+2972,2972,P735,christian name
+2973,2973,P735,middle name
+2974,2974,P1560,given name version for other gender
+2975,2975,P2565,global-warming potential
+2976,2976,P2565,gwp
+2977,2977,P2565,global warming potential
+2978,2978,P1290,godparent
+2979,2979,P1290,godfather
+2980,2980,P1290,godmother
+2981,2981,P2591,grammatical option indicates
+2982,2982,P2427,grid global research id
+2983,2983,P2427,grid global id
+2984,2984,P2427,grid id
+2985,2985,P2427,grid research id
+2986,2986,P1093,gross tonnage
+2987,2987,P1093,ship gross tonnage
+2988,2988,P1093,gt
+2989,2989,P2304,group by
+2990,2990,P967,guest of honor
+2991,2991,P624,guidance system
+2992,2992,P2222,gyromagnetic ratio
+2993,2993,P1884,hair color
+2994,2994,P1884,hair colour
+2995,2995,P1884,color of hair
+2996,2996,P1884,colour of hair
+2997,2997,P2114,half-life
+2998,2998,P552,handedness
+2999,2999,P1184,handle
+3000,3000,P828,has cause
+3001,3001,P828,cause
+3002,3002,P828,has causes
+3003,3003,P828,has underlying cause
+3004,3004,P828,underlying cause
+3005,3005,P828,ultimate cause
+3006,3006,P828,ultimate causes
+3007,3007,P828,initial cause
+3008,3008,P828,effect of
+3009,3009,P828,outcome of
+3010,3010,P828,result of
+3011,3011,P828,has reason
+3012,3012,P828,reason
+3013,3013,P828,caused by
+3014,3014,P1479,has contributing factor
+3015,3015,P1479,has contributing factors
+3016,3016,P1479,contributing factor
+3017,3017,P1479,significant contributing factor
+3018,3018,P134,has dialect
+3019,3019,P134,dialect
+3020,3020,P134,has as dialect
+3021,3021,P134,includes dialect
+3022,3022,P1312,has facet polytope
+3023,3023,P1312,facet of a polytope
+3024,3024,P912,has facility
+3025,3025,P912,facility
+3026,3026,P1478,has immediate cause
+3027,3027,P1478,has immediate causes
+3028,3028,P1478,immediate cause
+3029,3029,P1478,immediate effect of
+3030,3030,P1478,immediate result of
+3031,3031,P1478,immediate outcome of
+3032,3032,P1478,has proximate cause
+3033,3033,P1660,has index case
+3034,3034,P2354,has list
+3035,3035,P2354,list
+3036,3036,P2354,list for this topic
+3037,3037,P2354,topic's list
+3038,3038,P1625,has melody
+3039,3039,P1625,to the tune of
+3040,3040,P1625,ttto
+3041,3041,P1605,has natural reservoir
+3042,3042,P1605,natural reservoir
+3043,3043,P527,has part
+3044,3044,P527,have part
+3045,3045,P527,composed of
+3046,3046,P527,contains
+3047,3047,P527,formed from
+3048,3048,P527,formed out of
+3049,3049,P527,assembled from
+3050,3050,P527,assembled out of
+3051,3051,P527,created from
+3052,3052,P527,created out of
+3053,3053,P527,amalgamation of
+3054,3054,P527,set of
+3055,3055,P527,consists of
+3056,3056,P527,members
+3057,3057,P527,holonym of
+3058,3058,P527,includes
+3059,3059,P527,ingredient
+3060,3060,P527,member
+3061,3061,P527,include
+3062,3062,P527,parts
+3063,3063,P527,has member
+3064,3064,P527,comprised of
+3065,3065,P527,has add-on
+3066,3066,P527,includes part
+3067,3067,P2587,has phoneme
+3068,3068,P1552,has quality
+3069,3069,P1552,trait
+3070,3070,P1552,inherent property
+3071,3071,P1552,attribute
+3072,3072,P1552,aspect
+3073,3073,P1552,defining feature
+3074,3074,P1552,has feature
+3075,3075,P1552,has characteristic
+3076,3076,P1552,candidate for property creation:
+3077,3077,P2375,has superpartner
+3078,3078,P1678,has vertex figure
+3079,3079,P286,head coach
+3080,3080,P286,manager
+3081,3081,P286,club manager
+3082,3082,P286,senior coach
+3083,3083,P286,team manager
+3084,3084,P286,coach
+3085,3085,P6,head of government
+3086,3086,P6,mayor
+3087,3087,P6,prime minister
+3088,3088,P6,premier
+3089,3089,P6,first minister
+3090,3090,P6,head of national government
+3091,3091,P35,head of state
+3092,3092,P35,chief of state
+3093,3093,P35,president
+3094,3094,P35,king
+3095,3095,P35,queen
+3096,3096,P35,emperor
+3097,3097,P35,monarch
+3098,3098,P159,headquarters location
+3099,3099,P159,head office location
+3100,3100,P159,hq
+3101,3101,P159,garrison
+3102,3102,P159,admin hq
+3103,3103,P159,seat
+3104,3104,P2056,heat capacity
+3105,3105,P2056,thermal capacity
+3106,3106,P2048,height
+3107,3107,P2048,depth over terrain
+3108,3108,P1435,heritage status
+3109,3109,P1435,designation
+3110,3110,P1435,listing
+3111,3111,P1435,listed status
+3112,3112,P1435,protected status
+3113,3113,P1435,protection
+3114,3114,P1435,legal protection
+3115,3115,P1435,heritage designation
+3116,3116,P933,heritagefoundation.ca id
+3117,3117,P209,highest judicial authority
+3118,3118,P1897,highest note
+3119,3119,P14,highway marker
+3120,3120,P14,motorway sign
+3121,3121,P14,shield
+3122,3122,P14,highway shield
+3123,3123,P14,road marker
+3124,3124,P14,route marker
+3125,3125,P16,highway system
+3126,3126,P2184,history of topic
+3127,3127,P2184,history
+3128,3128,P2184,timeline of topic
+3129,3129,P2184,chronology of topic
+3130,3130,P504,home port
+3131,3131,P504,homeport
+3132,3132,P115,home venue
+3133,3133,P115,ground
+3134,3134,P115,home field
+3135,3135,P115,arena
+3136,3136,P115,home ground
+3137,3137,P115,stadium
+3138,3138,P115,ballpark
+3139,3139,P115,home water
+3140,3140,P1165,home world
+3141,3141,P1165,homeworld
+3142,3142,P1165,planet
+3143,3143,P2444,homoglyph
+3144,3144,P511,honorific prefix
+3145,3145,P511,style prefix
+3146,3146,P511,pre-nominal
+3147,3147,P1035,honorific suffix
+3148,3148,P1035,style suffix
+3149,3149,P1035,post-nominal
+3150,3150,P1035,postnomial
+3151,3151,P1035,honourific suffix
+3152,3152,P2220,household wealth
+3153,3153,P785,hymenium attachment
+3154,3154,P783,hymenium type
+3155,3155,P2281,itunes album id
+3156,3156,P2281,itunes id
+3157,3157,P1961,identifier of comité des travaux historiques et scientifiques
+3158,3158,P110,illustrator
+3159,3159,P110,illustration by
+3160,3160,P110,illustrated by
+3161,3161,P18,image
+3162,3162,P18,portrait
+3163,3163,P18,illustration
+3164,3164,P18,picture
+3165,3165,P18,drawing
+3166,3166,P18,photo
+3167,3167,P2096,image legend
+3168,3168,P2096,image description
+3169,3169,P2096,legend
+3170,3170,P2396,image of function
+3171,3171,P2396,image
+3172,3172,P1442,image of grave
+3173,3173,P1442,grave image
+3174,3174,P1442,grave photo
+3175,3175,P1442,grave picture
+3176,3176,P1442,headstone image
+3177,3177,P1442,headstone photo
+3178,3178,P1442,headstone picture
+3179,3179,P1536,immediate cause of
+3180,3180,P143,imported from
+3181,3181,P143,from
+3182,3182,P143,source
+3183,3183,P2553,in work
+3184,3184,P571,inception
+3185,3185,P571,date founded
+3186,3186,P571,date created
+3187,3187,P571,incorporated
+3188,3188,P571,foundation
+3189,3189,P571,founded
+3190,3190,P571,created
+3191,3191,P571,date of foundation
+3192,3192,P571,date of creation
+3193,3193,P571,established
+3194,3194,P571,establishment date
+3195,3195,P571,foundation date
+3196,3196,P571,creation date
+3197,3197,P571,incorporation date
+3198,3198,P571,date incorporated
+3199,3199,P571,date of incorporation
+3200,3200,P571,date of establishment
+3201,3201,P571,founding date
+3202,3202,P571,date of founding
+3203,3203,P571,date formed
+3204,3204,P571,formation date
+3205,3205,P571,formed on date
+3206,3206,P571,founded on date
+3207,3207,P571,incorporated on date
+3208,3208,P571,established on date
+3209,3209,P571,created on date
+3210,3210,P571,commencement date
+3211,3211,P571,date commenced
+3212,3212,P571,commenced on date
+3213,3213,P571,date of commencement
+3214,3214,P571,foundation/creation date
+3215,3215,P571,time of foundation or creation
+3216,3216,P571,date of foundation or creation
+3217,3217,P571,written
+3218,3218,P571,written on date
+3219,3219,P571,time of inception
+3220,3220,P571,year founded
+3221,3221,P571,year created
+3222,3222,P571,year incorporated
+3223,3223,P571,year written
+3224,3224,P571,year commenced
+3225,3225,P571,year established
+3226,3226,P678,incertae sedis
+3227,3227,P1012,including
+3228,3228,P1879,income classification (philippines)
+3229,3229,P1911,increased expression in
+3230,3230,P1677,index case of
+3231,3231,P2341,indigenous to
+3232,3232,P2341,native to
+3233,3233,P2341,endemic to
+3234,3234,P452,industry
+3235,3235,P452,field of action
+3236,3236,P452,field of exercise
+3237,3237,P452,sector
+3238,3238,P1279,inflation rate
+3239,3239,P1279,cpi inflation rate
+3240,3240,P1279,consumer price index inflation rate
+3241,3241,P1279,inflation rate of consumer price index
+3242,3242,P737,influenced by
+3243,3243,P737,informed by
+3244,3244,P737,has influence
+3245,3245,P479,input device
+3246,3246,P479,input method
+3247,3247,P479,input
+3248,3248,P479,mouse
+3249,3249,P479,digitiser
+3250,3250,P1851,input set
+3251,3251,P1684,inscription
+3252,3252,P941,inspired by
+3253,3253,P941,source of inspiration
+3254,3254,P941,inspiration
+3255,3255,P31,instance of
+3256,3256,P31,is a
+3257,3257,P31,is an
+3258,3258,P31,rdf:type
+3259,3259,P1068,instruction set
+3260,3260,P1068,isa
+3261,3261,P1303,instrument
+3262,3262,P1303,plays
+3263,3263,P870,instrumentation
+3264,3264,P2360,intended public
+3265,3265,P2360,designed for
+3266,3266,P2360,target group
+3267,3267,P2360,target market
+3268,3268,P2360,serving
+3269,3269,P2360,audience of
+3270,3270,P2360,for audience of
+3271,3271,P2360,for market
+3272,3272,P2360,made for
+3273,3273,P2360,created for
+3274,3274,P517,interaction
+3275,3275,P833,interchange station
+3276,3276,P833,osi
+3277,3277,P833,out of station interchange
+3278,3278,P514,interleaves with
+3279,3279,P2074,internetmedicin.se id
+3280,3280,P751,introduced feature
+3281,3281,P751,new feature
+3282,3282,P217,inventory number
+3283,3283,P217,reference
+3284,3284,P217,accession number
+3285,3285,P217,shelfmark
+3286,3286,P217,call number
+3287,3287,P217,fleet number
+3288,3288,P1696,inverse of
+3289,3289,P1696,opposite of
+3290,3290,P1840,investigated by
+3291,3291,P1951,investor
+3292,3292,P1951,private investor
+3293,3293,P1951,investors
+3294,3294,P2260,ionization energy
+3295,3295,P2260,ie
+3296,3296,P2260,ip
+3297,3297,P2260,ionisation energy
+3298,3298,P2260,ionization potential
+3299,3299,P2260,ionisation potential
+3300,3300,P360,is a list of
+3301,3301,P360,main topic of list
+3302,3302,P360,list of
+3303,3303,P360,main article of list
+3304,3304,P1703,is pollinated by
+3305,3305,P1703,pollination by
+3306,3306,P1704,is pollinator of
+3307,3307,P2017,isomeric smiles
+3308,3308,P1126,isospin quantum number
+3309,3309,P1127,isospin z-component
+3310,3310,P433,issue
+3311,3311,P433,no.
+3312,3312,P433,number
+3313,3313,P2378,issued by
+3314,3314,P2305,item
+3315,3315,P121,item operated
+3316,3316,P121,fleet
+3317,3317,P121,aircraft in fleet
+3318,3318,P121,aircraft operated
+3319,3319,P121,equipment operated
+3320,3320,P121,facility operated
+3321,3321,P121,service operated
+3322,3322,P121,operator of
+3323,3323,P121,operated
+3324,3324,P121,operates
+3325,3325,P121,eq
+3326,3326,P121,item operated
+3327,3327,P1444,journey destination
+3328,3328,P1444,destination
+3329,3329,P1444,to
+3330,3330,P1444,end of journey
+3331,3331,P1427,journey origin
+3332,3332,P1427,flight origin
+3333,3333,P1427,start location
+3334,3334,P1427,from
+3335,3335,P1594,judge
+3336,3336,P2466,judicial sentence
+3337,3337,P2466,sentence
+3338,3338,P2466,punishment
+3339,3339,P157,killed by
+3340,3340,P157,killer
+3341,3341,P157,assassin
+3342,3342,P157,murderer
+3343,3343,P157,murdered by
+3344,3344,P157,executioner
+3345,3345,P157,assassinated by
+3346,3346,P157,slain by
+3347,3347,P157,mortally wounded by
+3348,3348,P157,executed by
+3349,3349,P157,slaughtered by
+3350,3350,P2118,kinematic viscosity
+3351,3351,P1483,kulturnoe-nasledie.ru id
+3352,3352,P200,lake inflows
+3353,3353,P200,inflow
+3354,3354,P200,inflows
+3355,3355,P200,lake inflow
+3356,3356,P201,lake outflow
+3357,3357,P201,outflows
+3358,3358,P201,outflow
+3359,3359,P469,lakes on river
+3360,3360,P2439,language
+3361,3361,P407,language of work or name
+3362,3362,P407,language of the name
+3363,3363,P407,language of name
+3364,3364,P1018,language regulatory body
+3365,3365,P1018,regulatory body
+3366,3366,P1412,languages spoken or written
+3367,3367,P1412,languages spoken
+3368,3368,P1412,language spoken
+3369,3369,P1412,language of expression
+3370,3370,P1412,languages of expression
+3371,3371,P1326,latest date
+3372,3372,P1326,before this date
+3373,3373,P1326,earlier than
+3374,3374,P1079,launch contractor
+3375,3375,P1079,launch service provider
+3376,3376,P118,league
+3377,3377,P118,division
+3378,3378,P118,sports league
+3379,3379,P1031,legal citation of this text
+3380,3380,P1031,case citation
+3381,3381,P1031,neutral citation
+3382,3382,P1031,parallel citation
+3383,3383,P1031,statute citation
+3384,3384,P1031,regulation citation
+3385,3385,P1031,citation
+3386,3386,P1454,legal form
+3387,3387,P1454,type of business entity
+3388,3388,P467,legislated by
+3389,3389,P467,enacted by
+3390,3390,P467,passed by
+3391,3391,P194,legislative body
+3392,3392,P194,representative body
+3393,3393,P194,parliament
+3394,3394,P194,council
+3395,3395,P194,assembly
+3396,3396,P194,diet
+3397,3397,P194,legislature
+3398,3398,P194,rural council
+3399,3399,P194,district council
+3400,3400,P194,municipal council
+3401,3401,P194,aboriginal council
+3402,3402,P194,indigenous council
+3403,3403,P194,city council
+3404,3404,P194,local government area
+3405,3405,P194,lga
+3406,3406,P2043,length
+3407,3407,P1977,lesarchivesduspectacle id
+3408,3408,P2499,level above
+3409,3409,P2500,level below
+3410,3410,P87,librettist
+3411,3411,P395,licence plate code
+3412,3412,P395,license plate code
+3413,3413,P275,license
+3414,3414,P275,licence
+3415,3415,P1408,licensed to broadcast to
+3416,3416,P1408,city of license
+3417,3417,P1408,community of license
+3418,3418,P2250,life expectancy
+3419,3419,P1576,lifestyle
+3420,3420,P1030,light characteristic of a lighthouse
+3421,3421,P1881,list of characters
+3422,3422,P1811,list of episodes
+3423,3423,P1811,episode list
+3424,3424,P1456,list of monuments
+3425,3425,P1455,list of works
+3426,3426,P1455,bibliography
+3427,3427,P1753,list related to category
+3428,3428,P1753,category's list
+3429,3429,P2441,literal translation
+3430,3430,P2441,direct translation
+3431,3431,P2441,word-for-word translation
+3432,3432,P2441,translation (literal)
+3433,3433,P2157,lithography
+3434,3434,P473,local dialing code
+3435,3435,P473,area code
+3436,3436,P473,local calling code
+3437,3437,P473,telephone numbering plan
+3438,3438,P473,std code
+3439,3439,P473,telephone code
+3440,3440,P473,telephone prefix
+3441,3441,P969,located at street address
+3442,3442,P969,address
+3443,3443,P969,street address
+3444,3444,P131,located in the administrative territorial entity
+3445,3445,P131,located in the administrative unit
+3446,3446,P131,located in administrative unit
+3447,3447,P131,is in administrative unit
+3448,3448,P131,is located in
+3449,3449,P131,is in the state of
+3450,3450,P131,is in the province of
+3451,3451,P131,is in the county of
+3452,3452,P131,is in the district of
+3453,3453,P131,is in the department of
+3454,3454,P131,is in the region of
+3455,3455,P131,is in the borough of
+3456,3456,P131,is in the city of
+3457,3457,P131,is in the town of
+3458,3458,P131,is in the village of
+3459,3459,P131,is in the municipality of
+3460,3460,P131,is in the territory of
+3461,3461,P131,is in the prefecture of
+3462,3462,P131,is in the voivodeship of
+3463,3463,P131,is in the indian reservation of
+3464,3464,P131,is in the indian reserve of
+3465,3465,P131,is in the ward of
+3466,3466,P131,is in the administrative region of
+3467,3467,P131,is in the settlement of
+3468,3468,P131,is in the local government area of
+3469,3469,P131,is in the rural city of
+3470,3470,P131,is in the shire of
+3471,3471,P131,happens in
+3472,3472,P131,is in the commune of
+3473,3473,P131,in administrative unit
+3474,3474,P131,in
+3475,3475,P131,is in the administrative unit
+3476,3476,P131,administrative territorial entity
+3477,3477,P131,city
+3478,3478,P131,town
+3479,3479,P131,state
+3480,3480,P131,indian reservation
+3481,3481,P131,in the administrative unit
+3482,3482,P131,locality
+3483,3483,P131,is in the parish of
+3484,3484,P131,location (administrative territorial entity)
+3485,3485,P421,located in time zone
+3486,3486,P421,timezone
+3487,3487,P421,tz
+3488,3488,P421,time zone
+3489,3489,P206,located next to body of water
+3490,3490,P206,on lake
+3491,3491,P206,next to lake
+3492,3492,P206,located on body of water
+3493,3493,P206,on river
+3494,3494,P206,on bay
+3495,3495,P206,on harbour
+3496,3496,P206,on shore of
+3497,3497,P206,on the shore of
+3498,3498,P206,on the coast of
+3499,3499,P206,on coast of
+3500,3500,P376,located on astronomical body
+3501,3501,P376,planet
+3502,3502,P376,astronomical body (location)
+3503,3503,P669,located on street
+3504,3504,P669,is on
+3505,3505,P669,street
+3506,3506,P669,adress street
+3507,3507,P706,located on terrain feature
+3508,3508,P706,takes place in
+3509,3509,P706,on geographical feature
+3510,3510,P706,on natural feature
+3511,3511,P706,is on
+3512,3512,P706,is in
+3513,3513,P706,location (terrain feature)
+3514,3514,P706,island
+3515,3515,P276,location
+3516,3516,P276,moveable object location
+3517,3517,P276,located in
+3518,3518,P276,event location
+3519,3519,P276,venue
+3520,3520,P276,is in
+3521,3521,P276,location of item
+3522,3522,P1943,location map
+3523,3523,P189,location of discovery
+3524,3524,P189,findspot
+3525,3525,P189,location of discovered object
+3526,3526,P189,discovery place
+3527,3527,P189,place of discovery
+3528,3528,P1071,location of final assembly
+3529,3529,P1071,assembly location
+3530,3530,P1071,place built
+3531,3531,P1071,place made
+3532,3532,P740,location of formation
+3533,3533,P740,originates from
+3534,3534,P740,comes from
+3535,3535,P740,place of foundation
+3536,3536,P740,founded in
+3537,3537,P740,formation location
+3538,3538,P740,source location of group/organisation
+3539,3539,P1158,location of landing
+3540,3540,P1158,landing site
+3541,3541,P448,location of spacecraft launch
+3542,3542,P448,launch site
+3543,3543,P242,locator map image
+3544,3544,P242,map
+3545,3545,P242,locator map
+3546,3546,P154,logo image
+3547,3547,P2213,longitude of ascending node
+3548,3548,P734,family name
+3549,3549,P734,last name
+3550,3550,P734,has surname
+3551,3551,P734,surname
+3552,3552,P1311,lostbridges.org id
+3553,3553,P2202,lower flammable limit
+3554,3554,P2532,lowest atmospheric pressure
+3555,3555,P1898,lowest note
+3556,3556,P2060,luminosity
+3557,3557,P2288,lymphatic drainage
+3558,3558,P676,lyrics by
+3559,3559,P676,lyricist
+3560,3560,P676,lyracist
+3561,3561,P676,words by
+3562,3562,P676,writer (of song lyrics)
+3563,3563,P2069,magnetic moment
+3564,3564,P922,magnetic ordering
+3565,3565,P193,main building contractor
+3566,3566,P193,building contractor
+3567,3567,P193,built by
+3568,3568,P193,constructed by
+3569,3569,P193,builder
+3570,3570,P1034,main food source
+3571,3571,P1034,food source
+3572,3572,P1034,food plant
+3573,3573,P92,main regulatory text
+3574,3574,P92,legally established by
+3575,3575,P92,governing text
+3576,3576,P92,governing document
+3577,3577,P921,main subject
+3578,3578,P921,index term
+3579,3579,P921,topic of work
+3580,3580,P921,main topic
+3581,3581,P921,aboutness
+3582,3582,P921,about
+3583,3583,P921,topic
+3584,3584,P921,subject
+3585,3585,P921,subject heading
+3586,3586,P126,maintained by
+3587,3587,P126,maintenance
+3588,3588,P126,administered by
+3589,3589,P126,maintainer
+3590,3590,P126,custodian
+3591,3591,P126,administrator
+3592,3592,P1540,male population
+3593,3593,P1540,male inhabitants
+3594,3594,P1037,manager/director
+3595,3595,P1037,leader
+3596,3596,P1037,director
+3597,3597,P1037,director-general
+3598,3598,P1646,mandatory qualifier
+3599,3599,P1646,wenzhong鄭
+3600,3600,P1557,manifestation of
+3601,3601,P1777,manner of
+3602,3602,P1777,style of
+3603,3603,P1196,manner of death
+3604,3604,P1196,circumstance of death
+3605,3605,P1196,type of death
+3606,3606,P176,manufacturer
+3607,3607,P176,manufactured by
+3608,3608,P176,maker
+3609,3609,P176,mfr
+3610,3610,P176,built by
+3611,3611,P176,builder
+3612,3612,P176,made by
+3613,3613,P176,producer (of product)
+3614,3614,P2226,market capitalization
+3615,3615,P2226,market cap
+3616,3616,P2226,market capitalisation
+3617,3617,P2562,married name
+3618,3618,P822,mascot
+3619,3619,P2067,mass (weight)
+3620,3620,P2067,weight
+3621,3621,P2067,mass
+3622,3622,P2160,mass excess
+3623,3623,P1390,match time of score (minutes)
+3624,3624,P1357,matches/games drawn/tied
+3625,3625,P1357,d
+3626,3626,P1357,t
+3627,3627,P1357,drawn
+3628,3628,P1357,tied
+3629,3629,P186,material used
+3630,3630,P186,medium
+3631,3631,P186,made from
+3632,3632,P186,constructed from
+3633,3633,P186,constructed out of
+3634,3634,P186,construction material
+3635,3635,P186,media
+3636,3636,P186,built from
+3637,3637,P186,built out of
+3638,3638,P186,manufactured from
+3639,3639,P186,manufactured out of
+3640,3640,P186,crafted from
+3641,3641,P186,crafted out of
+3642,3642,P186,formed from
+3643,3643,P186,formed out of
+3644,3644,P186,made of
+3645,3645,P186,ore
+3646,3646,P186,source material
+3647,3647,P186,raw material
+3648,3648,P186,feedstock
+3649,3649,P186,reactant
+3650,3650,P186,ingredient
+3651,3651,P2311,max date
+3652,3652,P2311,latest date
+3653,3653,P2312,max quantity
+3654,3654,P1548,maximum strahler number
+3655,3655,P1083,maximum capacity
+3656,3656,P1083,number of seats
+3657,3657,P1083,seats
+3658,3658,P1083,seating capacity
+3659,3659,P1083,capacity
+3660,3660,P1470,maximum glide ratio
+3661,3661,P1470,best lift/drag ratio
+3662,3662,P1470,best l/d-ratio
+3663,3663,P2595,maximum gradient
+3664,3664,P2595,maximum slope
+3665,3665,P2595,max slop
+3666,3666,P2595,max gradient
+3667,3667,P1873,maximum number of players
+3668,3668,P1873,"players, maximum number"
+3669,3669,P1873,"number of players, maximum"
+3670,3670,P2254,maximum operating altitude
+3671,3671,P2254,ceiling
+3672,3672,P2254,maximum altitude
+3673,3673,P2254,altitude maximum
+3674,3674,P2406,maximum peak exposure limit
+3675,3675,P2228,maximum thrust
+3676,3676,P2325,mean anomaly
+3677,3677,P1880,measured by
+3678,3678,P111,measured physical quantity
+3679,3679,P111,unit of
+3680,3680,P111,measure of
+3681,3681,P111,measured quantity
+3682,3682,P2575,measures
+3683,3683,P2240,median lethal dose
+3684,3684,P2240,ld50
+3685,3685,P2240,ld₅₀
+3686,3686,P1050,medical condition
+3687,3687,P1050,disability
+3688,3688,P1050,paralympic disability
+3689,3689,P1050,ailment
+3690,3690,P1050,health problem
+3691,3691,P1050,disorder
+3692,3692,P1050,illness
+3693,3693,P1050,disease
+3694,3694,P2175,medical condition treated
+3695,3695,P2175,disease treated
+3696,3696,P2175,treats
+3697,3697,P2175,treats medical condition
+3698,3698,P2175,treats disease
+3699,3699,P923,medical examinations
+3700,3700,P923,possible examinations
+3701,3701,P923,examinations
+3702,3702,P1995,medical specialty
+3703,3703,P924,medical treatment
+3704,3704,P924,therapy
+3705,3705,P924,medical therapy
+3706,3706,P924,treatment
+3707,3707,P2101,melting point
+3708,3708,P2101,freezing point
+3709,3709,P463,member of
+3710,3710,P102,member of political party
+3711,3711,P102,political party
+3712,3712,P102,party
+3713,3713,P1356,losses
+3714,3714,P1356,lost
+3715,3715,P1356,l
+3716,3716,P1356,matches lost/games lost
+3717,3717,P1356,matches lost
+3718,3718,P1356,games lost
+3719,3719,P1356,match losses
+3720,3720,P1356,defeats
+3721,3721,P2462,member of the deme
+3722,3722,P2462,deme
+3723,3723,P2462,of the deme
+3724,3724,P2124,membership
+3725,3725,P2124,number of members
+3726,3726,P2227,metallicity
+3727,3727,P2445,metasubclass of
+3728,3728,P2445,metaclass of
+3729,3729,P241,military branch
+3730,3730,P241,branch
+3731,3731,P241,formation
+3732,3732,P241,service branch
+3733,3733,P1347,military casualty classification
+3734,3734,P798,military designation
+3735,3735,P798,tri-service aerospace vehicle designation
+3736,3736,P798,usdod aircraft designation
+3737,3737,P798,1962 us military aerospace vehicle designation
+3738,3738,P798,mdsd
+3739,3739,P798,mission design series designation
+3740,3740,P798,mad
+3741,3741,P798,mildes
+3742,3742,P410,military rank
+3743,3743,P410,rank
+3744,3744,P2310,min date
+3745,3745,P2313,min quantity
+3746,3746,P2300,minimal lethal dose
+3747,3747,P2300,ldlo
+3748,3748,P2204,minimum explosive concentration
+3749,3749,P1872,minimum number of players
+3750,3750,P1872,"number of players, minimum"
+3751,3751,P1872,"players, minimum number"
+3752,3752,P196,minor planet group
+3753,3753,P196,asteroid group
+3754,3754,P2264,mix'n'match catalogue id
+3755,3755,P2258,mobile country code
+3756,3756,P2258,mcc
+3757,3757,P2258,itu-t country identifier
+3758,3758,P2259,mobile network code
+3759,3759,P2259,mnc
+3760,3760,P2259,itu-t network identifier
+3761,3761,P1199,mode of inheritance
+3762,3762,P54,member of sports team
+3763,3763,P54,member of team
+3764,3764,P54,team
+3765,3765,P54,team played for
+3766,3766,P54,played for
+3767,3767,P54,plays for
+3768,3768,P54,teams played for
+3769,3769,P54,of team
+3770,3770,P54,club played for
+3771,3771,P680,molecular function
+3772,3772,P2527,moment magnitude scale
+3773,3773,P2296,money supply
+3774,3774,P2296,money stock
+3775,3775,P25,mother
+3776,3776,P25,mum
+3777,3777,P25,mom
+3778,3778,P25,mam
+3779,3779,P25,has mother
+3780,3780,P25,son of
+3781,3781,P25,daughter of
+3782,3782,P25,child of
+3783,3783,P612,mother house
+3784,3784,P1546,motto
+3785,3785,P1451,motto text
+3786,3786,P1451,slogan
+3787,3787,P1451,mission statement
+3788,3788,P1451,mission
+3789,3789,P403,mouth of the watercourse
+3790,3790,P403,watercourse outflow
+3791,3791,P403,watercourse drain
+3792,3792,P403,tributary of
+3793,3793,P403,outflow
+3794,3794,P403,drain
+3795,3795,P403,river mouth
+3796,3796,P403,outlet
+3797,3797,P135,movement
+3798,3798,P135,school
+3799,3799,P1168,municipality code (denmark)
+3800,3800,P784,mushroom cap shape
+3801,3801,P788,mushroom ecological type
+3802,3802,P2561,name
+3803,3803,P1750,name day
+3804,3804,P1814,name in kana
+3805,3805,P1814,kana
+3806,3806,P1814,furigana
+3807,3807,P1559,name in native language
+3808,3808,P1559,native name
+3809,3809,P138,named after
+3810,3810,P138,eponym
+3811,3811,P138,named for
+3812,3812,P138,namesake
+3813,3813,P138,etymology
+3814,3814,P138,toponym
+3815,3815,P1810,named as
+3816,3816,P1810,credited as
+3817,3817,P2307,namespace
+3818,3818,P840,narrative location
+3819,3819,P840,setting location
+3820,3820,P840,narrative set in
+3821,3821,P2438,narrator
+3822,3822,P1543,monogram
+3823,3823,P1129,national team caps
+3824,3824,P1129,national team appearances
+3825,3825,P1705,native label
+3826,3826,P1705,name in original language
+3827,3827,P1705,name in official language
+3828,3828,P1705,label in original language
+3829,3829,P1705,label in official language
+3830,3830,P103,native language
+3831,3831,P103,first language
+3832,3832,P103,mother tongue
+3833,3833,P103,language native
+3834,3834,P2374,natural abundance
+3835,3835,P2374,relative abundance
+3836,3836,P1582,natural product of taxon
+3837,3837,P1582,fruit of
+3838,3838,P1582,grows on
+3839,3839,P1582,comes from
+3840,3840,P2295,net profit
+3841,3841,P2295,net earnings
+3842,3842,P2295,net income
+3843,3843,P2295,net return
+3844,3844,P2295,clear profit
+3845,3845,P2295,clear gain
+3846,3846,P2295,bottom line
+3847,3847,P2218,net worth
+3848,3848,P970,neurological function
+3849,3849,P1148,neutron number
+3850,3850,P1449,nickname
+3851,3851,P1449,also known as
+3852,3852,P1449,aka
+3853,3853,P1449,moniker
+3854,3854,P53,noble family
+3855,3855,P53,royal house
+3856,3856,P53,dynasty
+3857,3857,P53,house
+3858,3858,P97,noble title
+3859,3859,P97,peerage
+3860,3860,P97,title (hereditary)
+3861,3861,P97,hereditary title
+3862,3862,P97,royal title
+3863,3863,P1135,nomenclatural status
+3864,3864,P2131,nominal gdp
+3865,3865,P2131,gross domestic product
+3866,3866,P2131,gdp
+3867,3867,P2131,nominal gross domestic product
+3868,3868,P2131,nominal gdp
+3869,3869,P2131,"gdp, nominal"
+3870,3870,P2132,nominal gdp per capita
+3871,3871,P2132,gross domestic product per capita
+3872,3872,P2132,gdp (nominal) per capita
+3873,3873,P2132,"gdp per capita, nominal"
+3874,3874,P1411,nominated for
+3875,3875,P1411,nominee for
+3876,3876,P1411,nomination received
+3877,3877,P2453,nominee
+3878,3878,P800,notable work
+3879,3879,P800,literary works
+3880,3880,P800,bibliography
+3881,3881,P800,work
+3882,3882,P800,works
+3883,3883,P800,major works
+3884,3884,P800,famous works
+3885,3885,P800,significant works
+3886,3886,P800,known for
+3887,3887,P913,notation
+3888,3888,P913,symbol
+3889,3889,P1674,number confirmed
+3890,3890,P1606,natural reservoir of
+3891,3891,P2422,number of awards
+3892,3892,P1603,number of cases
+3893,3893,P1590,number of casualties
+3894,3894,P1590,number of deaths and injuries
+3895,3895,P1590,casualities
+3896,3896,P1100,number of cylinders
+3897,3897,P1120,number of deaths
+3898,3898,P1120,deaths
+3899,3899,P1120,fatalities
+3900,3900,P1120,qty deaths
+3901,3901,P1120,qty fatalities
+3902,3902,P1120,death toll
+3903,3903,P1120,death count
+3904,3904,P1569,number of edges
+3905,3905,P1569,edge
+3906,3906,P1569,edges
+3907,3907,P1301,number of elevators
+3908,3908,P1301,elevators
+3909,3909,P1301,lifts
+3910,3910,P1113,number of episodes
+3911,3911,P1113,episode count
+3912,3912,P1113,series length
+3913,3913,P1113,episodes
+3914,3914,P1658,number of faces
+3915,3915,P2351,number of graves
+3916,3916,P1538,number of households
+3917,3917,P1339,number of injured
+3918,3918,P1339,non-fatal injuries
+3919,3919,P1339,injured
+3920,3920,P1339,wounded
+3921,3921,P1339,injury toll
+3922,3922,P1339,injuries
+3923,3923,P1339,number injured
+3924,3924,P1099,number of masts
+3925,3925,P1350,number of matches played
+3926,3926,P1350,matches played
+3927,3927,P1350,caps
+3928,3928,P1350,appearances
+3929,3929,P1350,games played
+3930,3930,P1350,games pitched
+3931,3931,P1350,gp
+3932,3932,P1350,races
+3933,3933,P1350,starts
+3934,3934,P1446,number of missing
+3935,3935,P1446,people missing
+3936,3936,P1446,number of missing people
+3937,3937,P1446,number missing
+3938,3938,P1446,missing
+3939,3939,P2573,number of out of school children
+3940,3940,P1104,number of pages
+3941,3941,P1104,page count
+3942,3942,P1104,pages
+3943,3943,P1132,number of participants
+3944,3944,P1132,participant count
+3945,3945,P1132,participants
+3946,3946,P1132,qty participants
+3947,3947,P1103,number of platform tracks
+3948,3948,P1103,platforms
+3949,3949,P1103,railway station platforms
+3950,3950,P1103,metro platforms
+3951,3951,P1359,number of points/goals conceded
+3952,3952,P1359,goals against
+3953,3953,P1359,ga
+3954,3954,P1971,number of children
+3955,3955,P1971,children (number)
+3956,3956,P1971,number of children±0
+3957,3957,P1141,number of processor cores
+3958,3958,P1833,number of registered users/contributors
+3959,3959,P1833,number of registered users
+3960,3960,P1833,number of contributors
+3961,3961,P2437,number of seasons
+3962,3962,P2437,seasons
+3963,3963,P1342,number of seats
+3964,3964,P1342,number of seats (members)
+3965,3965,P1342,seats (members)
+3966,3966,P1342,quantity of members
+3967,3967,P1342,membership quantity
+3968,3968,P1410,number of seats of the organization in legislature
+3969,3969,P1314,number of spans
+3970,3970,P1314,spans
+3971,3971,P1314,number of arches of a bridge
+3972,3972,P1098,number of speakers
+3973,3973,P1561,number of survivors
+3974,3974,P1561,survivors
+3975,3975,P1570,number of vertices
+3976,3976,P1345,number of victims made by killer
+3977,3977,P1345,number of victims made by killer
+3978,3978,P1675,number probable
+3979,3979,P1676,number suspected
+3980,3980,P1181,numeric value
+3981,3981,P1181,value
+3982,3982,P543,oath made by
+3983,3983,P1734,oath of office date
+3984,3984,P466,occupant
+3985,3985,P466,occupied by
+3986,3986,P466,tenant
+3987,3987,P466,inhabitant
+3988,3988,P106,occupation
+3989,3989,P106,profession
+3990,3990,P106,job
+3991,3991,P106,work
+3992,3992,P106,career
+3993,3993,P106,employment
+3994,3994,P106,craft
+3995,3995,P541,office contested
+3996,3996,P541,position contested
+3997,3997,P1313,office held by head of government
+3998,3998,P1313,office of head of government
+3999,3999,P1313,position of head of government
+4000,4000,P1313,position held by head of government
+4001,4001,P1313,title of head of government
+4002,4002,P1906,office held by head of state
+4003,4003,P2388,office held by head of the organisation
+4004,4004,P1308,officeholder
+4005,4005,P1308,incumbent
+4006,4006,P1581,official blog
+4007,4007,P1581,blog
+4008,4008,P1581,url blog
+4009,4009,P37,official language
+4010,4010,P37,language official
+4011,4011,P1448,official name
+4012,4012,P1448,name
+4013,4013,P263,official residence
+4014,4014,P2238,official symbol
+4015,4015,P2238,official emblem
+4016,4016,P2238,emblem
+4017,4017,P856,official website
+4018,4018,P856,official site
+4019,4019,P856,homepage
+4020,4020,P856,home page
+4021,4021,P856,official page
+4022,4022,P856,official web site
+4023,4023,P856,official url
+4024,4024,P856,official homepage
+4025,4025,P856,web address
+4026,4026,P856,website (official)
+4027,4027,P856,url (official)
+4028,4028,P542,officially opened by
+4029,4029,P2361,online service
+4030,4030,P2361,internet service provider
+4031,4031,P2361,isp
+4032,4032,P2541,operating area
+4033,4033,P2541,area served
+4034,4034,P2541,area operated
+4035,4035,P2541,area of responsibility
+4036,4036,P2541,area of operations
+4037,4037,P306,operating system
+4038,4038,P306,os
+4039,4039,P1691,operations and procedures key (ops)
+4040,4040,P1691,ops
+4041,4041,P137,operator
+4042,4042,P137,service operator
+4043,4043,P137,facility operator
+4044,4044,P137,operated by
+4045,4045,P137,managed by
+4046,4046,P137,administrator
+4047,4047,P137,item operator
+4048,4048,P137,user
+4049,4049,P461,opposite of
+4050,4050,P461,antonym
+4051,4051,P461,inverse
+4052,4052,P491,orbit diagram
+4053,4053,P1096,orbital eccentricity
+4054,4054,P1096,eccentricity
+4055,4055,P2045,orbital inclination
+4056,4056,P2146,orbital period
+4057,4057,P1418,orbits completed
+4058,4058,P2389,organisation directed from the office
+4059,4059,P2389,organization directed from the office
+4060,4060,P664,organizer
+4061,4061,P885,origin of the watercourse
+4062,4062,P885,river source
+4063,4063,P885,stream source
+4064,4064,P885,source of a stream
+4065,4065,P885,water source
+4066,4066,P885,water origin
+4067,4067,P885,river head
+4068,4068,P885,source of watercourse
+4069,4069,P1403,original combination
+4070,4070,P364,original language of work
+4071,4071,P364,original language
+4072,4072,P364,language of the original work
+4073,4073,P449,original network
+4074,4074,P449,original channel
+4075,4075,P449,channel
+4076,4076,P449,tv channel
+4077,4077,P449,radio network
+4078,4078,P449,network
+4079,4079,P449,television channel
+4080,4080,P449,radio station
+4081,4081,P449,original air channel
+4082,4082,P1353,original spelling
+4083,4083,P684,ortholog
+4084,4084,P568,overlies
+4085,4085,P568,footwall
+4086,4086,P127,owned by
+4087,4087,P127,is owned by
+4088,4088,P127,owner
+4089,4089,P127,belongs to
+4090,4090,P127,shareholder
+4091,4091,P127,stockholder
+4092,4092,P1830,owner of
+4093,4093,P1830,own
+4094,4094,P1830,owns
+4095,4095,P1121,oxidation state
+4096,4096,P1117,pka
+4097,4097,P304,page
+4098,4098,P304,pp.
+4099,4099,P304,p.
+4100,4100,P2488,page at belarus globe website
+4101,4101,P2490,page at ostis belarus wiki
+4102,4102,P2489,page at hram.by
+4103,4103,P2489,webpage at hram.by
+4104,4104,P2487,page at website of belarus geocenter
+4105,4105,P2214,parallax
+4106,4106,P397,parent astronomical body
+4107,4107,P397,parent body
+4108,4108,P397,orbits
+4109,4109,P831,parent club
+4110,4110,P831,parent team
+4111,4111,P831,major league affiliate
+4112,4112,P831,affiliate of
+4113,4113,P749,parent company
+4114,4114,P749,owned by (company or organization)
+4115,4115,P749,parent organization
+4116,4116,P749,subsidiary of
+4117,4117,P171,parent taxon
+4118,4118,P171,taxon parent
+4119,4119,P171,higher taxon
+4120,4120,P1531,parent(s) of this hybrid
+4121,4121,P1123,parity
+4122,4122,P1996,parliament.uk id
+4123,4123,P1996,uk parliament biography
+4124,4124,P361,part of
+4125,4125,P361,meronym of
+4126,4126,P361,section of
+4127,4127,P361,system of
+4128,4128,P361,subsystem of
+4129,4129,P361,subassembly of
+4130,4130,P361,merged into
+4131,4131,P361,contained within
+4132,4132,P361,assembly of
+4133,4133,P361,within a set
+4134,4134,P710,participant
+4135,4135,P710,artist
+4136,4136,P710,artists
+4137,4137,P710,participants
+4138,4138,P710,athlete
+4139,4139,P710,athletes
+4140,4140,P710,attendee
+4141,4141,P710,player
+4142,4142,P710,team
+4143,4143,P710,competitor
+4144,4144,P710,candidate
+4145,4145,P710,party
+4146,4146,P710,event participant
+4147,4147,P710,agent
+4148,4148,P1344,participant of
+4149,4149,P1344,took part
+4150,4150,P1344,took part in
+4151,4151,P1344,participant in
+4152,4152,P1923,participating teams
+4153,4153,P451,partner
+4154,4154,P451,partner
+4155,4155,P451,mistress
+4156,4156,P451,domestic partner
+4157,4157,P451,significant other
+4158,4158,P451,life partner
+4159,4159,P451,girlfriend
+4160,4160,P451,boyfriend
+4161,4161,P451,concubine
+4162,4162,P451,lover
+4163,4163,P451,common-law spouse
+4164,4164,P451,cohabitant
+4165,4165,P210,party chief representative
+4166,4166,P210,party chief
+4167,4167,P210,communist party chief
+4168,4168,P210,party secretary
+4169,4169,P210,communist party secretary
+4170,4170,P1246,patent number
+4171,4171,P1060,pathogen transmission process
+4172,4172,P1060,transmitted by
+4173,4173,P1060,transmission process
+4174,4174,P1962,patron
+4175,4175,P417,patron saint
+4176,4176,P1596,penalty
+4177,4177,P1596,judicial sentence
+4178,4178,P1596,sentence
+4179,4179,P1639,pendant of
+4180,4180,P1639,pendant to
+4181,4181,P879,pennant number
+4182,4182,P879,pendant number
+4183,4183,P879,hull number
+4184,4184,P175,performer
+4185,4185,P175,band
+4186,4186,P175,musician
+4187,4187,P175,music group
+4188,4188,P175,musical artist
+4189,4189,P175,group
+4190,4190,P175,singer
+4191,4191,P2244,periapsis
+4192,4192,P2244,perihelion
+4193,4193,P2285,periapsis date
+4194,4194,P2547,perimeter
+4195,4195,P2547,boundary length
+4196,4196,P2547,circumference
+4197,4197,P2348,period
+4198,4198,P2348,era
+4199,4199,P2348,historic era
+4200,4200,P2348,epoch
+4201,4201,P2415,personal best
+4202,4202,P2415,personal record
+4203,4203,P2415,pr
+4204,4204,P2415,pb
+4205,4205,P1429,pet
+4206,4206,P515,phase of matter
+4207,4207,P873,phase point
+4208,4208,P1329,phone number
+4209,4209,P1329,telephone number
+4210,4210,P1329,phone #
+4211,4211,P1329,fon
+4212,4212,P1329,tel:
+4213,4213,P1244,phone number (url)
+4214,4214,P129,physically interacts with
+4215,4215,P1721,pinyin transliteration
+4216,4216,P1721,pinyin
+4217,4217,P1721,hanyu pinyin
+4218,4218,P1766,place name sign
+4219,4219,P19,place of birth
+4220,4220,P19,birthplace
+4221,4221,P19,born in
+4222,4222,P19,pob
+4223,4223,P19,birth place
+4224,4224,P19,location born
+4225,4225,P19,born at
+4226,4226,P19,birth location
+4227,4227,P19,location of birth
+4228,4228,P119,place of burial
+4229,4229,P119,burial place
+4230,4230,P119,resting place
+4231,4231,P119,place of grave
+4232,4232,P119,buried in
+4233,4233,P119,grave at
+4234,4234,P119,location of burial
+4235,4235,P119,tomb
+4236,4236,P20,place of death
+4237,4237,P20,deathplace
+4238,4238,P20,died in
+4239,4239,P20,death place
+4240,4240,P20,pod
+4241,4241,P20,location of death
+4242,4242,P20,death location
+4243,4243,P1321,place of origin (switzerland)
+4244,4244,P1321,lieu d'origine
+4245,4245,P1321,heimatort
+4246,4246,P1321,bürgerort
+4247,4247,P1321,luogo d'origine
+4248,4248,P291,place of publication
+4249,4249,P291,release region
+4250,4250,P291,publication region
+4251,4251,P291,published in (place)
+4252,4252,P291,publication place
+4253,4253,P931,place served by airport
+4254,4254,P931,serves city
+4255,4255,P931,city served
+4256,4256,P1620,plaintiff
+4257,4257,P1620,claimant
+4258,4258,P1620,pursuer
+4259,4259,P400,platform
+4260,4260,P400,platforms
+4261,4261,P400,computing platform
+4262,4262,P400,game platform
+4263,4263,P741,playing hand
+4264,4264,P2343,playing range image
+4265,4265,P1437,plea
+4266,4266,P1349,ploidy
+4267,4267,P589,point group
+4268,4268,P585,point in time
+4269,4269,P585,date
+4270,4270,P585,as of
+4271,4271,P585,time of event
+4272,4272,P585,at time
+4273,4273,P585,when
+4274,4274,P585,year
+4275,4275,P585,time
+4276,4276,P1358,points for
+4277,4277,P1358,pts
+4278,4278,P1358,championship points
+4279,4279,P1358,league points
+4280,4280,P1351,number of points/goals scored
+4281,4281,P1351,goals for
+4282,4282,P1351,gf
+4283,4283,P1351,goals scored
+4284,4284,P1351,points scored
+4285,4285,P1351,score for
+4286,4286,P1387,political alignment
+4287,4287,P1387,political position
+4288,4288,P1142,political ideology
+4289,4289,P1142,ideology
+4290,4290,P1082,population
+4291,4291,P1082,inhabitants
+4292,4292,P1641,port
+4293,4293,P1641,network port
+4294,4294,P1641,internet port
+4295,4295,P1641,port number
+4296,4296,P1641,tcp port
+4297,4297,P1641,udp port
+4298,4298,P532,port of registry
+4299,4299,P2211,position angle
+4300,4300,P2211,pa
+4301,4301,P2211,angular position
+4302,4302,P39,position held
+4303,4303,P39,political office held
+4304,4304,P39,political seat
+4305,4305,P39,public office
+4306,4306,P39,office held
+4307,4307,P39,position occupied
+4308,4308,P413,position played on team / speciality
+4309,4309,P413,player position
+4310,4310,P413,fielding position
+4311,4311,P413,specialism
+4312,4312,P1779,possible creator
+4313,4313,P1779,creator (possible)
+4314,4314,P281,postal code
+4315,4315,P281,post code
+4316,4316,P281,zip code
+4317,4317,P281,postcode
+4318,4318,P281,zipcode
+4319,4319,P281,zip+4
+4320,4320,P1786,posthumous name
+4321,4321,P926,postsynaptic connection
+4322,4322,P1917,posttranslational modification association with
+4323,4323,P2109,power output
+4324,4324,P2109,rated power
+4325,4325,P516,powerplant
+4326,4326,P516,engine
+4327,4327,P516,power plant
+4328,4328,P516,turbine
+4329,4329,P516,rocket engine
+4330,4330,P516,reactor
+4331,4331,P516,propulsion
+4332,4332,P516,power station
+4333,4333,P516,powerstation
+4334,4334,P861,premiershiprugby.com id
+4335,4335,P1441,present in work
+4336,4336,P1441,from work
+4337,4337,P1441,from narrative
+4338,4338,P1441,featured in work
+4339,4339,P1441,in work
+4340,4340,P1441,in narrative
+4341,4341,P1441,appears in
+4342,4342,P371,presenter
+4343,4343,P371,host
+4344,4344,P371,hostess
+4345,4345,P371,tv presenter
+4346,4346,P371,tv host
+4347,4347,P2077,pressure
+4348,4348,P925,presynaptic connection
+4349,4349,P1193,prevalence
+4350,4350,P2284,price
+4351,4351,P2284,list price
+4352,4352,P2284,published price
+4353,4353,P2284,cost
+4354,4354,P2284,purchase price
+4355,4355,P2284,exchange rate
+4356,4356,P1302,primary destinations
+4357,4357,P872,printed by
+4358,4358,P872,printer
+4359,4359,P2121,prize money
+4360,4360,P162,producer
+4361,4361,P162,record producer
+4362,4362,P162,film producer
+4363,4363,P1056,product
+4364,4364,P1056,material produced
+4365,4365,P1056,produces
+4366,4366,P1056,manufactures
+4367,4367,P1056,makes
+4368,4368,P1389,product certification
+4369,4369,P2364,production code
+4370,4370,P272,production company
+4371,4371,P272,film studio
+4372,4372,P272,studio
+4373,4373,P272,motion picture studio
+4374,4374,P272,movie studio
+4375,4375,P272,production house
+4376,4376,P272,theatre company
+4377,4377,P272,theater company
+4378,4378,P272,theatrical troupe
+4379,4379,P272,ballet company
+4380,4380,P272,broadcasting company
+4381,4381,P2554,production designer
+4382,4382,P2197,production rate
+4383,4383,P2197,production volume
+4384,4384,P2197,rate of production
+4385,4385,P1327,professional or sports partner
+4386,4386,P1327,collaborator
+4387,4387,P803,professorship
+4388,4388,P803,chair
+4389,4389,P803,endowed chair
+4390,4390,P803,named professorship
+4391,4391,P803,endowed professorship
+4392,4392,P803,named chair
+4393,4393,P803,professorship position
+4394,4394,P943,programmer
+4395,4395,P277,programming language
+4396,4396,P443,pronunciation audio
+4397,4397,P2215,proper motion
+4398,4398,P1963,properties for this type
+4399,4399,P2306,property
+4400,4400,P2302,property constraint
+4401,4401,P2302,constraint
+4402,4402,P1107,proportion
+4403,4403,P1592,prosecutor
+4404,4404,P1318,proved by
+4405,4405,P490,provisional designation
+4406,4406,P1363,points/goal scored by
+4407,4407,P1363,points scored by
+4408,4408,P1363,goal scored by
+4409,4409,P1393,proxy
+4410,4410,P832,public holiday
+4411,4411,P832,bank holiday
+4412,4412,P832,legal holiday
+4413,4413,P832,national holiday
+4414,4414,P832,independance day
+4415,4415,P742,pseudonym
+4416,4416,P742,nom-de-plume
+4417,4417,P742,alias
+4418,4418,P742,pen name
+4419,4419,P742,stage name
+4420,4420,P577,publication date
+4421,4421,P577,release date
+4422,4422,P577,date published
+4423,4423,P577,date released
+4424,4424,P577,published
+4425,4425,P577,dop
+4426,4426,P577,year of publication
+4427,4427,P577,initial release
+4428,4428,P577,date of release
+4429,4429,P577,date of publication
+4430,4430,P577,released
+4431,4431,P577,time of publication
+4432,4432,P577,publication
+4433,4433,P1433,published in
+4434,4434,P1433,work
+4435,4435,P123,publisher
+4436,4436,P123,book publisher
+4437,4437,P123,video game publisher
+4438,4438,P123,software publisher
+4439,4439,P123,publishing house
+4440,4440,P2552,quantitative metrical pattern
+4441,4441,P1114,quantity
+4442,4442,P1114,qty
+4443,4443,P1114,total number
+4444,4444,P1114,number of instances
+4445,4445,P416,quantity symbol
+4446,4446,P416,symbol
+4447,4447,P1683,quote
+4448,4448,P1683,quotation
+4449,4449,P1683,excerpt
+4450,4450,P2216,radial velocity
+4451,4451,P415,radio format
+4452,4452,P2120,radius
+4453,4453,P2324,quantity buried
+4454,4454,P2324,number of people buried
+4455,4455,P2324,burials
+4456,4456,P1352,ranking
+4457,4457,P1072,readable file format
+4458,4458,P1072,reads file format
+4459,4459,P1072,file format readable
+4460,4460,P2219,real gross domestic product growth rate
+4461,4461,P2219,real gdp growth rate
+4462,4462,P1194,received signal
+4463,4463,P1000,record held
+4464,4464,P2241,reason for deprecation
+4465,4465,P264,record label
+4466,4466,P264,label
+4467,4467,P483,recorded at
+4468,4468,P483,studio
+4469,4469,P483,recording studio
+4470,4470,P483,recording venue
+4471,4471,P1075,rector
+4472,4472,P2550,recording or performance of
+4473,4473,P1652,referee
+4474,4474,P1652,umpire
+4475,4475,P1090,redshift
+4476,4476,P854,reference url
+4477,4477,P854,website
+4478,4478,P854,url
+4479,4479,P854,uniform resource locator
+4480,4480,P854,webref
+4481,4481,P854,url
+4482,4482,P854,ref
+4483,4483,P1109,refractive index
+4484,4484,P2309,relation
+4485,4485,P128,regulates (molecular biology)
+4486,4486,P1038,relative
+4487,4487,P1038,family
+4488,4488,P1038,family member
+4489,4489,P1944,relief location map
+4490,4490,P2210,relative to
+4491,4491,P2210,from
+4492,4492,P2210,ablativ case
+4493,4493,P140,religion
+4494,4494,P140,faith
+4495,4495,P140,religious affiliation
+4496,4496,P140,denomination
+4497,4497,P140,life stance
+4498,4498,P1635,religious name
+4499,4499,P1635,monastic name
+4500,4500,P611,religious order
+4501,4501,P2568,repealed by
+4502,4502,P756,removed feature
+4503,4503,P1366,replaced by
+4504,4504,P1366,heir
+4505,4505,P1366,next job holder
+4506,4506,P1366,successor
+4507,4507,P1366,after
+4508,4508,P1366,replaced by
+4509,4509,P1366,succeeded by (replaced)
+4510,4510,P694,replaced synonym (for nom. nov.)
+4511,4511,P1365,replaces
+4512,4512,P1365,forefather
+4513,4513,P1365,previous job holder
+4514,4514,P1365,replaced
+4515,4515,P1365,preceded by
+4516,4516,P1365,succeeds
+4517,4517,P1365,after
+4518,4518,P1365,predecessor
+4519,4519,P1875,represented by
+4520,4520,P1875,agent
+4521,4521,P1875,representative
+4522,4522,P1875,manager
+4523,4523,P1875,managing agent
+4524,4524,P1875,rep
+4525,4525,P1268,represents organisation
+4526,4526,P551,residence
+4527,4527,P551,lived in
+4528,4528,P551,resident in
+4529,4529,P2501,results
+4530,4530,P1471,reporting mark
+4531,4531,P444,review score
+4532,4532,P15,road map
+4533,4533,P15,route map
+4534,4534,P15,street map
+4535,4535,P15,road atlas
+4536,4536,P15,highway map
+4537,4537,P813,retrieved
+4538,4538,P813,access date
+4539,4539,P813,date accessed
+4540,4540,P813,accessdate
+4541,4541,P813,retrieved at
+4542,4542,P813,date retrieved
+4543,4543,P813,date of retrieval
+4544,4544,P813,time of retrieval
+4545,4545,P813,accessed
+4546,4546,P1824,road number
+4547,4547,P2147,rotation period
+4548,4548,P636,route of administration
+4549,4549,P1671,route number
+4550,4550,P529,runway
+4551,4551,P529,rwy
+4552,4552,P465,srgb color hex triplet
+4553,4553,P465,colour (hex triplet)
+4554,4554,P465,color hex triplet
+4555,4555,P465,rgb
+4556,4556,P465,srgb
+4557,4557,P465,color triplet
+4558,4558,P1106,sandbox-quantity
+4559,4559,P460,said to be the same as
+4560,4560,P460,same as
+4561,4561,P460,disputed equivalence
+4562,4562,P707,satellite bus
+4563,4563,P1752,scale
+4564,4564,P1752,scale ratio
+4565,4565,P996,scanned file on wikimedia commons
+4566,4566,P996,scan file (commons)
+4567,4567,P996,document file on wikimedia commons
+4568,4568,P996,full text
+4569,4569,P996,sheet music
+4570,4570,P996,full movie
+4571,4571,P521,scheduled service destination
+4572,4572,P1780,school of
+4573,4573,P447,score by
+4574,4574,P447,reviewer
+4575,4575,P447,score issuer
+4576,4576,P447,publication
+4577,4577,P447,scorer
+4578,4578,P1443,score method
+4579,4579,P58,screenwriter
+4580,4580,P58,scriptwriter
+4581,4581,P58,screenplay by
+4582,4582,P58,teleplay by
+4583,4583,P58,writer (of screenplays)
+4584,4584,P418,seal description
+4585,4585,P1406,script directionality
+4586,4586,P1950,second surname in spanish name
+4587,4587,P158,seal image
+4588,4588,P158,emblem
+4589,4589,P958,"section, verse, or paragraph"
+4590,4590,P958,title (of a section)
+4591,4591,P958,entry
+4592,4592,P958,encyclopedia entry
+4593,4593,P958,dictionary entry
+4594,4594,P958,section
+4595,4595,P958,verse
+4596,4596,P958,paragraph
+4597,4597,P1659,see also
+4598,4598,P1659,rdfs:seealso
+4599,4599,P1659,related property
+4600,4600,P2233,semi-major axis
+4601,4601,P1808,senat.fr id
+4602,4602,P807,separated from
+4603,4603,P807,forked from
+4604,4604,P807,schism from
+4605,4605,P807,seceded from
+4606,4606,P179,series
+4607,4607,P1545,series ordinal
+4608,4608,P1545,rank
+4609,4609,P1545,sorting order
+4610,4610,P1545,position in series
+4611,4611,P1545,number
+4612,4612,P1545,order
+4613,4613,P1545,ordinal number
+4614,4614,P1545,series number
+4615,4615,P729,service entry
+4616,4616,P729,introduction
+4617,4617,P729,entered service
+4618,4618,P729,date of service entry
+4619,4619,P729,time of service entry
+4620,4620,P729,launched
+4621,4621,P729,service introduction
+4622,4622,P729,in service
+4623,4623,P730,service retirement
+4624,4624,P730,retirement
+4625,4625,P730,retired
+4626,4626,P730,date of service retirement
+4627,4627,P730,time of service retirement
+4628,4628,P730,out of service
+4629,4629,P2425,service ribbon image
+4630,4630,P2425,medal ribbon image
+4631,4631,P2425,ribbon image
+4632,4632,P2408,set in period
+4633,4633,P2408,era
+4634,4634,P2408,set in era
+4635,4635,P2408,period
+4636,4636,P21,sex or gender
+4637,4637,P21,gender identity
+4638,4638,P21,gender expression
+4639,4639,P21,gender
+4640,4640,P21,biological sex
+4641,4641,P21,man
+4642,4642,P21,woman
+4643,4643,P21,male
+4644,4644,P21,female
+4645,4645,P21,intersex
+4646,4646,P21,sex
+4647,4647,P91,sexual orientation
+4648,4648,P1419,shape
+4649,4649,P47,shares border with
+4650,4650,P47,borders
+4651,4651,P47,bordered by
+4652,4652,P47,adjacent to
+4653,4653,P47,next to
+4654,4654,P423,shooting handedness
+4655,4655,P2093,short author name
+4656,4656,P1813,short name
+4657,4657,P2407,short-term exposure limit
+4658,4658,P1354,shown with features
+4659,4659,P1909,side effect
+4660,4660,P2546,sidekick of
+4661,4661,P1891,signatory
+4662,4662,P1891,signer
+4663,4663,P1891,signed by
+4664,4664,P2598,serial code
+4665,4665,P109,signature
+4666,4666,P109,autograph
+4667,4667,P769,significant drug interaction
+4668,4668,P769,drug interaction
+4669,4669,P793,significant event
+4670,4670,P793,key event
+4671,4671,P793,key incident
+4672,4672,P793,significant incident
+4673,4673,P793,notable event
+4674,4674,P793,notable incident
+4675,4675,P793,event
+4676,4676,P793,major event
+4677,4677,P793,big event
+4678,4678,P9,sister
+4679,4679,P9,has sister
+4680,4680,P9,sibling
+4681,4681,P190,sister city
+4682,4682,P190,twin town
+4683,4683,P190,sister cities
+4684,4684,P190,sister town
+4685,4685,P190,twin cities
+4686,4686,P190,twin towns
+4687,4687,P190,sister towns
+4688,4688,P190,twin city
+4689,4689,P190,partner city
+4690,4690,P190,partner town
+4691,4691,P65,site of astronomical discovery
+4692,4692,P2105,size of team at finish
+4693,4693,P2105,size of team at the end
+4694,4694,P2103,size of team at start
+4695,4695,P1041,sockets supported
+4696,4696,P1041,cpu slot
+4697,4697,P1041,cpu socket
+4698,4698,P408,software engine
+4699,4699,P408,engine of software
+4700,4700,P408,game engine
+4701,4701,P348,software version
+4702,4702,P348,stable version
+4703,4703,P348,unstable version
+4704,4704,P348,version
+4705,4705,P348,latest version
+4706,4706,P2177,solubility
+4707,4707,P1136,solved by
+4708,4708,P2178,solvent
+4709,4709,P2159,solves
+4710,4710,P406,soundtrack album
+4711,4711,P1324,source code repository
+4712,4712,P1324,repository
+4713,4713,P1324,code
+4714,4714,P1324,code repository
+4715,4715,P618,source of energy
+4716,4716,P618,fuel type
+4717,4717,P618,energy source
+4718,4718,P1896,source website for the property
+4719,4719,P1896,wikidata property source
+4720,4720,P1896,source url for the property
+4721,4721,P1480,sourcing circumstances
+4722,4722,P1480,circa
+4723,4723,P1480,about
+4724,4724,P1480,presumably
+4725,4725,P1480,misprint
+4726,4726,P1480,near
+4727,4727,P1480,most likely
+4728,4728,P690,space group
+4729,4729,P564,singles record
+4730,4730,P375,space launch vehicle
+4731,4731,P375,carrier rocket
+4732,4732,P375,launch vehicle
+4733,4733,P1876,spacecraft
+4734,4734,P1876,orbiter
+4735,4735,P1876,spaceship
+4736,4736,P622,spacecraft docking/undocking date
+4737,4737,P622,docking date
+4738,4738,P622,undocking date
+4739,4739,P622,time of spacecraft docking/undocking
+4740,4740,P823,speaker
+4741,4741,P1990,species kept
+4742,4742,P1990,animals housed
+4743,4743,P1990,animals species kept
+4744,4744,P1990,resident animals
+4745,4745,P1990,plant taxon in collection
+4746,4746,P1990,resident animal species
+4747,4747,P1990,species holdings
+4748,4748,P1990,animals at zoo
+4749,4749,P1990,animals in aquarium
+4750,4750,P1990,trees in arboretum
+4751,4751,P1990,plant in herborium
+4752,4752,P1990,plant taxon in botanical garden
+4753,4753,P1990,rose varity in rose garden
+4754,4754,P1990,animals kept
+4755,4755,P1990,captive animals
+4756,4756,P1201,space tug
+4757,4757,P1201,payload deliverer
+4758,4758,P1201,upper stage
+4759,4759,P215,spectral class
+4760,4760,P215,is an object of class
+4761,4761,P215,is a star of class
+4762,4762,P2224,spectral line
+4763,4763,P2052,speed
+4764,4764,P2075,speed of sound
+4765,4765,P2075,sound speed
+4766,4766,P1122,spin quantum number
+4767,4767,P2512,spin-off
+4768,4768,P2512,spin-offs
+4769,4769,P989,spoken text audio
+4770,4770,P859,sponsor
+4771,4771,P859,funded by
+4772,4772,P787,spore print color
+4773,4773,P641,sport
+4774,4774,P641,sports
+4775,4775,P1618,sport number
+4776,4776,P1618,uniform number
+4777,4777,P1618,jersey number
+4778,4778,P1618,shirt number
+4779,4779,P1618,sweater number
+4780,4780,P1618,squad number
+4781,4781,P1618,entry number
+4782,4782,P1618,car number
+4783,4783,P2416,sports discipline competed in
+4784,4784,P2416,sport disciplines competed in
+4785,4785,P2416,sport discipline competed in
+4786,4786,P2416,sport discipline
+4787,4787,P2416,sports discipline
+4788,4788,P2416,sporting event
+4789,4789,P2416,event in sports
+4790,4790,P2416,sports event
+4791,4791,P2416,sports disciplines competed in
+4792,4792,P2417,stage classification
+4793,4793,P2443,stage reached
+4794,4794,P2443,eliminated at
+4795,4795,P2443,round reached
+4796,4796,P2443,point achieved
+4797,4797,P26,spouse
+4798,4798,P26,husband
+4799,4799,P26,wife
+4800,4800,P26,married to
+4801,4801,P26,consort
+4802,4802,P26,partner
+4803,4803,P26,marry
+4804,4804,P580,start time
+4805,4805,P580,from
+4806,4806,P580,starting
+4807,4807,P580,beginning
+4808,4808,P580,began
+4809,4809,P580,from time
+4810,4810,P580,since
+4811,4811,P580,start time
+4812,4812,P580,from date
+4813,4813,P580,start date
+4814,4814,P580,building date
+4815,4815,P580,starttime
+4816,4816,P1462,standards body
+4817,4817,P1462,standards organisation
+4818,4818,P1462,standards setting organization
+4819,4819,P1462,standards setting organisation
+4820,4820,P1462,standards developing organization
+4821,4821,P1462,standards developing organisation
+4822,4822,P248,stated in
+4823,4823,P248,source of claim
+4824,4824,P2384,statement describes
+4825,4825,P1310,statement disputed by
+4826,4826,P1310,disputed by
+4827,4827,P1310,rejected by
+4828,4828,P1310,opposed by
+4829,4829,P296,station code
+4830,4830,P2353,statistical unit
+4831,4831,P2353,unit
+4832,4832,P43,stepfather
+4833,4833,P43,step father
+4834,4834,P43,step-father
+4835,4835,P44,stepmother
+4836,4836,P44,step-mother
+4837,4837,P786,stipe character
+4838,4838,P414,stock exchange
+4839,4839,P2548,strand orientation
+4840,4840,P534,streak color
+4841,4841,P963,streaming media url
+4842,4842,P963,archives
+4843,4843,P1945,street key
+4844,4844,P670,street number
+4845,4845,P2557,stroke
+4846,4846,P631,structural engineer
+4847,4847,P167,structure replaced by
+4848,4848,P167,replaced by (structure)
+4849,4849,P1398,structure replaces
+4850,4850,P1398,replacement building
+4851,4851,P802,student
+4852,4852,P802,students
+4853,4853,P802,teacher of
+4854,4854,P802,pupil
+4855,4855,P802,pupils
+4856,4856,P802,disciple
+4857,4857,P802,disciples
+4858,4858,P1066,student of
+4859,4859,P1066,teacher
+4860,4860,P1066,professor
+4861,4861,P1066,pupil of
+4862,4862,P1066,supervisor
+4863,4863,P1066,academic supervisor
+4864,4864,P1066,disciple of
+4865,4865,P1066,studied under
+4866,4866,P1066,master
+4867,4867,P2196,students count
+4868,4868,P2196,number of students
+4869,4869,P2196,student count
+4870,4870,P2196,count of students
+4871,4871,P2196,enrollment
+4872,4872,P2579,studied by
+4873,4873,P2578,studies
+4874,4874,P1932,stated as
+4875,4875,P1932,originally printed as
+4876,4876,P1932,author statement
+4877,4877,P1932,printed as
+4878,4878,P1932,original wording
+4879,4879,P1629,subject item of this property
+4880,4880,P1629,item
+4881,4881,P1629,represents
+4882,4882,P1629,subject item
+4883,4883,P1629,wikidata property subject item
+4884,4884,P1629,associated item
+4885,4885,P805,subject of
+4886,4886,P805,dedicated item
+4887,4887,P805,article
+4888,4888,P805,artfor
+4889,4889,P2113,sublimation temperature
+4890,4890,P2113,sublimation point
+4891,4891,P1647,subproperty of
+4892,4892,P1647,rdfs:subpropertyof
+4893,4893,P1647,subpropertyof
+4894,4894,P1647,superproperty
+4895,4895,P355,subsidiary
+4896,4896,P355,subsidiary company
+4897,4897,P355,parent company of
+4898,4898,P355,subsidiary entities
+4899,4899,P2098,substitute/deputy/replacement of office/officeholder
+4900,4900,P2098,office of replacement
+4901,4901,P2098,office of deputy
+4902,4902,P2098,office of substitute
+4903,4903,P2098,deputy office
+4904,4904,P2098,replacement office
+4905,4905,P2098,substitute office
+4906,4906,P2414,substrate of
+4907,4907,P1680,subtitle
+4908,4908,P991,successful candidate
+4909,4909,P991,elected person
+4910,4910,P1210,supercharger
+4911,4911,P2563,superhuman feature or ability
+4912,4912,P2563,superpower
+4913,4913,P2376,superpartner of
+4914,4914,P765,surface played on
+4915,4915,P780,symptoms
+4916,4916,P780,signs
+4917,4917,P1956,takeoff and landing capability
+4918,4918,P2430,takeoff roll
+4919,4919,P533,target
+4920,4920,P405,taxon author
+4921,4921,P405,author citation
+4922,4922,P405,described by
+4923,4923,P1843,taxon common name
+4924,4924,P1843,vernacular name
+4925,4925,P1843,common name
+4926,4926,P225,taxon name
+4927,4927,P225,latin name (deprecated)
+4928,4928,P181,taxon range map image
+4929,4929,P181,spread map
+4930,4930,P181,distribution map (taxa)
+4931,4931,P105,taxon rank
+4932,4932,P105,taxonomic rank
+4933,4933,P105,rank
+4934,4934,P105,type of taxon
+4935,4935,P1420,taxon synonym
+4936,4936,P427,taxonomic type
+4937,4937,P427,type species
+4938,4938,P427,type genus
+4939,4939,P2392,teaching method
+4940,4940,P2076,temperature
+4941,4941,P1423,template's main topic
+4942,4942,P1423,infobox's main topic
+4943,4943,P1785,temple name
+4944,4944,P1558,tempo marking
+4945,4945,P524,temporal range end
+4946,4946,P523,temporal range start
+4947,4947,P2097,term length of office
+4948,4948,P2097,term length
+4949,4949,P2097,term of office
+4950,4950,P559,terminus
+4951,4951,P559,endpoint
+4952,4952,P609,terminus location
+4953,4953,P609,destination
+4954,4954,P609,departure point
+4955,4955,P1336,territory claimed by
+4956,4956,P942,theme music
+4957,4957,P942,theme song
+4958,4958,P2068,thermal conductivity
+4959,4959,P2229,thermal design power
+4960,4960,P2229,tdp
+4961,4961,P1672,this taxon is source of
+4962,4962,P249,ticker symbol
+4963,4963,P249,stock code
+4964,4964,P575,time of discovery
+4965,4965,P575,date discovered
+4966,4966,P575,discovery date
+4967,4967,P575,date of discovery
+4968,4968,P1249,time of earliest written record
+4969,4969,P1249,date of first written record
+4970,4970,P1249,first historic record
+4971,4971,P1249,earliest record
+4972,4972,P1249,first recorded in
+4973,4973,P620,time of spacecraft landing
+4974,4974,P620,spacecraft landing time
+4975,4975,P620,spacecraft landing date
+4976,4976,P619,time of spacecraft launch
+4977,4977,P619,date of spacecraft launch
+4978,4978,P619,spacecraft launch date
+4979,4979,P621,time of spacecraft orbit decay
+4980,4980,P621,decay date
+4981,4981,P621,time of spacecraft decay
+4982,4982,P2362,time to altitude
+4983,4983,P2404,time-weighted average exposure limit
+4984,4984,P2404,twael
+4985,4985,P1476,title
+4986,4986,P1476,original title
+4987,4987,P1476,article
+4988,4988,P1706,together with
+4989,4989,P1706,shared with
+4990,4990,P1706,award shared with
+4991,4991,P1706,with
+4992,4992,P826,tonality
+4993,4993,P826,musical key
+4994,4994,P826,key of musical composition
+4995,4995,P78,top-level domain
+4996,4996,P78,tld
+4997,4997,P78,top level domain
+4998,4998,P1151,topic's main wikimedia portal
+4999,4999,P1151,portal
+5000,5000,P910,topic's main category
+5001,5001,P910,main category
+5002,5002,P910,category for this topic
+5003,5003,P1424,topic's main template
+5004,5004,P1424,topic's main infobox
+5005,5005,P1424,infobox for this topic (main)
+5006,5006,P1424,template for this topic (main)
+5007,5007,P545,torch lit by
+5008,5008,P2230,torque
+5009,5009,P2230,moment of force
+5010,5010,P2230,moment
+5011,5011,P2403,total assets
+5012,5012,P2403,assets
+5013,5013,P2133,total debt
+5014,5014,P2133,debt
+5015,5015,P2137,total equity
+5016,5016,P2402,total expenditure
+5017,5017,P2402,spending
+5018,5018,P2402,expenses
+5019,5019,P2402,expense
+5020,5020,P2135,total exports
+5021,5021,P2135,exports
+5022,5022,P2135,export volume
+5023,5023,P2136,total imports
+5024,5024,P2136,imports
+5025,5025,P2136,import volume
+5026,5026,P2138,total liabilities
+5027,5027,P2138,liabilities
+5028,5028,P1092,total produced
+5029,5029,P1092,number produced
+5030,5030,P1092,qty produced
+5031,5031,P1092,qty built
+5032,5032,P1092,qty made
+5033,5033,P1092,number built
+5034,5034,P1092,number made
+5035,5035,P1092,total built
+5036,5036,P1092,total made
+5037,5037,P2134,total reserves
+5038,5038,P2139,total revenue
+5039,5039,P2139,revenue
+5040,5040,P1697,total valid votes
+5041,5041,P1064,track gauge
+5042,5042,P1064,gauge
+5043,5043,P658,tracklist
+5044,5044,P834,train depot
+5045,5045,P834,railway depot
+5046,5046,P834,depot
+5047,5047,P2447,transfermarkt manager id
+5048,5048,P2447,transfermarkt id (manager)
+5049,5049,P2447,transfermarkt id (coach)
+5050,5050,P2447,transfermarkt coach id
+5051,5051,P2446,transfermarkt.com footballer id
+5052,5052,P2446,transfermarkt id (footballer)
+5053,5053,P655,translator
+5054,5054,P655,translated by
+5055,5055,P2440,transliteration
+5056,5056,P1170,transmitted signal
+5057,5057,P1170,transmits
+5058,5058,P1170,signal transmitted
+5059,5059,P974,tributary
+5060,5060,P537,twinning
+5061,5061,P930,type of electrification
+5062,5062,P1039,type of kinship
+5063,5063,P1039,kinship
+5064,5064,P1039,relationship (kinship)
+5065,5065,P522,type of orbit
+5066,5066,P522,orbit
+5067,5067,P881,type of variable star
+5068,5068,P881,variable type
+5069,5069,P1380,uglybridges.com id
+5070,5070,P2571,uncertainty corresponds to
+5071,5071,P1637,undercarriage
+5072,5072,P1637,landing gear
+5073,5073,P1637,aircraft landing gear
+5074,5074,P1637,aircraft undercarriage
+5075,5075,P567,underlies
+5076,5076,P567,hangingwall
+5077,5077,P1198,unemployment rate
+5078,5078,P558,unit symbol
+5079,5079,P2237,units used for this property
+5080,5080,P1656,unveiled by
+5081,5081,P2203,upper flammable limit
+5082,5082,P2203,upper explosive limit
+5083,5083,P2203,uel
+5084,5084,P2203,ufl
+5085,5085,P366,use
+5086,5086,P366,function
+5087,5087,P366,role
+5088,5088,P366,mission
+5089,5089,P366,purpose
+5090,5090,P366,utility
+5091,5091,P1535,used by
+5092,5092,P1535,user
+5093,5093,P2551,used metre
+5094,5094,P2551,metre used
+5095,5095,P2078,user manual link
+5096,5096,P2078,user guide
+5097,5097,P2078,manual link
+5098,5098,P2078,user's guide
+5099,5099,P2283,uses
+5100,5100,P2283,makes use of
+5101,5101,P2283,item used
+5102,5102,P1924,vaccine for
+5103,5103,P1924,target disease
+5104,5104,P1264,valid in period
+5105,5105,P1264,applies to period
+5106,5106,P1264,time period
+5107,5107,P1078,valvetrain configuration
+5108,5108,P2119,vapor pressure
+5109,5109,P2073,vehicle range
+5110,5110,P2073,maximum range
+5111,5111,P2073,operational range
+5112,5112,P2073,range
+5113,5113,P2289,venous drainage
+5114,5114,P2289,vein
+5115,5115,P2289,venous return
+5116,5116,P548,version type
+5117,5117,P289,vessel class
+5118,5118,P289,ship class
+5119,5119,P289,submarine class
+5120,5120,P289,spacecraft class
+5121,5121,P289,class of vessel
+5122,5122,P1887,vice-county
+5123,5123,P1887,watsonian vice-county
+5124,5124,P1887,praeger vice-county
+5125,5125,P1887,vice county
+5126,5126,P1481,vici.org id
+5127,5127,P2522,victory
+5128,5128,P2522,won event
+5129,5129,P10,video
+5130,5130,P10,media
+5131,5131,P2588,village code of indonesia
+5132,5132,P2588,village code for indonesian administrative division
+5133,5133,P1174,visitors per year
+5134,5134,P725,voice actor
+5135,5135,P725,voice dubber
+5136,5136,P725,dubbed by
+5137,5137,P725,vo
+5138,5138,P725,seiyu
+5139,5139,P725,voiced by
+5140,5140,P725,cv
+5141,5141,P412,voice type
+5142,5142,P1903,volcanic explosivity index
+5143,5143,P1903,vei
+5144,5144,P2436,voltage
+5145,5145,P2436,electromotive force
+5146,5146,P2436,potential difference
+5147,5147,P478,volume
+5148,5148,P478,volume of a book
+5149,5149,P2234,volume for quantity
+5150,5150,P2234,volume (geometry)
+5151,5151,P2234,liquid capacity
+5152,5152,P2234,fluid capacity
+5153,5153,P2234,spatial volume
+5154,5154,P2234,quantity as volume
+5155,5155,P2234,tonnage
+5156,5156,P1111,votes received
+5157,5157,P2053,watershed area
+5158,5158,P2053,drainage basin
+5159,5159,P2053,catchment basin
+5160,5160,P553,website account on
+5161,5161,P553,social media account on
+5162,5162,P553,account on
+5163,5163,P554,website username
+5164,5164,P554,username
+5165,5165,P554,social media address
+5166,5166,P554,account name
+5167,5167,P554,handle (website)
+5168,5168,P2049,width
+5169,5169,P2049,breadth
+5170,5170,P2112,wing area
+5171,5171,P1654,wing configuration
+5172,5172,P2050,wingspan
+5173,5173,P1346,winner
+5174,5174,P1346,won by
+5175,5175,P1346,victor
+5176,5176,P1346,champion
+5177,5177,P1346,winners
+5178,5178,P1355,wins
+5179,5179,P1355,won
+5180,5180,P1355,w
+5181,5181,P1355,matches won
+5182,5182,P1355,games won
+5183,5183,P1355,match victories
+5184,5184,P1355,victories
+5185,5185,P1355,sporting wins
+5186,5186,P642,within the scope of
+5187,5187,P642,scope
+5188,5188,P642,in
+5189,5189,P642,of
+5190,5190,P642,in the scope of
+5191,5191,P937,work location
+5192,5192,P937,workplace
+5193,5193,P937,work location
+5194,5194,P937,place of activity
+5195,5195,P937,active in
+5196,5196,P2032,work period (end)
+5197,5197,P2032,years active
+5198,5198,P2032,floruit (end of work)
+5199,5199,P2031,work period (start)
+5200,5200,P2031,years active
+5201,5201,P2031,floruit (start)
+5202,5202,P2031,active
+5203,5203,P1638,working title
+5204,5204,P1638,production title
+5205,5205,P1774,workshop of
+5206,5206,P1774,studio of
+5207,5207,P2020,worldfootball.net id
+5208,5208,P1073,writable file format
+5209,5209,P1073,writes file format
+5210,5210,P1073,file format written
+5211,5211,P282,writing system
+5212,5212,P282,alphabet
+5213,5213,P282,script
+5214,5214,P617,yard number
+5215,5215,P677,úsop code
+5216,5216,P2529,čsfd film id
+5217,5217,P2529,čsfd film id
+5218,5218,P2529,čsfd film identifier
+5219,5219,P2529,csfd film id
+5220,5220,P2529,csfd film identifier
+5221,5221,P279,subclass of
+5222,5222,P279,rdfs:subclassof
+5223,5223,P279,hyponym of
+5224,5224,P279,type of
+5225,5225,P279,is a type of
+5226,5226,P279,variety of
+5227,5227,P279,kind of

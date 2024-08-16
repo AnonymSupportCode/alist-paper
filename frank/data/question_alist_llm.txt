@@ -1,0 +1,44 @@
+Write the compound question below as a set of non-nested assertions.
+For example:
+Q: Who is the screenwriter of Mr. Bean.
+A: X is the screenwriter of Mr. Bean.
+
+Q: Billie Jean was on the track list of which album?
+A: Billie Jean was on X. X is an album.
+
+Q: What is the population of the country with the highest GDP in Europe?
+A: Country X has the highest GDP in Europe. Population of X is Y.
+
+Q: Give me all the rock bands that start with letter R
+A: X is a rock band. X starts with the letter R.
+
+Q: What is the name of the sister city tied to Kansas City, which is located in the county of Seville Province?
+A: X is the sister city of Kansas City. A is located in  the county of Seville Province.
+
+Q: What is the venue of Barak Obama’s marriage?
+A: Location of Barack Obama's marriage is X.
+
+Q: Who is the wife of Barak Obama and where did he get married?
+A: Barak Obama's wife is X. Barak Obama got married at location X.
+
+Q: Did Breaking Bad have 5 seasons?
+A: Breaking Bad has X seasions. X is equal to 5.
+
+Q: What is the number of siblings of Edward III of England?
+A: Number of siblings of Edward III of England is X.
+
+Q: With whom did Barak Obama get married in 1992?
+A: Barak Obama got married to X in 1992.
+
+Q: What is the binary star which has the highest colour index?
+A: X is a binary start. Y is the color index of X. Rank of Y is 1.
+
+
+
+
+
+Q: Who is the president of the football team with the highest annual revenue?
+
+Q: Which cola starts with the letter p
+
+Q: What is the name of the sister city tied to Kansas City, which is located in the county of Seville Province?

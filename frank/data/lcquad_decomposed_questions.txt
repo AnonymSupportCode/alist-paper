@@ -1,0 +1,322 @@
+
+1:
+Q: What periodical literature does Delta Air Lines use as a moutpiece?
+A: A: Delta Air Lines uses X as a mouthpiece. X is a periodical literature.
+2:
+Q: Who is the child of Ranavalona I's husband?
+A: Ranavalona I's husband is X. X has a child Y.
+3:
+Q: Is it true Jeff_Bridges occupation Lane Chandler and photographer ?
+A: A: Jeff Bridges' occupation is X. Lane Chandler's occupation is Y. X is equal to photographer. X is not equal to Y.
+4:
+Q: What is the pre-requisite of phase matter of Galinstan?
+A: A: Phase matter of Galinstan has a prerequisite. The pre-requisite is X.
+5:
+Q: Which is the operating income for Qantas?
+A: A: The operating income for Qantas is X.
+6:
+Q: which cola starts with the letter p
+A: A: X is a cola. X starts with the letter P.
+7:
+Q: Is the right ascension of malin 1 less than 15.1398?
+A: A: Right ascension of Malin 1 is X. X is less than 15.1398.
+8:
+Q: What is the complete list of records released by Jerry Lee Lewis?
+A: A: X is a record released by Jerry Lee Lewis. X is part of the complete list.
+9:
+Q: What's Mary Lou Retton's International Olympic Committee athlete ID.
+A: A: Mary Lou Retton is an athlete. The International Olympic Committee athlete ID of Mary Lou Retton is X.
+10:
+Q: Who won the prize at the sequel of the 1885 Wimbledon Championships- Gentlemen's Singles?
+A: X won the prize at the sequel of the Wimbledon Championships - Gentlemen's Singles in 1885.
+11:
+Q: Is it true that the carbon footprint of the iPhone X Max is 106?
+A: A: The carbon footprint of the iPhone X Max is X. X is equal to 106.
+12:
+Q: Tell me the female beauty pageant that operates in all countries and contains the word model in it's name?
+A: A: X is a female beauty pageant. X operates in all countries. X contains the word "model" in its name.
+13:
+Q: Did Lindsey Vonn participate in the FIS Alpine World Ski Championships in 1999 and 2019?
+A: Lindsey Vonn participated in the FIS Alpine World Ski Championships in 1999. Lindsey Vonn participated in the FIS Alpine World Ski Championships in 2019.
+14:
+Q: When position did Angela Merkel hold on November 10, 1994?
+A: A: Angela Merkel held position X on November 10, 1994.
+15:
+Q: On 0-0-2007, what is the populaton of Spokane?
+A: A: Date is 0-0-2007. Population of Spokane on date is X.
+16:
+Q: What essential medicine is needed to treat leprosy?
+A: A: X is an essential medicine. X is needed to treat leprosy.
+17:
+Q: Which is HanCinema person ID for Zhang Ziyi?
+A: A: Zhang Ziyi has a HanCinema person ID. The HanCinema person ID for Zhang Ziyi is X.
+18:
+Q: Did Judi Densch receive a Tony Award for best direction of the play Premium Imperiale?
+A: Judi Dench received a Tony Award for best direction of the play Premium Imperiale. The statement is true or false.
+19:
+Q: What is the boiling point of pressure copper as 4703.0?
+A: A: Pressure of X is 4703.0. Boiling point of X is Y. X is copper.
+20:
+Q: After what is Marathon named and what is the current record?
+A: A: Marathon is named after X. The current record for Marathon is Y.
+21:
+Q: Who Sleepwalking succeeded in playing Sleepwalking?
+A: A: X succeeded in playing Sleepwalking. Sleepwalking is Y.
+22:
+Q: What did Clifton Chenier get nominated for in 1983-0-0?
+A: Clifton Chenier got nominated for X in 1983-0-0.
+23:
+Q: Which is the wear for Ambrose Burnside?
+A: A: X is the wear for Ambrose Burnside.
+24:
+Q: Which Class IB flammable liquid has the least lower flammable limit?
+A: A: X is a Class IB flammable liquid. Y is the lower flammable limit of X. Rank of Y is 1.
+25:
+Q: What is the material used and approved by Mojito?
+A: A: X is the material used by Mojito. X is the material approved by Mojito.
+26:
+Q: Could you summarize Korea's history of this topic?
+A: A: Korea has a history of topic X. X relates to Korea's history.
+27:
+Q: "Which is {landscape of} of {Virgin of the rocks}, which has {birth city} is {Tzippori} ?"
+A: A: X is the landscape of Virgin of the Rocks. Y is the birth city. Tzippori is Y.
+28:
+Q: Is Kevin Costner owner of Fielders Stadium?
+A: A: Kevin Costner is the owner of Fielders Stadium.
+29:
+Q: Which is the YouTube channel ID for Miley Cyrus?
+A: A: Miley Cyrus has a YouTube channel. The ID of Miley Cyrus's YouTube channel is X.
+30:
+Q: What is a skill that starts with the letter s.
+A: A: X is a skill. X starts with the letter S.
+31:
+Q: How many dimensions have a Captain America?
+A: A: Captain America has X dimensions.
+32:
+Q: What award did Danila Kozlovsky receive in 2017?
+A: A: Danila Kozlovsky received X in 2017. X is an award.
+33:
+Q: Who is the student that coined the Euler-Lagrange equation?
+A: A: X coined the Euler-Lagrange equation. X is a student.
+34:
+Q: Which website does Twitch own?
+A: A: Twitch owns X. X is a website.
+35:
+Q: Is the minimal lethal dose of the benzene equal to 170000?
+A: A: The minimal lethal dose of benzene is X. X is equal to 170000.
+36:
+Q: Who is the person that was a student of Ivan Pavlov?
+A: A: X was a student of Ivan Pavlov. X is a person.
+37:
+Q: is the clock speed of the Watara Supervision smaller than 3.2?
+A: A: The clock speed of the Watara Supervision is X. X is smaller than 3.2.
+38:
+Q: What country is the current leader of the African Union ?
+A: A: X is the current leader of the African Union. X is a country.
+39:
+Q: Who works for the accused Mariposa Folk Festival 1974?
+A: X works for the accused. The accused is Mariposa Folk Festival 1974.
+40:
+Q: n/a
+A: It seems you haven't provided a specific question for me to convert into non-nested assertions. Could you please provide the compound question that you would like me to reframe?
+41:
+Q: What sister city was born in of Zakhar Oskotsky?
+A: Zakhar Oskotsky was born in city X. City X is a sister city.
+42:
+Q: Tell me the name of a fantastique genre that starts with the letter s.
+A: A: X is a fantastique genre. X starts with the letter S.
+43:
+Q: What is the medal Angela Lansbury recieved?
+A: A: Angela Lansbury received X. X is a medal.
+44:
+Q: What is the musical score by Missa Solemnis that has mother Maria Magdalena van Beethoven?
+A: A: Missa Solemnis is a musical score. Maria Magdalena van Beethoven is the mother.
+45:
+Q: When did Robert De Niro reside in Marbletown?
+A: A: Robert De Niro resided in Marbletown during time period X.
+46:
+Q: Tell me organization whose name has the word  zollkriminalamt  in it.
+A: A: X is an organization. The name X contains the word "zollkriminalamt."
+47:
+Q: Which member state of the International Centre for Settlement of Investment Disputes has the maximum inflation rate?
+A: A: Country X is a member state of the International Centre for Settlement of Investment Disputes. Inflation rate of X is Y. Y is the maximum inflation rate among all member states of the International Centre for Settlement of Investment Disputes.
+48:
+Q: Was Brittany Murphy a citizen of the USA?
+A: A: Brittany Murphy was a citizen of country X. X is equal to the USA.
+49:
+Q: Who is the partner and the spouse of Hank Azaria?
+A: A: X is the partner of Hank Azaria. Y is the spouse of Hank Azaria.
+50:
+Q: Does St. Peters Junior School maximum age equal to 11?
+A: A: The maximum age at St. Peters Junior School is X. X is equal to 11.
+51:
+Q: Which country has highest individual tax rate?
+A: A: Country X has the highest individual tax rate.
+52:
+Q: When did James Thomas Farrell receive the St. Louis Literary Award?
+A: A: James Thomas Farrell received the St. Louis Literary Award in X.
+53:
+Q: When was Pablo Picasso's partnership with Fernade Oliver over?
+A: A: Pablo Picasso had a partnership with Fernande Olivier. This partnership ended in year X.
+54:
+Q: What is the product with the lowest consumption rate per capita whose has part is paraffin wax?
+A: A: X is a product. Consumption rate per capita of X is Y. Y is the lowest. X has part paraffin wax.
+55:
+Q: What are the coordinates for the geographic center of Michigan, as determined by the center of gravity of the surface?
+A: The coordinates for the geographic center of Michigan, as determined by the center of gravity of the surface, are X.
+56:
+Q: Is the life expectancy of Indonesia 55.3528?
+A: A: Life expectancy of Indonesia is X. X is equal to 55.3528.
+57:
+Q: When did Emmerson Mnangagwa begin going to the University of Zambia?
+A: A: Emmerson Mnangagwa began attending the University of Zambia in year X.
+58:
+Q: What kind of career does Grigori Kozintsev have in the screenwriting field?
+A: A: Grigori Kozintsev has a career in the screenwriting field.
+59:
+Q: what is hypothetical protein ecia139-4120 habitat of found in species?
+A: A: X is a hypothetical protein. X is named ecia139-4120. Species Y contains X. Habitat of species Y is Z.
+60:
+Q: What sovereign state replaced the Kingdom of Great Britain?
+A: A: The Kingdom of Great Britain was replaced by X. X is a sovereign state.
+61:
+Q: Of the century breaks of the Colm Gilcreest equal less than 9.6?
+A: A: Colm Gilcreest has X century breaks. X is less than 9.6.
+62:
+Q: In which country the Golden Horde used to live ?
+A: A: The Golden Horde used to live in X. X is a country.
+63:
+Q: Located in the Central District, what is the county seat whose twin cities include Feodosiya?
+A: A: X is located in the Central District. X is the county seat. Feodosiya is a twin city of X.
+64:
+Q: When did Nicaragua count a population of 3.87732e+06 inhabitants?
+A: A: Nicaragua had a population of 3,877,320 inhabitants in year X.
+65:
+Q: What does emigration mean?
+A: A: Emigration means X. X is the act of leaving one's own country to settle permanently in another.
+66:
+Q: Which is the meta-organization that is regulated by the football association?
+A: A: X is regulated by the football association. X is a meta-organization.
+67:
+Q: When was the spouse divorced Nero in 9-6-68
+A: Nero had a spouse. Nero and the spouse got divorced on 9-6-68.
+68:
+Q: n/a
+A: It looks like your question format is incomplete. Could you please provide the full compound question so that I can help break it down into a set of non-nested assertions?
+69:
+Q: Former champion Francisco Alarcon gave what award to Art Spiegelaman?
+A: A: Francisco Alarcon is a former champion. Former champion Francisco Alarcon gave an award to Art Spiegelman.
+70:
+Q: Are there more than 0 survivors of the Charkhi Dadri mid-air collision
+A: Number of survivors of the Charkhi Dadri mid-air collision is X. X is greater than 0.
+71:
+Q: When did Secretariat receive the Triple Crown Trophy?
+A: A: Secretariat received the Triple Crown Trophy in X year.
+72:
+Q: Which borders of borders of Riverside have a start date of 1984-0-0?
+A: A: X borders Riverside. Y borders X. Start date of Y is 1984-0-0.
+73:
+Q: Which is the facility of the defensive wall?
+A: The facility of the defensive wall is X.
+74:
+Q: What is  in the IHO Hydrographic Dictionary (S-32) Number of lighthouse ?
+A: A: X is the IHO Hydrographic Dictionary (S-32) Number of lighthouse.
+75:
+Q: Which is the fictional analog of Hippocampus?
+A: A: X is the fictional analog of the Hippocampus.
+76:
+Q: What is a cause of death that begins with the letter "p" and can be found on a CT scan?
+A: A: X is a cause of death. X begins with the letter "p." X can be found on a CT scan.
+77:
+Q: What is established by Archbishop of Canterbury, who is a male?
+A: A: The Archbishop of Canterbury is a male. The Archbishop of Canterbury established X.
+78:
+Q: In what area is Fernandel buried at the Passy Cemetery?
+A: A: Fernandel is buried at the Passy Cemetery. The area where Fernandel is buried is X.
+79:
+Q: Name the naval artillery wirh the smallest firing range?
+A: A: X is a naval artillery. Firing range of X is Y. Rank of Y by smallest is 1.
+80:
+Q: What is the name of a Cayenne Pepper that also has dates?
+A: A: X is a Cayenne Pepper. X also has dates.
+81:
+Q: Is the throughput of the Vest-vassdraget equal to 2697.672?
+A: A: The throughput of Vest-vassdraget is X. X is equal to 2697.672.
+82:
+Q: What method did the census use to determine the population of Taguig?
+A: A: The census used method X to determine the population of Taguig.
+83:
+Q: What award did Olga Tokarczuk receive in 2015?
+A: A: Olga Tokarczuk received X in 2015. X is an award.
+84:
+Q: What is Porky Pig in right now?
+A: A: Porky Pig is in X right now.
+85:
+Q: When did publisher of Pac-Man and place of publication?
+A: A: X is the publisher of Pac-Man. X published Pac-Man in year Y.
+86:
+Q: Was Aleister Crowley educated at Trinity College and Eton College?
+A: A: Aleister Crowley was educated at Trinity College. Aleister Crowley was educated at Eton College.
+87:
+Q: What is {located next to Quincy,} in the {novel, Infinite Jest}?
+A: A: X is located next to Quincy. X is in the novel, Infinite Jest.
+88:
+Q: Who awarded Eric Hobsbawm an honorary doctorate?
+A: A: X awarded Eric Hobsbawm an honorary doctorate.
+89:
+Q: What was the last team Allan Border belonged to in the year 1980?
+A: A: Allan Border belonged to team X in the year 1980. X was the last team he belonged to in that year.
+90:
+Q: Give me a film character from a fictional universe, such as Marvel comics that starts with a W.
+A: A: Character X is from a fictional universe. The fictional universe of X is Marvel comics. X starts with the letter W.
+91:
+Q: Mention the fictional universe described or included in The Matrix.
+A: The Matrix describes fictional universe X. X is included in The Matrix.
+92:
+Q: What is {award received} of {Hans Krebs} where {point in time} is {1966-0-0} ?
+A: A: Hans Krebs received X award. The point in time when Hans Krebs received X award is 1966-0-0.
+93:
+Q: Which record label signed Janet Jackson?
+A: A: Record label X signed Janet Jackson.
+94:
+Q: What is Tanzania's total reserves?
+A: A: Total reserves of Tanzania is X.
+95:
+Q: Does the slope rating of the Merion Golf Club equal 149
+A: The slope rating of the Merion Golf Club is X. X is equal to 149.
+96:
+Q: What is the density of hydrogen peroxide at a temperature of 20.0?
+A: A: Hydrogen peroxide has a density of X at a temperature of 20.0 degrees.
+97:
+Q: who architecture firm of home field of new york centaurs?
+A: A: X is an architecture firm. X designed the home field of the New York Centaurs.
+98:
+Q: Which { meansseason starts} in {February} ?
+A: A: Season X starts in February.
+99:
+Q: Who is {champ} of {prize awarded} {Lily Tomlin} ?
+A: A: Champ of prize awarded Lily Tomlin is X.
+100:
+Q: What is the ammunition of the weapon, that has been used in the war in Southeast Asia?
+A: A: Weapon X has been used in the war in Southeast Asia. Ammunition used by weapon X is Y.
+101:
+Q: Tell me every horse breed whose name starts with the letter z
+A: A: X is a horse breed. X starts with the letter Z.
+102:
+Q: The University of Florida is a member of which coalition?
+A: A: The University of Florida is a member of X. X is a coalition.
+103:
+Q: Who is the brother in law of the writer Quran?
+A: A: X is the writer of the Quran. Y is the brother-in-law of X.
+104:
+Q: What is the New Zealand Gazetteer place id for Auckland?
+A: Auckland has the New Zealand Gazetteer place id X.
+105:
+Q: What does the painting Grade Odalisque represent which has DRTL backwards?
+A: A: Grade Odalisque is a painting. Grade Odalisque represents X. Grade Odalisque has DRTL backwards.
+106:
+Q: Name an empire that contains the word "british" in its name
+A: A: X is an empire. X contains the word "British" in its name.
+107:
+Q: What is the instance of Antonio da Correggio whose date of birth is 1489-8-1?
+A: A: Antonio da Correggio was born on 1489-08-01. X is an instance of Antonio da Correggio.
